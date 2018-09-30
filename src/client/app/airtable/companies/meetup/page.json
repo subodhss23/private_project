@@ -1,0 +1,86 @@
+{
+  "name": "Meetup",
+  "top_app": false,
+  "delete": "https://secure.meetup.com/account/remove/",
+  "support": [
+    {
+      "link": "https://help.meetup.com/hc/en-us",
+      "text": "Help Center"
+    },
+    {
+      "email": "support@meetup.com"
+    },
+    {
+      "phone": "(212) 255-7327"
+    }
+  ],
+  "logo": "meetup/download.jpg",
+  "instructions": [
+    {
+      "header": "Delete Account",
+      "title": "How To Delete Your Meetup Account",
+      "id": "delete-account",
+      "link": "meetup/delete-account",
+      "before": "Meetup uses the word Deactivation instead of Deletion, but it is essentially the same thing. Please note, it’s currently only possible to Delete your Meetup account from the desktop web version of Meetup. Plus, you cannot Delete your account from within the mobile app. Follow the steps below to Delete your account.  ",
+      "qnAnswers": [
+        {
+          "question": "What happens when I delete my Meetup Account?",
+          "answer": "Once your Meetup account is deactivated, it cannot be reinstated. So if you decide you want to come back to Meetup in the future, you’ll need to create a new account at that time.  Once your Meetup account is deactivated, you will no longer receive email or notifications from Meetup and your profile will no longer be visible or accessible. ",
+          "createdAt": "August 12th 2018"
+        },
+        {
+          "question": "Can I delete my Meetup Account if I signed up from a third party service like google or facebook?",
+          "answer": "If you created your Meetup account through Google or Facebook, you will need to create a Meetup password before you can deactivate your account. To do so, click on the 'Forgot your password prompts on the login page.  To be directed to the forgot password link [please click here] (https://www.meetup.com/account/forgot/).",
+          "createdAt": "August 12th 2018"
+        },
+        {
+          "question": "How do I cancel my Organizer Subscription?",
+          "answer": "Go to your [Organizer Subscription homepage](https://www.meetup.com/account/subscription/). Then Click Cancel Subscription.  Since Organizer Subscriptions automatically renew please remember to cancel subscription prior to deletion. ",
+          "createdAt": "August 12th 2018"
+        }
+      ],
+      "website": {
+        "steps": [
+          "Login to your [Meetup Account] (https://www.meetup.com/). If you are already logged in, doing so will open your Meetup Homepage. ",
+          "Click the Profile Icon on Top Right",
+          "Click Settings",
+          "Scroll down and Click Deactivate your Account",
+          "Verify Password and Click Submit",
+          "This is the Confirmation Message you will receive once your account has been deleted"
+        ],
+        "slides": [
+          {
+            "alt": "Meetup-Delete Account from Website. Step 1: Login to your [Meetup Account] (https://www.meetup.com/). If you are already logged in, doing so will open your Meetup Homepage. ",
+            "title": "Login",
+            "url": "meetup/slides/543_1Signin.jpg"
+          },
+          {
+            "alt": "Meetup-Delete Account from Website. Step 2: Click the Profile Icon on Top Right",
+            "title": "Profile Icone",
+            "url": "meetup/slides/544_2ProfileIcon.jpg"
+          },
+          {
+            "alt": "Meetup-Delete Account from Website. Step 3: Click Settings",
+            "title": "Settings",
+            "url": "meetup/slides/545_3Settings.jpg"
+          },
+          {
+            "alt": "Meetup-Delete Account from Website. Step 4: Scroll down and Click Deactivate your Account",
+            "title": "Deactivate Your Account",
+            "url": "meetup/slides/546_4Deactivateyouraccount.jpg"
+          },
+          {
+            "alt": "Meetup-Delete Account from Website. Step 5: Verify Password and Click Submit",
+            "title": "Verify Password and Submit",
+            "url": "meetup/slides/547_5Submit.jpg"
+          },
+          {
+            "alt": "Meetup-Delete Account from Website. Step 6: This is the Confirmation Message you will receive once your account has been deleted",
+            "title": "Deletion Message",
+            "url": "meetup/slides/548_6Youracounthasbeendeactivated.jpg"
+          }
+        ]
+      }
+    }
+  ]
+}

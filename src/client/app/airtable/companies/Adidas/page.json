@@ -1,0 +1,165 @@
+{
+  "name": "Adidas",
+  "top_app": true,
+  "breaches": 150,
+  "delete": "https://www.adidas.com/us/myaccount-profile",
+  "support": [
+    {
+      "link": "https://www.adidas.com/us/help ",
+      "text": "Help Center"
+    },
+    {
+      "link": "https://e-com.secure.force.com/adidasUSContact/ContactUs?country=US&brand=adidas&language=en_GB",
+      "text": "Contact"
+    },
+    {
+      "email": "care@adidas.com"
+    },
+    {
+      "phone": "1-800-982-9337"
+    }
+  ],
+  "logo": "adidas/logo.jpg",
+  "instructions": [
+    {
+      "header": "Delete Account",
+      "title": "How To Delete Your Adidas Account From Its Website",
+      "id": "delete-account",
+      "link": "adidas/delete-account",
+      "before": "Currently there are two methods to delete your account from Adidas.  You can delete your account by Website or Delete your account by Sending Mail to adidas and requesting account deletion. ",
+      "after": "Once this process is complete, you will be directed to the account registration page and receive an email confirming that your account has been deleted.",
+      "action": {
+        "text": "Delete",
+        "link": "https://www.adidas.com/us/myaccount-profile"
+      },
+      "qnAnswers": [
+        {
+          "question": "What actually gets deleted when I delete my Account?",
+          "answer": "Deleting your account will remove all your account data including your personal details from the database. Plus, you will no longer receive any email communication from adidas.",
+          "createdAt": "July 29th 2018"
+        },
+        {
+          "question": "If I just want to stop receiving email notification do I have to delete my entire Adidas Account?",
+          "answer": "No. To stop the emails and the push notification on your mobile device just adjust your account settings.  You do not need to delete your entire account. ",
+          "createdAt": "July 29th 2018"
+        },
+        {
+          "question": "What do I do if I sign onto Adidas using a third party account?",
+          "answer": "If you logged into Adidas using Facebook, Yahoo, or Google, you need to disconnect the account from those platforms and then follow the Deletion protocol through adidas.   ",
+          "createdAt": "July 29th 2018"
+        }
+      ],
+      "thingsToRemember": [
+        "Deleting your account will remove all your account data including your personal details from the database. You will no longer receive any email communication from adidas.",
+        "If you just want to stop the emails and the push notification on your mobile device you can do so without deleting your account by adjusting your settings. \n",
+        "It’s important to note that if you logged into Adidas using Facebook, Yahoo, or Google, you need to disconnect the account from those platforms and then follow the Deletion protocol through adidas.   "
+      ],
+      "website": {
+        "steps": [
+          "[Go to the Adidas Website](https://www.adidas.com). If you're already logged in, doing so will open your Adidas home page",
+          "Click Personal Information",
+          "Click Delete Your Account ",
+          "Click Delete Your Account again to Confirm Deletion"
+        ],
+        "slides": [
+          {
+            "alt": "Adidas-Delete Account from Website. Step 1: [Go to the Adidas Website](https://www.adidas.com). If you're already logged in, doing so will open your Adidas home page",
+            "title": "Login",
+            "url": "adidas/slides/1AdidasSiteDelete.png"
+          },
+          {
+            "alt": "Adidas-Delete Account from Website. Step 2: Click Personal Information",
+            "title": "Personal Information",
+            "url": "adidas/slides/2AdidasSiteDelete.png"
+          },
+          {
+            "alt": "Adidas-Delete Account from Website. Step 3: Click Delete Your Account ",
+            "title": "Delete Your Account",
+            "url": "adidas/slides/3AdidasSiteDelete.png"
+          },
+          {
+            "alt": "Adidas-Delete Account from Website. Step 4: Click Delete Your Account again to Confirm Deletion",
+            "title": "Confirm Deletion",
+            "url": "adidas/slides/4AdidasSiteDelete.png"
+          }
+        ]
+      }
+    },
+    {
+      "header": "Contact Us Deletion",
+      "title": "How To Delete Adidas Account By Contacting Them via Email",
+      "id": "contact-us-deletion",
+      "link": "adidas/contact-us-deletion",
+      "before": "Currently there are two methods to delete your account from Adidas.  You can delete your account by Website or Delete your account by Sending Mail to adidas and requesting account deletion. ",
+      "after": "Once this process is complete, you will be directed to the account registration page and receive an email confirming that your account has been deleted.",
+      "action": {
+        "text": "Contact",
+        "link": "https://e-com.secure.force.com/adidasUSContact/ContactUs?country=US&brand=adidas&language=en_GB"
+      },
+      "thingsToRemember": [
+        "Deleting your account will remove all your account data including your personal details from the database. You will no longer receive any email communication from adidas.",
+        "If you just want to stop the emails and the push notification on your mobile device you can do so without deleting your account by adjusting your settings. ",
+        "Deleting your account will remove all your account data including your personal details from the database. You will no longer receive any email communication from adidas."
+      ],
+      "qnAnswers": [
+        {
+          "question": "What actually gets deleted when I delete my Account?",
+          "answer": "Deleting your account will remove all your account data including your personal details from the database. Plus, you will no longer receive any email communication from adidas.",
+          "createdAt": "July 29th 2018"
+        },
+        {
+          "question": "If I just want to stop receiving email notification do I have to delete my entire Adidas Account?",
+          "answer": "No. To stop the emails and the push notification on your mobile device just adjust your account settings.  You do not need to delete your entire account. ",
+          "createdAt": "July 29th 2018"
+        },
+        {
+          "question": "What do I do if I sign onto Adidas using a third party account?",
+          "answer": "If you logged into Adidas using Facebook, Yahoo, or Google, you need to disconnect the account from those platforms and then follow the Deletion protocol through adidas.   ",
+          "createdAt": "July 29th 2018"
+        }
+      ],
+      "website": {
+        "steps": [
+          "[Go to the Adidas Website](https://www.adidas.com). If you're already logged in, doing so will open your Adidas home page",
+          "Click Help",
+          "Click Company Information under Support topics",
+          "Click How do I Contact Adidas",
+          "Click Send Us an Email",
+          "Fill out the Form requesting Account Deletion and Click Send"
+        ],
+        "slides": [
+          {
+            "alt": "Adidas-Contact Us Deletion from Website. Step 1: [Go to the Adidas Website](https://www.adidas.com). If you're already logged in, doing so will open your Adidas home page",
+            "title": "Login",
+            "url": "adidas/slides/1AdidasSiteDeleteB.png"
+          },
+          {
+            "alt": "Adidas-Contact Us Deletion from Website. Step 2: Click Help",
+            "title": "Help",
+            "url": "adidas/slides/2AdidasSiteDeleteB.png"
+          },
+          {
+            "alt": "Adidas-Contact Us Deletion from Website. Step 3: Click Company Information under Support topics",
+            "title": "Company Information",
+            "url": "adidas/slides/3AdidasSiteDeleteB.png"
+          },
+          {
+            "alt": "Adidas-Contact Us Deletion from Website. Step 4: Click How do I Contact Adidas",
+            "title": "How do I Contact Adidas",
+            "url": "adidas/slides/4AdidasSiteDeleteB.png"
+          },
+          {
+            "alt": "Adidas-Contact Us Deletion from Website. Step 5: Click Send Us an Email",
+            "title": "Send Us an Email",
+            "url": "adidas/slides/5AdidasSiteDeleteB.png"
+          },
+          {
+            "alt": "Adidas-Contact Us Deletion from Website. Step 6: Fill out the Form requesting Account Deletion and Click Send",
+            "title": "Send",
+            "url": "adidas/slides/6AdidasSiteDeleteB.png"
+          }
+        ]
+      }
+    }
+  ]
+}

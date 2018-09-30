@@ -1,0 +1,20 @@
+.X {
+	height: 40px;
+}
+
+/*.item {
+	border: 2px solid rgb(233,171,88);
+}*/
+
+.item {
+	font-weight: 400;
+  font-size: 15px;
+  height: 17px;
+  line-height: 18px;
+  letter-spacing: 0.07em;
+}
+
+.box {
+	height: 5px;
+	margin-bottom: 15px;
+}

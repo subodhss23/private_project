@@ -1,0 +1,26 @@
+.contact > form > input {
+	width: 619px;
+	height: 44px;
+	border: 1px solid #222E3D;
+	margin-top: 25px;
+	padding-left: 20px;
+}
+
+.contact > form > textarea {
+	max-width: 642px;
+	border: 1px solid #222E3D;
+	margin-top: 25px;
+	padding-left: 20px;
+	height: 120px;
+}
+
+.contact > form > .submit {
+	width: 642px;
+	color: #fff;
+	border: none;
+	background-color: #F24848;
+}
+
+.contact > form > .submit:hover {
+	cursor: pointer;
+}

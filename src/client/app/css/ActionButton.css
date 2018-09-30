@@ -1,0 +1,36 @@
+/*.delete-button a {
+  background-color: #fafafa;
+  border: 0;
+  border-radius: 3px;
+  box-shadow: 0 2px 5px 0 rgba(0,0,0,.26);
+  display: inline-block;
+  font-weight: 500;
+  line-height: 16px;
+  margin: 6px 8px 6px 0;
+  min-width: 88px;
+  padding: 10px 0;
+  text-align: center;
+  text-transform: uppercase;
+  text-decoration: none;
+}*/
+
+.action-button {
+  display:inline-flex;
+  align-items:center;
+  border-radius: 3px;
+  padding: 8px 17px;
+  background-color: #F24848;
+}
+
+.action-button p {
+  display:inline-block;
+  padding-top: 2px;
+}
+
+.name {
+  color: #fff;
+}
+
+.action-button:hover {
+  background-color: #c14636;
+}

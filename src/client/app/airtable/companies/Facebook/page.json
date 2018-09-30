@@ -1,0 +1,255 @@
+{
+  "name": "Facebook",
+  "top_app": true,
+  "breaches": 87,
+  "delete": "https://www.facebook.com/help/delete_account ",
+  "social_image": [
+    {
+      "id": "attOxYgGurdlM1F5z",
+      "url": "https://dl.airtable.com/VMYzrO4yTHu5Tdoo92bL_fb-social.jpg",
+      "filename": "fb-social.jpg",
+      "size": 298671,
+      "type": "image/jpeg",
+      "thumbnails": {
+        "small": {
+          "url": "https://dl.airtable.com/VsjVGEJJQxhJStTTT68M_small_fb-social.jpg",
+          "width": 48,
+          "height": 36
+        },
+        "large": {
+          "url": "https://dl.airtable.com/LNKeE3tHRgCnaB29O8fA_large_fb-social.jpg",
+          "width": 682,
+          "height": 512
+        },
+        "full": {
+          "url": "https://dl.airtable.com/yH2p4DdTGmL15WCDyKiC_full_fb-social.jpg",
+          "width": 2666,
+          "height": 2000
+        }
+      }
+    }
+  ],
+  "support": [
+    {
+      "link": "https://www.facebook.com/help/",
+      "text": "Help Center"
+    }
+  ],
+  "logo": "facebook/logo.jpg",
+  "instructions": [
+    {
+      "header": "Delete Account",
+      "title": "How To Delete Your Facebook Account",
+      "id": "delete-account",
+      "link": "facebook/delete-account",
+      "before": "There are two different ways to get your Facebook account offline. You can either Delete your Account or Deactivate your Account.  ",
+      "after": "Remember, some of your personal  information may remain visible like the messages you send and etc.  It is recommended that you change whatever information you can manually before Deactivating or Deleting your Account",
+      "action": {
+        "text": "Delete",
+        "link": "https://www.facebook.com/help/delete_account "
+      },
+      "website": {
+        "steps": [
+          "[Click the Facebook Delete Link] (https://www.facebook.com/help/delete_account).   If you're already logged in, doing so will open your Facebook Delete Page",
+          "Click Delete My Account",
+          "Re-Enter your Password and Click Ok."
+        ],
+        "slides": [
+          {
+            "alt": "Facebook-Delete Account from Website. Step 1: [Click the Facebook Delete Link] (https://www.facebook.com/help/delete_account).   If you're already logged in, doing so will open your Facebook Delete Page",
+            "title": "Log In",
+            "url": "facebook/slides/1FacebookDelete.png"
+          },
+          {
+            "alt": "Facebook-Delete Account from Website. Step 2: Click Delete My Account",
+            "title": "Delete My Account",
+            "url": "facebook/slides/2FacebookDelete.png"
+          },
+          {
+            "alt": "Facebook-Delete Account from Website. Step 3: Re-Enter your Password and Click Ok.",
+            "title": "Re-Enter Password",
+            "url": "facebook/slides/3FacebookDelete.png"
+          }
+        ]
+      },
+      "thingsToRemember": [
+        "Deactivating is a way to cool off from Facebook for a while, while deleting is a permanent solution where you can no longer gain access to your account again.",
+        "To reactivate your account after deactivating it, simply log into Facebook your e-mail and password. Your profile will be entirely reinstated.",
+        "Once you go through the Deletion Steps, it can take up to 90 days for your data that’s stored in backup systems to be deleted. However, your info isn’t accessible on Facebook during this time",
+        "Even after Deletion, copies of some material (like log records) may remain in Facebook’s database, but are “disassociated from personal identifiers,” according to the company.",
+        "Delete Third Party Access before Deleting your Account. Third-party apps will still have access to any personal data they stored, even after your Facebook account has been permanently deleted."
+      ],
+      "qnAnswers": [
+        {
+          "question": "What is the difference between Deactivating and Deleting my Account?",
+          "answer": "Deactivating is a way to cool off from Facebook for a while, while deleting is a permanent solution where you can no longer gain access to your account again.",
+          "createdAt": "July 28th 2018"
+        },
+        {
+          "question": "How do I re-activate my Account?",
+          "answer": "To reactivate your account after deactivating it, simply log into Facebook your e-mail and password. Your profile will be entirely reinstated.",
+          "createdAt": "July 28th 2018"
+        },
+        {
+          "question": "What happens after I Delete my Account?",
+          "answer": "Once you go through the Deletion Steps, it can take up to 90 days for your data that’s stored in backup systems to be deleted. However, your info isn’t accessible on Facebook during this time Even after Deletion, copies of some material (like log records) may remain in Facebook’s database, but are “disassociated from personal identifiers,” according to the company.",
+          "createdAt": "July 28th 2018"
+        }
+      ]
+    },
+    {
+      "header": "Remove Third Party Access",
+      "title": "How To Remove Third Party Access From Your Facebook Account",
+      "id": "remove-third-party-access",
+      "link": "facebook/remove-third-party-access",
+      "before": "It is recommended that you Delete Third Party Access before Deleting your Account. ",
+      "after": "Remember, Third-party apps will still have access to any personal data they stored, even after your Facebook account has been permanently deleted.",
+      "action": {
+        "text": "Remove",
+        "link": "https://www.facebook.com/settings?tab=applications"
+      },
+      "qnAnswers": [
+        {
+          "question": "What does it mean when I log onto Apps using Facebook?",
+          "answer": "Facebook's Single Sign On service makes logging in and creating accounts for apps, games, and services easy. But when you use Facebook to log in, Facebook gives those apps access to your data — a lot of your data.",
+          "createdAt": "July 28th 2018"
+        },
+        {
+          "question": "How do I find out what Apps are collecting what data?",
+          "answer": "To find out what information you are sharing, check your third-party app list and see exactly what you're providing to these services.",
+          "createdAt": "July 28th 2018"
+        },
+        {
+          "question": " Do I have a say in what information I choose to share with the Apps?",
+          "answer": "You can edit the permissions for individual apps in the “Apps and Websites” section.  You can do this by hovering over them and pressing the Edit button.",
+          "createdAt": "July 28th 2018"
+        },
+        {
+          "question": " Can I delete the information that third party apps have stored on me?",
+          "answer": "Third-party apps may have already stored data on you, and you’ll need to contact the app developer to delete that information.",
+          "createdAt": "July 28th 2018"
+        }
+      ],
+      "thingsToRemember": [
+        "Facebook's Single Sign On service makes logging in and creating accounts for apps, games, and services easy. But when you use Facebook to log in, Facebook gives those apps access to your data — a lot of your data.",
+        "To find out what information you are sharing, check your third-party app list and see exactly what you're providing to these services.",
+        "Third-party apps may have already stored data on you, and you’ll need to contact the app developer to delete that information.",
+        "You can edit the permissions for individual apps in the “Apps and Websites” section.  You can do this by hovering over them and pressing the Edit button."
+      ],
+      "website": {
+        "steps": [
+          "[Go to the Facebook Website](https://www.facebook.com). If you're already logged in, doing so will open your Facebook home page",
+          "Click the Arrows on the Top Right",
+          "Click Settings",
+          "Click Apps and Websites",
+          "Click the App you want to Remove from Third Party Access and Click Remove"
+        ],
+        "slides": [
+          {
+            "alt": "Facebook-Remove Third Party Access from Website. Step 1: [Go to the Facebook Website](https://www.facebook.com). If you're already logged in, doing so will open your Facebook home page",
+            "title": "Log In",
+            "url": "facebook/slides/1FacebookSiteTPA.png"
+          },
+          {
+            "alt": "Facebook-Remove Third Party Access from Website. Step 2: Click the Arrows on the Top Right",
+            "title": "Arrows Top Right",
+            "url": "facebook/slides/2FacebookSiteTPA.png"
+          },
+          {
+            "alt": "Facebook-Remove Third Party Access from Website. Step 3: Click Settings",
+            "title": "Settings",
+            "url": "facebook/slides/3FacebookSiteTPA.png"
+          },
+          {
+            "alt": "Facebook-Remove Third Party Access from Website. Step 4: Click Apps and Websites",
+            "title": "Apps and Websites",
+            "url": "facebook/slides/4FacebookSiteTPA.png"
+          },
+          {
+            "alt": "Facebook-Remove Third Party Access from Website. Step 5: Click the App you want to Remove from Third Party Access and Click Remove",
+            "title": "Remove App",
+            "url": "facebook/slides/5FacebookSiteTPA.png"
+          }
+        ]
+      }
+    },
+    {
+      "header": "Deactivate Account",
+      "title": "How To Deactivate Your Facebook Account",
+      "id": "deactivate-account",
+      "link": "facebook/deactivate-account",
+      "before": "There are two different ways to get your Facebook account offline. You can either Delete your Account or Deactivate your Account.  \n",
+      "after": "Remember, some of your personal  information may remain visible like the messages you send and etc.  It is recommended that you change whatever information you can manually before Deactivating or Deleting your Account.",
+      "action": {
+        "text": "Deactivate",
+        "link": "https://www.facebook.com/deactivate/"
+      },
+      "qnAnswers": [
+        {
+          "question": "What is the difference between Deactivating and Deleting my Account?",
+          "answer": "Deactivating is a way to cool off from Facebook for a while, while deleting is a permanent solution where you can no longer gain access to your account again.",
+          "createdAt": "July 28th 2018"
+        },
+        {
+          "question": "What happens after I Delete my Account?",
+          "answer": "Once you go through the Deletion Steps, it can take up to 90 days for your data that’s stored in backup systems to be deleted. However, your info isn’t accessible on Facebook during this time Even after Deletion, copies of some material (like log records) may remain in Facebook’s database, but are “disassociated from personal identifiers,” according to the company.",
+          "createdAt": "July 28th 2018"
+        },
+        {
+          "question": "How do I re-activate my Account?",
+          "answer": "To reactivate your account after deactivating it, simply log into Facebook your e-mail and password. Your profile will be entirely reinstated.",
+          "createdAt": "July 28th 2018"
+        }
+      ],
+      "website": {
+        "steps": [
+          "Go to the Facebook Website. If you're already logged in, doing so will open your Facebook home page",
+          "Click the Arrow on the Top Right",
+          "Click Settings",
+          "Click Manage Account under General Settings",
+          "Click Deactivate my Account",
+          "Fill and Form and Click Deactivate"
+        ],
+        "slides": [
+          {
+            "alt": "Facebook-Deactivate Account from Website. Step 1: Go to the Facebook Website. If you're already logged in, doing so will open your Facebook home page",
+            "title": "Log In",
+            "url": "facebook/slides/1FacebookSiteDeactivate.png"
+          },
+          {
+            "alt": "Facebook-Deactivate Account from Website. Step 2: Click the Arrow on the Top Right",
+            "title": "Arrow Top Right",
+            "url": "facebook/slides/2FacebookSiteDeactivate.png"
+          },
+          {
+            "alt": "Facebook-Deactivate Account from Website. Step 3: Click Settings",
+            "title": "Settings",
+            "url": "facebook/slides/3FacebookSiteDeactivate.png"
+          },
+          {
+            "alt": "Facebook-Deactivate Account from Website. Step 4: Click Manage Account under General Settings",
+            "title": "Manage Account",
+            "url": "facebook/slides/4FacebookSiteDeactivate.png"
+          },
+          {
+            "alt": "Facebook-Deactivate Account from Website. Step 5: Click Deactivate my Account",
+            "title": "Deactivate my Account",
+            "url": "facebook/slides/5FacebookSiteDeactivate.png"
+          },
+          {
+            "alt": "Facebook-Deactivate Account from Website. Step 6: Fill and Form and Click Deactivate",
+            "title": " Fill Form and Deactivate",
+            "url": "facebook/slides/6FacebookSiteDeactivate.png"
+          }
+        ]
+      },
+      "thingsToRemember": [
+        "Deactivating is a way to cool off from Facebook for a while, while deleting is a permanent solution where you can no longer gain access to your account again.",
+        "To reactivate your account after deactivating it, simply log into Facebook your e-mail and password. Your profile will be entirely reinstated.",
+        "Once you go through the Deletion Steps, it can take up to 90 days for your data that’s stored in backup systems to be deleted. However, your info isn’t accessible on Facebook during this time",
+        "Even after Deletion, copies of some material (like log records) may remain in Facebook’s database, but are “disassociated from personal identifiers,” according to the company.",
+        "Delete Third Party Access before Deleting your Account. Third-party apps will still have access to any personal data they stored, even after your Facebook account has been permanently deleted."
+      ]
+    }
+  ]
+}

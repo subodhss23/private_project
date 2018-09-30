@@ -1,0 +1,141 @@
+{
+  "name": "Amazon",
+  "top_app": true,
+  "delete": "https://www.amazon.com/gp/help/customer/contact-us/?ie=UTF8&initialIssue=account-close",
+  "social_image": [
+    {
+      "id": "attQYuFjGNW4HV4Y1",
+      "url": "https://dl.airtable.com/r4jM0z2Q3Say0YKVnz7W_amazon-social.jpg",
+      "filename": "amazon-social.jpg",
+      "size": 448951,
+      "type": "image/jpeg",
+      "thumbnails": {
+        "small": {
+          "url": "https://dl.airtable.com/OGwHkBPBSWOENhur50H9_small_amazon-social.jpg",
+          "width": 54,
+          "height": 36
+        },
+        "large": {
+          "url": "https://dl.airtable.com/OLSegulST8fdyaX2sWsH_large_amazon-social.jpg",
+          "width": 768,
+          "height": 512
+        },
+        "full": {
+          "url": "https://dl.airtable.com/CxNO1cFaTQuPlddJv62q_full_amazon-social.jpg",
+          "width": 3000,
+          "height": 2001
+        }
+      }
+    }
+  ],
+  "support": [
+    {
+      "link": "https://www.amazon.com/gp/help/customer/display.html?nodeId=508510",
+      "text": "Help Center"
+    }
+  ],
+  "logo": "amazon/logo.jpg",
+  "instructions": [
+    {
+      "header": "Delete Account",
+      "title": "How To Delete Your Amazon Account",
+      "id": "delete-account",
+      "link": "amazon/delete-account",
+      "before": "There’s no one click option for closing your Amazon Account.  You’ll need to contact customer support.  It is also recommended that you do this from a computer. You cannot delete your Amazon account from within a mobile App.\t\t\t\t",
+      "after": "Remember, the Amazon representative let you know the time frame in which your account will be closed. ",
+      "action": {
+        "text": "Delete",
+        "link": "https://www.amazon.com/gp/help/customer/contact-us?ie=UTF8&initialIssue=account-close&"
+      },
+      "thingsToRemember": [
+        "Your Amazon account is shared across Amazon’s websites, so if you delete it, you’ll lose access to Amazon.com as well as international stores.  Subscriptions like Amazon Prime will immediately end.\n",
+        "Amazon will also delete your accounts purchase history and customer data.  Meaning any reviews, discussion posts, and photos you’ve uploaded to Amazon’s website will also be erased.\n",
+        "Digital content you purchased will be gone, and you won’t be able to re- download.\n",
+        "To reopen a closed account contact customer support and send a new request to reopen your account.\n",
+        "Any open orders will be canceled. You won’t be able to return purchased items for a refund or replacement\n"
+      ],
+      "qnAnswers": [
+        {
+          "question": "What are some of the things that will be deleted if I delete/close my account?",
+          "answer": "Your Amazon account is shared across Amazon’s websites, so if you delete it, you’ll lose access to Amazon.com as well as international stores.  Subscriptions like Amazon Prime will immediately end. Amazon will also delete your accounts purchase history and customer data.  Meaning any reviews, discussion posts, and photos you’ve uploaded to Amazon’s website will also be erased.",
+          "createdAt": "July 8th 2018"
+        },
+        {
+          "question": "What happens to the kindle content I bought?",
+          "answer": "Digital content you purchased will be gone, and you won’t be able to re-download.",
+          "createdAt": "July 8th 2018"
+        },
+        {
+          "question": "Can I re-open a closed account?",
+          "answer": "To reopen a closed account contact customer support and send a new request to reopen your account.",
+          "createdAt": "July 8th 2018"
+        },
+        {
+          "question": "Can I ask for a refund after deleting my account?",
+          "answer": "Any open orders will be canceled. You won’t be able to return purchased items for a refund or replacement",
+          "createdAt": "July 8th 2018"
+        }
+      ],
+      "website": {
+        "steps": [
+          "[Go to the Amazon Website](https://www.amazon.com). If you're already logged in, doing so will open your Amazon home page",
+          "Click Help",
+          "Click Need More Help",
+          "Click Contact Us",
+          "Click Prime or Something else",
+          "Click Log In and Security",
+          "Click Close My Account",
+          "Click a contact option. Depending on the option you choose, your next steps will vary: Email, Phone, Chat. Phone is recommended",
+          "Enter Phone Number and Wait for a Call from A Representative"
+        ],
+        "slides": [
+          {
+            "alt": "Amazon-Delete Account from Website. Step 1: [Go to the Amazon Website](https://www.amazon.com). If you're already logged in, doing so will open your Amazon home page",
+            "title": "Login",
+            "url": "amazon/slides/1AmasonSiteDelete.png"
+          },
+          {
+            "alt": "Amazon-Delete Account from Website. Step 2: Click Help",
+            "title": "Help",
+            "url": "amazon/slides/2AmazonSiteDelete.png"
+          },
+          {
+            "alt": "Amazon-Delete Account from Website. Step 3: Click Need More Help",
+            "title": "Need More Help",
+            "url": "amazon/slides/3AmazonSiteDelete.png"
+          },
+          {
+            "alt": "Amazon-Delete Account from Website. Step 4: Click Contact Us",
+            "title": "Contact Us",
+            "url": "amazon/slides/4AmazonSiteDelete.png"
+          },
+          {
+            "alt": "Amazon-Delete Account from Website. Step 5: Click Prime or Something else",
+            "title": "Prime or Something else",
+            "url": "amazon/slides/5AmazonSiteDelete.png"
+          },
+          {
+            "alt": "Amazon-Delete Account from Website. Step 6: Click Log In and Security",
+            "title": "Login And Security",
+            "url": "amazon/slides/6AmazonSiteDelete.png"
+          },
+          {
+            "alt": "Amazon-Delete Account from Website. Step 7: Click Close My Account",
+            "title": "Close",
+            "url": "amazon/slides/7AmazonSiteDelete.png"
+          },
+          {
+            "alt": "Amazon-Delete Account from Website. Step 8: Click a contact option. Depending on the option you choose, your next steps will vary: Email, Phone, Chat. Phone is recommended",
+            "title": "Pick mode of communication",
+            "url": "amazon/slides/8AmazonSiteDelete.png"
+          },
+          {
+            "alt": "Amazon-Delete Account from Website. Step 9: Enter Phone Number and Wait for a Call from A Representative",
+            "title": "Enter Phone Number",
+            "url": "amazon/slides/9AmazonSiteDelete.png"
+          }
+        ]
+      }
+    }
+  ]
+}

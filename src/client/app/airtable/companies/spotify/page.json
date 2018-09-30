@@ -1,0 +1,286 @@
+{
+  "name": "Spotify",
+  "top_app": false,
+  "delete": "https://support.spotify.com/us/contact-spotify-support/",
+  "social_image": [
+    {
+      "id": "attlBtLjNddG4y29n",
+      "url": "https://dl.airtable.com/VJCBbM9zRE2JObVrAM1Z_socialmedia-spotify.jpg",
+      "filename": "socialmedia-spotify.jpg",
+      "size": 51174,
+      "type": "image/jpeg",
+      "thumbnails": {
+        "small": {
+          "url": "https://dl.airtable.com/NnrsDZXxSI2ILzN2s3mO_small_socialmedia-spotify.jpg",
+          "width": 20,
+          "height": 36
+        },
+        "large": {
+          "url": "https://dl.airtable.com/vDQ5RzDZTRGuRXyJfBs2_large_socialmedia-spotify.jpg",
+          "width": 512,
+          "height": 911
+        },
+        "full": {
+          "url": "https://dl.airtable.com/bSKEA4nuQrK6TWWe9OBN_full_socialmedia-spotify.jpg",
+          "width": 600,
+          "height": 1067
+        }
+      }
+    }
+  ],
+  "support": [
+    {
+      "link": "https://support.spotify.com/us/",
+      "text": "Help Center"
+    },
+    {
+      "link": "https://support.spotify.com/us/contact-spotify-support/",
+      "text": "Contact"
+    }
+  ],
+  "logo": "spotify/logo.jpg",
+  "instructions": [
+    {
+      "header": "Delete Hulu Account",
+      "title": "How To Delete Your Hulu Account Attached To Spotfiy",
+      "id": "delete-hulu-account",
+      "link": "spotify/delete-hulu-account",
+      "before": "You can Cancel your Hulu Subscription Attached to your Spotify Account without Deleting Your Premium Spotify Subscription.  This cannot be completed from within the mobile app, you must delete it from a computer browser. ",
+      "after": "Once your Hulu is cancelled you still have to go through and cancel your premium Spotify and Free Spotify to permanently delete your account. ",
+      "action": {
+        "text": "Delete",
+        "link": "https://www.spotify.com/us/account/subscription/change/"
+      },
+      "qnAnswers": [
+        {
+          "question": "Do I lose access to my music if I cancel my premium Spotify account?",
+          "answer": "Yes.  As soon as your premium subscription is cancelled, you will not have access to any offline content you downloaded when you had premium, since offline playlists are a premium only feature. You can however stream those tracks from Spotify again if you are online. But you won't lose any playlists, friends, or your music library, as long as you keep using the same username you've been using. Those are independent from your subscription status.  ",
+          "createdAt": "July 25th 2018"
+        },
+        {
+          "question": "Is it possible to use Spotify without facebook?",
+          "answer": "Yes.  You do not have to be connected to facebook to use Spotify.  To disconnect facebook and stop sharing your data just go to your settings and under the social category Click Disconnect Facebook.",
+          "createdAt": "July 25th 2018"
+        },
+        {
+          "question": "Can I Cancel Hulu through Spotify Without Canceling my Premium Account?",
+          "answer": "Yes.  You can cancel Hulu and keep your premium spotify account. ",
+          "createdAt": "July 25th 2018"
+        }
+      ],
+      "website": {
+        "steps": [
+          "[Log on to the Spotify Website](https://www.spotify.com/us/).   If you're already logged in, doing so will open your Spotify home page.",
+          "Click Profile on the Bottom Left",
+          "Click View Account",
+          "Click Manage Plan",
+          "Click Change or Cancel",
+          "Click Remove Hulu",
+          "Remove Hulu"
+        ],
+        "slides": [
+          {
+            "alt": "Spotify-Delete Hulu Account from Website. Step 1: [Log on to the Spotify Website](https://www.spotify.com/us/).   If you're already logged in, doing so will open your Spotify home page.",
+            "title": "Login",
+            "url": "spotify/slides/417_1Signin.jpg"
+          },
+          {
+            "alt": "Spotify-Delete Hulu Account from Website. Step 2: Click Profile on the Bottom Left",
+            "title": "Profile",
+            "url": "spotify/slides/418_2Profile.jpg"
+          },
+          {
+            "alt": "Spotify-Delete Hulu Account from Website. Step 3: Click View Account",
+            "title": "View Account",
+            "url": "spotify/slides/419_3ViewAccount.jpg"
+          },
+          {
+            "alt": "Spotify-Delete Hulu Account from Website. Step 4: Click Manage Plan",
+            "title": "Manage Plan",
+            "url": "spotify/slides/420_4ManagePlan.jpg"
+          },
+          {
+            "alt": "Spotify-Delete Hulu Account from Website. Step 5: Click Change or Cancel",
+            "title": "Change or Cancel",
+            "url": "spotify/slides/421_5CancelorChange.jpg"
+          },
+          {
+            "alt": "Spotify-Delete Hulu Account from Website. Step 6: Click Remove Hulu",
+            "title": "Remove Hulu",
+            "url": "spotify/slides/423_6RemoveHulu.jpg"
+          },
+          {
+            "alt": "Spotify-Delete Hulu Account from Website. Step 7: Remove Hulu",
+            "title": "Remove Hulu",
+            "url": "spotify/slides/424_7RemoveHulu.jpg"
+          }
+        ]
+      }
+    },
+    {
+      "header": "Delete Premium Account",
+      "title": "How To Delete Your Spotify Premium Subscription Account",
+      "id": "delete-premium-account",
+      "link": "spotify/delete-premium-account",
+      "before": "Spotify cannot be deleted from within the mobile app, you must delete it from a computer browser.  If you have a Spotify Premium Account you must cancel it before you delete your entire Spotify account. To Delete you Paid Spotify Subscription Account please follow the steps below. ",
+      "after": "Once your subscription is cancelled, you now have to delete your free account to complete the deletion process. ",
+      "action": {
+        "text": "Delete",
+        "link": "https://www.spotify.com/us/account/subscription/change/"
+      },
+      "website": {
+        "steps": [
+          "[Log on to the Spotify Website](https://www.spotify.com/us/).   If you're already logged in, doing so will open your Spotify home page.",
+          "Click Profile on the Bottom Left",
+          "Click View Account",
+          "Click Manage Plan",
+          "Click Change or Cancel",
+          "Click Cancel Premium",
+          "Click Yes Cancel to Confirm Cancellation"
+        ],
+        "slides": [
+          {
+            "alt": "Spotify-Delete Premium Account from Website. Step 1: [Log on to the Spotify Website](https://www.spotify.com/us/).   If you're already logged in, doing so will open your Spotify home page.",
+            "title": "Login",
+            "url": "spotify/slides/410_1Signin.jpg"
+          },
+          {
+            "alt": "Spotify-Delete Premium Account from Website. Step 2: Click Profile on the Bottom Left",
+            "title": "Profile",
+            "url": "spotify/slides/411_2Profile.jpg"
+          },
+          {
+            "alt": "Spotify-Delete Premium Account from Website. Step 3: Click View Account",
+            "title": "View Account",
+            "url": "spotify/slides/412_3ViewAccount.jpg"
+          },
+          {
+            "alt": "Spotify-Delete Premium Account from Website. Step 4: Click Manage Plan",
+            "title": "Manage Plan",
+            "url": "spotify/slides/413_4ManagePlan.jpg"
+          },
+          {
+            "alt": "Spotify-Delete Premium Account from Website. Step 5: Click Change or Cancel",
+            "title": "Change or Cancel",
+            "url": "spotify/slides/414_5CancelorChange.jpg"
+          },
+          {
+            "alt": "Spotify-Delete Premium Account from Website. Step 6: Click Cancel Premium",
+            "title": "Cancel Premium",
+            "url": "spotify/slides/415_6CancelPremium.jpg"
+          },
+          {
+            "alt": "Spotify-Delete Premium Account from Website. Step 7: Click Yes Cancel to Confirm Cancellation",
+            "title": "Yes Cancel",
+            "url": "spotify/slides/416_7YesCancel.jpg"
+          }
+        ]
+      },
+      "qnAnswers": [
+        {
+          "question": "Do I lose access to my music if I cancel my premium Spotify account?",
+          "answer": "Yes.  As soon as your premium subscription is cancelled, you will not have access to any offline content you downloaded when you had premium, since offline playlists are a premium only feature. You can however stream those tracks from Spotify again if you are online. But you won't lose any playlists, friends, or your music library, as long as you keep using the same username you've been using. Those are independent from your subscription status.  ",
+          "createdAt": "July 25th 2018"
+        },
+        {
+          "question": "Is it possible to use Spotify without facebook?",
+          "answer": "Yes.  You do not have to be connected to facebook to use Spotify.  To disconnect facebook and stop sharing your data just go to your settings and under the social category Click Disconnect Facebook.",
+          "createdAt": "July 25th 2018"
+        },
+        {
+          "question": "Can I Cancel Hulu through Spotify Without Canceling my Premium Account?",
+          "answer": "Yes.  You can cancel Hulu and keep your premium spotify account. ",
+          "createdAt": "July 25th 2018"
+        }
+      ]
+    },
+    {
+      "header": "Delete Free Account",
+      "title": "How To Delete Your Free Spotify Account",
+      "id": "delete-free-account",
+      "link": "spotify/delete-free-account",
+      "before": "Spotify cannot be deleted from within the mobile app, you must delete it from a computer browser.  If you have a Spotify Premium Account you must cancel it before you delete your entire Spotify account. To Delete your Free Spotify Account follow the steps below. ",
+      "action": {
+        "text": "Delete",
+        "link": "https://support.spotify.com/us/contact-spotify-support/"
+      },
+      "qnAnswers": [
+        {
+          "question": "Do I lose access to my music if I cancel my premium Spotify account?",
+          "answer": "Yes.  As soon as your premium subscription is cancelled, you will not have access to any offline content you downloaded when you had premium, since offline playlists are a premium only feature. You can however stream those tracks from Spotify again if you are online. But you won't lose any playlists, friends, or your music library, as long as you keep using the same username you've been using. Those are independent from your subscription status.  ",
+          "createdAt": "July 24th 2018"
+        },
+        {
+          "question": "Is it possible to use Spotify without facebook?",
+          "answer": "Yes.  You do not have to be connected to facebook to use Spotify.  To disconnect facebook and stop sharing your data just go to your settings and under the social category Click Disconnect Facebook.",
+          "createdAt": "July 24th 2018"
+        },
+        {
+          "question": "Can I Cancel Hulu through Spotify Without Canceling my Premium Account?",
+          "answer": "Yes.  You can cancel Hulu and keep your premium spotify account. ",
+          "createdAt": "July 24th 2018"
+        }
+      ],
+      "website": {
+        "steps": [
+          "[Click here] (https://support.spotify.com/us/contact-spotify-support/) to log onto the Spotify Contact Page.",
+          "Click Account",
+          "Click I want to Permanently Close my Spotify Account",
+          "Click Close Account",
+          "Click Close Account",
+          "Click Continue",
+          "Click Continue",
+          "Now you will receive a confirmation message telling you to check your email to confirm Deletion",
+          "Open the Spotify Message in your Email and Click Close My Account to Finalize Deletion"
+        ],
+        "slides": [
+          {
+            "alt": "Spotify-Delete Free Account from Website. Step 1: [Click here] (https://support.spotify.com/us/contact-spotify-support/) to log onto the Spotify Contact Page.",
+            "title": "Contact us ",
+            "url": "spotify/slides/402_1DOnothingmakeitlookliketheotherpages.jpg"
+          },
+          {
+            "alt": "Spotify-Delete Free Account from Website. Step 2: Click Account",
+            "title": "Account",
+            "url": "spotify/slides/403_2Account.jpg"
+          },
+          {
+            "alt": "Spotify-Delete Free Account from Website. Step 3: Click I want to Permanently Close my Spotify Account",
+            "title": "I want to permanently close my account",
+            "url": "spotify/slides/404_3Iwanttoclosemyaccountpermanently.jpg"
+          },
+          {
+            "alt": "Spotify-Delete Free Account from Website. Step 4: Click Close Account",
+            "title": "Close Account",
+            "url": "spotify/slides/406_4CLoseAccount.jpg"
+          },
+          {
+            "alt": "Spotify-Delete Free Account from Website. Step 5: Click Close Account",
+            "title": "Close Account",
+            "url": "spotify/slides/425_5CloseAccount.jpg"
+          },
+          {
+            "alt": "Spotify-Delete Free Account from Website. Step 6: Click Continue",
+            "title": "Continue",
+            "url": "spotify/slides/407_6Continue.jpg"
+          },
+          {
+            "alt": "Spotify-Delete Free Account from Website. Step 7: Click Continue",
+            "title": "Continue",
+            "url": "spotify/slides/408_7Continue.jpg"
+          },
+          {
+            "alt": "Spotify-Delete Free Account from Website. Step 8: Now you will receive a confirmation message telling you to check your email to confirm Deletion",
+            "title": "Confirm Deletion",
+            "url": "spotify/slides/409_8DoNothingmakeitlookliketherest.jpg"
+          },
+          {
+            "alt": "Spotify-Delete Free Account from Website. Step 9: Open the Spotify Message in your Email and Click Close My Account to Finalize Deletion",
+            "title": "Close My Account",
+            "url": "spotify/slides/417_8DoNothingmakeitlookliketherest.jpg"
+          }
+        ]
+      }
+    }
+  ]
+}

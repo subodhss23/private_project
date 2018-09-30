@@ -1,0 +1,93 @@
+.search > a {
+  line-height: 19px;
+  letter-spacing: 0.1px;
+  color: #222E3D;
+  text-decoration: none;
+}
+
+.search-input {
+  padding-left: 34px;
+}
+
+.search-input {
+  border-top: 1px solid #222E3D;
+  border-left: 1px solid #222E3D;
+  border-bottom: 1px solid #222E3D;
+  border-right-width: 0px;
+}
+
+.search-wrapper {
+	display: grid;	
+	width: inherit;
+	height: 44px;
+	grid-template-columns: 1fr 52px;
+}
+
+.search {
+  margin: 0px auto 35px auto;
+  width: inherit;  
+}
+
+.search-button {
+  border-style:none;
+  background-color: #F24848;
+  width: 52px;
+}.search-button:hover{
+  cursor:pointer;
+  text-decoration:none
+}
+
+.search-button > svg {
+  fill: #fff;
+  width: 22px;
+  height: 22px;
+}
+
+.error {
+  background-color: #F24848;
+  width: 642px;
+  height: 44px;
+  margin-top: 25px;
+  display:flex;
+  align-items:center;
+}
+
+.error > a {
+  color: #fff;
+  text-align: left;
+  padding-left: 34px;
+  text-decoration: underline;
+}
+
+.contentSearchSuggestionTable {
+  border: 1px solid #222E3D;
+}
+
+.contentSearchSuggestionTable {
+  border-top: none;
+  left: 0;
+  z-index: 1001;
+  -moz-user-select: none;
+  cursor: default;
+  padding: 0;
+  margin: 0;
+  text-align: start;
+  width: 642px;
+}
+
+.contentSearchSuggestionRow {
+  margin: 0;
+  max-width: inherit;
+  padding: 0;
+}
+
+.contentSearchSuggestionRow:hover {
+  background-color: #F4F4F5;
+}
+
+.contentSearchSuggestionEntry {
+  margin-left: 10px;  
+  max-width: inherit;
+  padding: 7px 34px;
+  text-overflow: ellipsis;
+}

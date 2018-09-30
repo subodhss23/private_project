@@ -1,0 +1,156 @@
+{
+  "name": "Classmates.com",
+  "top_app": false,
+  "delete": "https://secure.classmates.com/auth/removemember",
+  "social_image": [
+    {
+      "id": "att3A4HGohhQDAiQf",
+      "url": "https://dl.airtable.com/93ZZyFEjR6qakfOusuOs_socialmedia-classmates.jpg",
+      "filename": "socialmedia-classmates.jpg",
+      "size": 36641,
+      "type": "image/jpeg",
+      "thumbnails": {
+        "small": {
+          "url": "https://dl.airtable.com/8peYjBSeOLLGNyPW7Khg_small_socialmedia-classmates.jpg",
+          "width": 20,
+          "height": 36
+        },
+        "large": {
+          "url": "https://dl.airtable.com/R7qwqs4VQ4eVlRA0DIB6_large_socialmedia-classmates.jpg",
+          "width": 460,
+          "height": 818
+        },
+        "full": {
+          "url": "https://dl.airtable.com/1YNestw3Tj26hB7IKZU4_full_socialmedia-classmates.jpg",
+          "width": 460,
+          "height": 818
+        }
+      }
+    }
+  ],
+  "support": [
+    {
+      "link": "https://help.classmates.com/hc/en-us",
+      "text": "Help Center"
+    },
+    {
+      "link": "https://help.classmates.com/hc/en-us/requests/new?ticket_form_id=114093986752",
+      "text": "Contact"
+    },
+    {
+      "email": "membercare@classmates.com"
+    }
+  ],
+  "logo": "classmates.com/logo.jpg",
+  "instructions": [
+    {
+      "header": "Turn Off Automatic Renewal",
+      "title": "How To Turn Off Automatic Renewal for Classmates.com",
+      "id": "turn-off-automatic-renewal",
+      "link": "classmates.com/turn-off-automatic-renewal",
+      "before": "To discontinue your paid membership after the current term, you can opt out of automatic renewal any time before your renewal date. By changing to Manual renewal or just canceling your payment, your account will not be charged again.  On your expiration date your membership will revert to free status.",
+      "after": "Please note, canceling your automatic renewal does not delete your account.  It just cancels your payments.  Please follow the steps on deleting your account for permanent deletion.  \n",
+      "action": {
+        "text": "Turn",
+        "link": "https://secure.classmates.com/auth/removemember"
+      },
+      "qnAnswers": [
+        {
+          "question": "What happens when I delete my account?",
+          "answer": "Your information is removed from classmates.com and you can no longer access the system. ",
+          "createdAt": "August 7th 2018"
+        },
+        {
+          "question": "How can I review and update my billing info?",
+          "answer": "Click on [this link] (https://secure.classmates.com/checkout/account/billing/home) to be directed to the accounts and billing page to review your account status.  Please note, Classmates and membership subscriptions are enrolled in the automatic renewal program when the initial online payment is submitted. You can adjust your payment settings here. ",
+          "createdAt": "August 7th 2018"
+        }
+      ],
+      "website": {
+        "steps": [
+          "[Log onto the Classmates.com Homepage](https://secure.classmates.com/auth/login). If you are already logged in doing so will open your classmates.com homepage.",
+          "Click Gear Icon on Top Right",
+          "Click Account ",
+          "Click Account and BIlling and Enter your Password ",
+          "Click Turn off Automatic renewal under Account Information.  If you do not see this feature then you do not have a Paid Account. Then Click Yes to Confirm."
+        ],
+        "slides": [
+          {
+            "alt": "Classmates.com-Turn Off Automatic Renewal from Website. Step 1: [Log onto the Classmates.com Homepage](https://secure.classmates.com/auth/login). If you are already logged in doing so will open your classmates.com homepage.",
+            "title": "Log on",
+            "url": "classmates.com/slides/490_1Signin.jpg"
+          },
+          {
+            "alt": "Classmates.com-Turn Off Automatic Renewal from Website. Step 2: Click Gear Icon on Top Right",
+            "title": "Gear Icon",
+            "url": "classmates.com/slides/491_2GearIcon.jpg"
+          },
+          {
+            "alt": "Classmates.com-Turn Off Automatic Renewal from Website. Step 3: Click Account ",
+            "title": "Account",
+            "url": "classmates.com/slides/492_3Account.jpg"
+          },
+          {
+            "alt": "Classmates.com-Turn Off Automatic Renewal from Website. Step 4: Click Account and BIlling and Enter your Password ",
+            "title": "Account and Billing",
+            "url": "classmates.com/slides/493_4AccountandBilling.jpg"
+          },
+          {
+            "alt": "Classmates.com-Turn Off Automatic Renewal from Website. Step 5: Click Turn off Automatic renewal under Account Information.  If you do not see this feature then you do not have a Paid Account. Then Click Yes to Confirm.",
+            "title": "Turn Off Automatic Renewal",
+            "url": "classmates.com/slides/494_5AccountInformation.jpg"
+          }
+        ]
+      }
+    },
+    {
+      "header": "Delete Account",
+      "title": "How To Delete Your Free Classmates.com Account",
+      "id": "delete-account",
+      "link": "classmates.com/delete-account",
+      "before": "If you’d like to remove your free registration, follow the steps below and click on the Classmates.com Deletion Link.  From here your account will be deleted. ",
+      "qnAnswers": [
+        {
+          "question": "What happens when I delete my account?",
+          "answer": "Your information is removed from classmates.com and you can no longer access the system. ",
+          "createdAt": "August 7th 2018"
+        },
+        {
+          "question": "How can I review and update my billing info?",
+          "answer": "Click on [this link] (https://secure.classmates.com/checkout/account/billing/home) to be directed to the accounts and billing page to review your account status.  Please note, Classmates and membership subscriptions are enrolled in the automatic renewal program when the initial online payment is submitted. You can adjust your payment settings here. ",
+          "createdAt": "August 7th 2018"
+        }
+      ],
+      "website": {
+        "steps": [
+          "Click here for the [Deletion Link] (https://secure.classmates.com/auth/removemember). If you are already logged in, you will be brought straight to the deletion page. ",
+          "Choose a Reason for Removal",
+          "Click Remove Registration",
+          "Select Yes to confirm"
+        ],
+        "slides": [
+          {
+            "alt": "Classmates.com-Delete Account from Website. Step 1: Click here for the [Deletion Link] (https://secure.classmates.com/auth/removemember). If you are already logged in, you will be brought straight to the deletion page. ",
+            "title": "Delete Link",
+            "url": "classmates.com/slides/486_1Signin.jpg"
+          },
+          {
+            "alt": "Classmates.com-Delete Account from Website. Step 2: Choose a Reason for Removal",
+            "title": "Reason for Removal",
+            "url": "classmates.com/slides/487_2PrivacyConcerns.jpg"
+          },
+          {
+            "alt": "Classmates.com-Delete Account from Website. Step 3: Click Remove Registration",
+            "title": "Remove Registration",
+            "url": "classmates.com/slides/488_3RemoveRegistration.jpg"
+          },
+          {
+            "alt": "Classmates.com-Delete Account from Website. Step 4: Select Yes to confirm",
+            "title": "Confirmation",
+            "url": "classmates.com/slides/489_4YES.jpg"
+          }
+        ]
+      }
+    }
+  ]
+}

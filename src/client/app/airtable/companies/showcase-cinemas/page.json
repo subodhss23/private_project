@@ -1,0 +1,109 @@
+{
+  "name": "Showcase Cinemas",
+  "top_app": false,
+  "delete": "https://www.showcasecinemas.com/about-us/contact-us",
+  "social_image": [
+    {
+      "id": "attfWCIMS93QdwLkn",
+      "url": "https://dl.airtable.com/i6cgZoDKQsS32TCa7gqQ_SocialMedia-Showcasecinemas.png",
+      "filename": "SocialMedia-Showcasecinemas.png",
+      "size": 1633567,
+      "type": "image/png",
+      "thumbnails": {
+        "small": {
+          "url": "https://dl.airtable.com/kfMFWqSTs2lxrS66TbrU_small_SocialMedia-Showcasecinemas.png",
+          "width": 20,
+          "height": 36
+        },
+        "large": {
+          "url": "https://dl.airtable.com/4OzcMWVS5SfgETTDeZQd_large_SocialMedia-Showcasecinemas.png",
+          "width": 460,
+          "height": 818
+        },
+        "full": {
+          "url": "https://dl.airtable.com/hyghRQ4HS1KIzaDIJu66_full_SocialMedia-Showcasecinemas.png",
+          "width": 460,
+          "height": 818
+        }
+      }
+    }
+  ],
+  "support": [
+    {
+      "link": "https://www.showcasecinemas.com/about-us/contact-us",
+      "text": "Contact"
+    },
+    {
+      "email": "updates@showcasecinemas.com"
+    }
+  ],
+  "logo": "showcase-cinemas/logo.jpg",
+  "instructions": [
+    {
+      "header": "Delete Account",
+      "title": "How To Delete Your Showcase Cinemas Account",
+      "id": "delete-account",
+      "link": "showcase-cinemas/delete-account",
+      "before": "Showcase Cinemas does not explicitly tell you how to Delete their Account.  In order to ensure Deletion, please contact Customer Service through a computer browser as directed below and Request Account Deletion.  ",
+      "after": "Customer Service will email you once your account has been Deleted Permanently.",
+      "action": {
+        "text": "Delete",
+        "link": "https://www.showcasecinemas.com/about-us/contact-us"
+      },
+      "qnAnswers": [
+        {
+          "question": "What happens when I Delete my Showcase Cinemas Account?",
+          "answer": "You will loose all saved information like points associated with your account.  After Deletion you will not be able to restore any of this information so it is suggested that you use all remaining points prior to deletion.",
+          "createdAt": "July 22nd 2018"
+        },
+        {
+          "question": "What should I do to ensure Deletion of My Account?",
+          "answer": "Because Showcase Cinema does not make it easy to delete your account it is suggested that you go in to your profile prior to deletion and change your personal information to make it useless to them.  If you change all your info then its essentially like you don't have an account anyway.  ",
+          "createdAt": "July 22nd 2018"
+        }
+      ],
+      "website": {
+        "steps": [
+          "[Go to the Showcase Cinemas Website] (https://www.showcasecinemas.com). If you're already logged in, doing so will open your Showcase Cinemas home page",
+          "Scroll Down and Click Contact us",
+          "Fill out the section with your Personal Information.  Make sure to include your Email address associated with the Account.",
+          "Under ‘Subject’ Click Customer Service",
+          "Under ‘Location’ Choose your Location",
+          "Type a Deletion Request under Message and Click Submit"
+        ],
+        "slides": [
+          {
+            "alt": "Showcase Cinemas-Delete Account from Website. Step 1: [Go to the Showcase Cinemas Website] (https://www.showcasecinemas.com). If you're already logged in, doing so will open your Showcase Cinemas home page",
+            "title": "Login",
+            "url": "showcase-cinemas/slides/1Login.jpg"
+          },
+          {
+            "alt": "Showcase Cinemas-Delete Account from Website. Step 2: Scroll Down and Click Contact us",
+            "title": "Contact Us",
+            "url": "showcase-cinemas/slides/2ContactUS.jpg"
+          },
+          {
+            "alt": "Showcase Cinemas-Delete Account from Website. Step 3: Fill out the section with your Personal Information.  Make sure to include your Email address associated with the Account.",
+            "title": "Personal Information",
+            "url": "showcase-cinemas/slides/3Filloutperosnalinformaiton.jpg"
+          },
+          {
+            "alt": "Showcase Cinemas-Delete Account from Website. Step 4: Under ‘Subject’ Click Customer Service",
+            "title": "Customer Service",
+            "url": "showcase-cinemas/slides/4CustomerService.jpg"
+          },
+          {
+            "alt": "Showcase Cinemas-Delete Account from Website. Step 5: Under ‘Location’ Choose your Location",
+            "title": "Choose Location",
+            "url": "showcase-cinemas/slides/5Fairfield.jpg"
+          },
+          {
+            "alt": "Showcase Cinemas-Delete Account from Website. Step 6: Type a Deletion Request under Message and Click Submit",
+            "title": "Deletion Request",
+            "url": "showcase-cinemas/slides/6MessageandSubmit.jpg"
+          }
+        ]
+      }
+    }
+  ]
+}

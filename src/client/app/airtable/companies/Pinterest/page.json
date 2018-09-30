@@ -1,0 +1,128 @@
+{
+  "name": "Pinterest",
+  "top_app": true,
+  "breaches": 2,
+  "delete": "https://www.pinterest.com/settings/",
+  "social_image": [
+    {
+      "id": "attY0RVON6tDZ783M",
+      "url": "https://dl.airtable.com/iCcLCF5JQymKveFLObw5_pinterest-social.jpg",
+      "filename": "pinterest-social.jpg",
+      "size": 2602166,
+      "type": "image/jpeg",
+      "thumbnails": {
+        "small": {
+          "url": "https://dl.airtable.com/bpWlcnjShqBC8nqx7bc1_small_pinterest-social.jpg",
+          "width": 54,
+          "height": 36
+        },
+        "large": {
+          "url": "https://dl.airtable.com/nYQk34XjTpqblAxu9ud3_large_pinterest-social.jpg",
+          "width": 768,
+          "height": 512
+        },
+        "full": {
+          "url": "https://dl.airtable.com/dGwA2yHAQWK0JJMmFPjB_full_pinterest-social.jpg",
+          "width": 3000,
+          "height": 2000
+        }
+      }
+    }
+  ],
+  "support": [
+    {
+      "link": "https://help.pinterest.com/en",
+      "text": "Help Center"
+    },
+    {
+      "link": "https://help.pinterest.com/en/contact",
+      "text": "Contact"
+    }
+  ],
+  "logo": "pinterest/logo.jpg",
+  "instructions": [
+    {
+      "header": "Delete or Deactivate Account",
+      "title": "How To Delete or Deactivate Your Pinterest Account",
+      "id": "delete-or-deactivate-account",
+      "link": "pinterest/delete-or-deactivate-account",
+      "before": "There are two options if you no longer want your Pinterest Account.  You can either temporarily disable your account, or you can permanently delete it.  Both options follow the same steps, except at the end you either choose deactivate or delete.",
+      "after": "Remember, both Deactivation and Deletion will remove everything on Pinterest from the Public Eye.",
+      "action": {
+        "text": "Delete",
+        "link": "https://www.pinterest.com/settings/"
+      },
+      "thingsToRemember": [
+        "When you deactivate your Account, your profile and boards won't be visible on Pinterest anymore.  Pinterest will also unlink your Facebook and Twitter accounts, if you're connected to them. ",
+        "You can go to your old profile URL to make sure that your account's no longer live, ex: pinterest.com/USERNAME",
+        "Don't log in to confirm that it's deactivated—logging in will reactivate your account.",
+        "It will take 14 days for your account to be permanently closed (f you change your mind before 14 days, log in with email and password and Pinterest will send you a link to reactivate account).",
+        "After Deactivation, you can reactivate your Pinterest account whenever you want by logging in with your username and password. But you still have  to confirm reactivation by clicking the reactivation email on your email address."
+      ],
+      "website": {
+        "steps": [
+          "[Go to the Pinterest Website](https://www.pinterest.com). If you're already logged in, doing so will open your Pinterest home page",
+          "Open the 3 dots in the top right corner and Click Edit Settings",
+          "Click Account Basics and Scroll Down",
+          "Click Deactivate Account",
+          "Select the Reason you would like to Deactivate or Delete",
+          "Here you can either Click Deactivate my Account Or you can Click Permanently Close my Account "
+        ],
+        "slides": [
+          {
+            "alt": "Pinterest-Delete or Deactivate Account from Website. Step 1: [Go to the Pinterest Website](https://www.pinterest.com). If you're already logged in, doing so will open your Pinterest home page",
+            "title": "Login",
+            "url": "pinterest/slides/1PinterestSiteDD.png"
+          },
+          {
+            "alt": "Pinterest-Delete or Deactivate Account from Website. Step 2: Open the 3 dots in the top right corner and Click Edit Settings",
+            "title": "Edit Settings",
+            "url": "pinterest/slides/2PinterestSiteDD.png"
+          },
+          {
+            "alt": "Pinterest-Delete or Deactivate Account from Website. Step 3: Click Account Basics and Scroll Down",
+            "title": "Scroll Down",
+            "url": "pinterest/slides/3PinterestSiteDD.png"
+          },
+          {
+            "alt": "Pinterest-Delete or Deactivate Account from Website. Step 4: Click Deactivate Account",
+            "title": "Deactivate Account",
+            "url": "pinterest/slides/4PinterestSiteDD.png"
+          },
+          {
+            "alt": "Pinterest-Delete or Deactivate Account from Website. Step 5: Select the Reason you would like to Deactivate or Delete",
+            "title": "Privacy Concerns",
+            "url": "pinterest/slides/5PinterestSiteDD.png"
+          },
+          {
+            "alt": "Pinterest-Delete or Deactivate Account from Website. Step 6: Here you can either Click Deactivate my Account Or you can Click Permanently Close my Account ",
+            "title": "Deactivate or Delete",
+            "url": "pinterest/slides/6PinterestSiteDD.png"
+          }
+        ]
+      },
+      "qnAnswers": [
+        {
+          "question": "What happens when I deactivate my account?",
+          "answer": "When you deactivate your Account, your profile and boards won't be visible on Pinterest anymore.  Pinterest will also unlink your Facebook and Twitter accounts, if you're connected to them. ",
+          "createdAt": "July 28th 2018"
+        },
+        {
+          "question": "What happens when I delete my account?",
+          "answer": "It will take 14 days for your account to be permanently closed (f you change your mind before 14 days, log in with email and password and Pinterest will send you a link to reactivate account).",
+          "createdAt": "July 28th 2018"
+        },
+        {
+          "question": "How can I make sure that my account is no longer active?",
+          "answer": "You can go to your old profile URL to make sure that your account's no longer live, ex: pinterest.com/USERNAME.  Don't log in to confirm that it's deactivated—logging in will reactivate your account.",
+          "createdAt": "July 28th 2018"
+        },
+        {
+          "question": "How do I reactivate my  pinterest account?",
+          "answer": "After Deactivation, you can reactivate your Pinterest account whenever you want by logging in with your username and password. But you still have  to confirm reactivation by clicking the reactivation email on your email address.",
+          "createdAt": "July 28th 2018"
+        }
+      ]
+    }
+  ]
+}

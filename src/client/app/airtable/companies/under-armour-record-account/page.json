@@ -1,0 +1,104 @@
+{
+  "name": "Under Armour Record Account",
+  "top_app": false,
+  "breaches": 150,
+  "social_image": [
+    {
+      "id": "att57nfnVJwkmaUcM",
+      "url": "https://dl.airtable.com/ql1TeaEZRlaKDuQqK15O_socialmedia-UARECORD.png",
+      "filename": "socialmedia-UARECORD.png",
+      "size": 484725,
+      "type": "image/png",
+      "thumbnails": {
+        "small": {
+          "url": "https://dl.airtable.com/j9Qbh4bzQzyvlT7rmVzF_small_socialmedia-UARECORD.png",
+          "width": 20,
+          "height": 36
+        },
+        "large": {
+          "url": "https://dl.airtable.com/pXZfmfsvSdOOOki2jkE4_large_socialmedia-UARECORD.png",
+          "width": 512,
+          "height": 911
+        },
+        "full": {
+          "url": "https://dl.airtable.com/1VPxt3jLRLWD1kEQpjCY_full_socialmedia-UARECORD.png",
+          "width": 600,
+          "height": 1067
+        }
+      }
+    }
+  ],
+  "support": [
+    {
+      "link": "http://underarmour.custhelp.com/",
+      "text": "Help Center"
+    },
+    {
+      "link": "https://uarecord.zendesk.com/hc/en-us/requests/new",
+      "text": "Contact"
+    },
+    {
+      "email": "uahelp@underarmour.com"
+    }
+  ],
+  "logo": "under-armour-record-account/logo.jpg",
+  "instructions": [
+    {
+      "header": "Delete Account",
+      "title": "How To Delete Your Under Armour Record Account",
+      "id": "delete-account",
+      "link": "under-armour-record-account/delete-account",
+      "before": "Deleting your Under Armour Record Account is Easy.  You can do so from your mobile device.  To complete deletion please follow the steps below. ",
+      "after": "Please note, deleting this account will delete all profiles for MapMyRun, MapMyWalk, MapMy Ride, MayMyFitness, MayMyHike, and/or MapMyDogWalk.  This action action will not impact your profiles for MyFitnessPal or the UA shop app. ",
+      "qnAnswers": [
+        {
+          "question": "What happens when I delete my Account?",
+          "answer": "Deleting your Under Armour Record Account will not only Delete that account but it will delete all profiles for MapMyRun, MapMyWalk, MapMy Ride, MayMyFitness, MayMyHike, and/or MapMyDogWalk.  It will not impact your profiles for MyFitnessPal or the UA shop app. ",
+          "createdAt": "August 20th 2018"
+        }
+      ],
+      "ios": {
+        "steps": [
+          "Open Under Armour Record Account",
+          "Tap More on Bottom Right",
+          "Tap Settings",
+          "Tap Help",
+          "Tap Delete Account",
+          "Enter Password and Tap Next"
+        ],
+        "slides": [
+          {
+            "alt": "Under Armour Record Account-Delete Account from iOS. Step 1: Open Under Armour Record Account",
+            "title": "Open App",
+            "url": "under-armour-record-account/slides/575_1OpenUnderArmourRecordAccount.jpg"
+          },
+          {
+            "alt": "Under Armour Record Account-Delete Account from iOS. Step 2: Tap More on Bottom Right",
+            "title": "More",
+            "url": "under-armour-record-account/slides/576_2MoreBottomRight.jpg"
+          },
+          {
+            "alt": "Under Armour Record Account-Delete Account from iOS. Step 3: Tap Settings",
+            "title": "Settings",
+            "url": "under-armour-record-account/slides/577_3Settings.jpg"
+          },
+          {
+            "alt": "Under Armour Record Account-Delete Account from iOS. Step 4: Tap Help",
+            "title": "Help",
+            "url": "under-armour-record-account/slides/578_4Help.jpg"
+          },
+          {
+            "alt": "Under Armour Record Account-Delete Account from iOS. Step 5: Tap Delete Account",
+            "title": "Delete Account",
+            "url": "under-armour-record-account/slides/579_5DeleteAccount.jpg"
+          },
+          {
+            "alt": "Under Armour Record Account-Delete Account from iOS. Step 6: Enter Password and Tap Next",
+            "title": "Password",
+            "url": "under-armour-record-account/slides/580_6Next.jpg"
+          }
+        ]
+      }
+    }
+  ]
+}

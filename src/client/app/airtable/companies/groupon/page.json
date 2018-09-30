@@ -1,0 +1,124 @@
+{
+  "name": "Groupon",
+  "top_app": true,
+  "delete": "https://www.groupon.com/customer_support#choose",
+  "social_image": [
+    {
+      "id": "att6csyl6QzaX6W2R",
+      "url": "https://dl.airtable.com/1RTqkZTWS52AIIToOhB5_socialmedia-Groupon.jpg",
+      "filename": "socialmedia-Groupon.jpg",
+      "size": 71381,
+      "type": "image/jpeg",
+      "thumbnails": {
+        "small": {
+          "url": "https://dl.airtable.com/nGMS3GDsQtGjFrBKSwmx_small_socialmedia-Groupon.jpg",
+          "width": 17,
+          "height": 36
+        },
+        "large": {
+          "url": "https://dl.airtable.com/hcIAKgGoTLWX2nbVH4E4_large_socialmedia-Groupon.jpg",
+          "width": 460,
+          "height": 996
+        },
+        "full": {
+          "url": "https://dl.airtable.com/46YprQebTIa2XZrAWg56_full_socialmedia-Groupon.jpg",
+          "width": 460,
+          "height": 996
+        }
+      }
+    }
+  ],
+  "support": [
+    {
+      "link": "https://www.groupon.com/faq#faqs:history-YWN0aW9uPWhvbWU=",
+      "text": "Help Center"
+    },
+    {
+      "link": "https://www.groupon.com/customer_support?fromFaq=true#choose",
+      "text": "Contact"
+    },
+    {
+      "email": "support@groupon.com"
+    }
+  ],
+  "logo": "groupon/logo.jpg",
+  "instructions": [
+    {
+      "header": "Delete Account",
+      "title": "How To Delete Your Groupon Account",
+      "id": "delete-account",
+      "link": "groupon/delete-account",
+      "before": "Deleting your Groupon Account is Easy. You can either log onto Groupon from a Computer Browser and Navigate to the Help Section or email **support@groupon.com**. You cannot Delete Groupon from within the Mobile App. ",
+      "after": "You should receive a Reply to your Deletion email within 48 hours. ",
+      "action": {
+        "text": "Delete",
+        "link": "https://www.groupon.com/customer_support#choose"
+      },
+      "qnAnswers": [
+        {
+          "question": "What happens when I delete my Groupon Account?",
+          "answer": "Your information will be removed from Groupon and you will lose access to your account.  ",
+          "createdAt": "August 9th 2018"
+        },
+        {
+          "question": "Can I delete added Groupon items?",
+          "answer": "No. There is currently no way to delete an item once it has been created. ",
+          "createdAt": "August 10th 2018"
+        },
+        {
+          "question": "What happens when I edit a product?",
+          "answer": "Anytime you edit a product—including product title, price, or description—you have to resubmit it for review before it can go back on the site. The only editable field that does not require re-approval is the product quantity. ",
+          "createdAt": "August 10th 2018"
+        }
+      ],
+      "website": {
+        "steps": [
+          "Log on to the Groupon Website (https://www.groupon.com/).  If you are already logged in, doing so will open the Groupon Homepage. ",
+          "Click Help",
+          "Click Other Questions",
+          "Click Delete My Account",
+          "Click No, I still need Help",
+          "Click Email Groupon",
+          "Type a Deletion Request, then Click I'm Not a Robot, then Click Send"
+        ],
+        "slides": [
+          {
+            "alt": "Groupon-Delete Account from Website. Step 1: Log on to the Groupon Website (https://www.groupon.com/).  If you are already logged in, doing so will open the Groupon Homepage. ",
+            "title": "Log on",
+            "url": "groupon/slides/496_1Signin.jpg"
+          },
+          {
+            "alt": "Groupon-Delete Account from Website. Step 2: Click Help",
+            "title": "Help",
+            "url": "groupon/slides/497_2Help.jpg"
+          },
+          {
+            "alt": "Groupon-Delete Account from Website. Step 3: Click Other Questions",
+            "title": "Other Questions",
+            "url": "groupon/slides/498_3OtherQuestions.jpg"
+          },
+          {
+            "alt": "Groupon-Delete Account from Website. Step 4: Click Delete My Account",
+            "title": "Delete My Account",
+            "url": "groupon/slides/499_4DeleteMyAccount.jpg"
+          },
+          {
+            "alt": "Groupon-Delete Account from Website. Step 5: Click No, I still need Help",
+            "title": "No, I still need Help",
+            "url": "groupon/slides/500_5NoIstillneedhelp.jpg"
+          },
+          {
+            "alt": "Groupon-Delete Account from Website. Step 6: Click Email Groupon",
+            "title": "Email Groupon",
+            "url": "groupon/slides/501_6EmailGRoupon.jpg"
+          },
+          {
+            "alt": "Groupon-Delete Account from Website. Step 7: Type a Deletion Request, then Click I'm Not a Robot, then Click Send",
+            "title": "Deletion Request",
+            "url": "groupon/slides/502_7Send.jpg"
+          }
+        ]
+      }
+    }
+  ]
+}

@@ -1,0 +1,143 @@
+{
+  "name": "Indeed",
+  "top_app": false,
+  "delete": "http://www.indeed.com/my/account",
+  "social_image": [
+    {
+      "id": "attSHTrlmecBTutTg",
+      "url": "https://dl.airtable.com/MJwYtFxnQEGOinoZ2wZQ_Indeed_SocialMedia.png",
+      "filename": "Indeed_SocialMedia.png",
+      "size": 59868,
+      "type": "image/png",
+      "thumbnails": {
+        "small": {
+          "url": "https://dl.airtable.com/nVbihYT2QkmIRF44SlSg_small_Indeed_SocialMedia.png",
+          "width": 20,
+          "height": 36
+        },
+        "large": {
+          "url": "https://dl.airtable.com/WzRvx4hJSISwkds8D3pd_large_Indeed_SocialMedia.png",
+          "width": 316,
+          "height": 562
+        },
+        "full": {
+          "url": "https://dl.airtable.com/PyVlbTl0QuuHnbZ50LMk_full_Indeed_SocialMedia.png",
+          "width": 316,
+          "height": 562
+        }
+      }
+    }
+  ],
+  "support": [
+    {
+      "link": "https://support.indeed.com/hc/en-us",
+      "text": "Help Center"
+    },
+    {
+      "link": "https://www.indeed.com/support/contact ",
+      "text": "Contact"
+    }
+  ],
+  "logo": "indeed/Logo.jpg",
+  "instructions": [
+    {
+      "header": "Delete Account",
+      "title": "How To Delete Your Indeed Account",
+      "id": "delete-account",
+      "link": "indeed/delete-account",
+      "before": "You have two options for deleting your Indeed account.  You can navigate through the website or navigate through the Indeed app on your mobile device.",
+      "action": {
+        "text": "Delete",
+        "link": "http://www.indeed.com/my/account"
+      },
+      "qnAnswers": [
+        {
+          "question": "If I delete my account by mistake can I get it back?",
+          "answer": "Please note that deletion is an irreversible action and cannot be undone.",
+          "createdAt": "July 8th 2018"
+        },
+        {
+          "question": "If I delete my Account can I use the same email address to sign up again?",
+          "answer": "If you wish to use Indeed in the future, you can create a new account using the same or any other email address, however you will not have access to any of your original data.",
+          "createdAt": "July 8th 2018"
+        },
+        {
+          "question": "What happens to my resume once I close my Account?",
+          "answer": "Your resume and information will no longer be searchable to employers.  Additionally, your information will be removed from the database.  ",
+          "createdAt": "July 8th 2018"
+        },
+        {
+          "question": "Can I stop my alerts without fully deleting my Account?",
+          "answer": "Instead of closing your account, you also have the option to pause your alerts. If you have a resume on Indeed you can set it to private so that your information is not searchable on Indeed. You can still use this resume to apply to jobs. For these options, log into your account in the upper right-hand corner.",
+          "createdAt": "July 8th 2018"
+        }
+      ],
+      "website": {
+        "steps": [
+          "Go to the Indeed Website. If you're already logged in, doing so will open your Indeed home page.",
+          "Click on your Email Address on Top Right",
+          "Click My Account",
+          "Click Close My Account",
+          "Click Ok to Confirm"
+        ],
+        "slides": [
+          {
+            "alt": "Indeed-Delete Account from Website. Step 1: Go to the Indeed Website. If you're already logged in, doing so will open your Indeed home page.",
+            "title": "Login",
+            "url": "indeed/slides/1IndeedSiteDelete.png"
+          },
+          {
+            "alt": "Indeed-Delete Account from Website. Step 2: Click on your Email Address on Top Right",
+            "title": "Email Address",
+            "url": "indeed/slides/2IndeedSiteDelete.png"
+          },
+          {
+            "alt": "Indeed-Delete Account from Website. Step 3: Click My Account",
+            "title": "My Account",
+            "url": "indeed/slides/3IndeedSiteDelete.png"
+          },
+          {
+            "alt": "Indeed-Delete Account from Website. Step 4: Click Close My Account",
+            "title": "Close My Account",
+            "url": "indeed/slides/4IndeedSiteDelete.png"
+          },
+          {
+            "alt": "Indeed-Delete Account from Website. Step 5: Click Ok to Confirm",
+            "title": "Ok",
+            "url": "indeed/slides/5IndeedSiteDelete.png"
+          }
+        ]
+      },
+      "ios": {
+        "steps": [
+          "Open App",
+          "Scroll Down and Click on your Username/Email address",
+          "Click Close My Account",
+          "Click Yes to Confirm Deletion"
+        ],
+        "slides": [
+          {
+            "alt": "Indeed-Delete Account from iOS. Step 1: Open App",
+            "title": "Indeed",
+            "url": "indeed/slides/1IndeedIOSDelete.png"
+          },
+          {
+            "alt": "Indeed-Delete Account from iOS. Step 2: Scroll Down and Click on your Username/Email address",
+            "title": "Username/Email Address",
+            "url": "indeed/slides/2IndeedIOSDelete.png"
+          },
+          {
+            "alt": "Indeed-Delete Account from iOS. Step 3: Click Close My Account",
+            "title": "Close My Account",
+            "url": "indeed/slides/3IndeedIOSDelete.png"
+          },
+          {
+            "alt": "Indeed-Delete Account from iOS. Step 4: Click Yes to Confirm Deletion",
+            "title": "Yes",
+            "url": "indeed/slides/4IndeedIOSDelete.png"
+          }
+        ]
+      }
+    }
+  ]
+}

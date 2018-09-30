@@ -1,0 +1,57 @@
+.feedback {
+}.title {
+  font-weight: 500;
+}.how-improve {
+    display: none;
+    margin-bottom: 8px;
+}
+
+button {
+    font-size: 13px;
+    margin-top: 0;
+}
+
+.feedback form {
+  display: none;
+}
+.submit-button {
+  background-color: #F24848;
+  color: #fff;
+  font-size: 14px;
+  font-weight: 500;
+  line-height: 16px;
+  margin-top: 8px;
+  outline: 0;
+  padding: 10px 16px;
+  text-transform: uppercase;
+}
+
+textarea {
+  border: 1px solid #e0e0e0;
+  box-sizing: border-box;
+  color: #222222;
+  max-width: 448px;
+  outline: none;
+  padding: 16px;
+  resize: none;
+  width: 100%;
+}
+
+.as-button {
+  background-color: #F24848;
+  color: #fff;
+  display: inline-block;
+  font-weight: 500;
+  line-height: 16px;
+  margin: 6px 8px 6px 0;
+  min-width: 88px;
+  padding: 10px 0;
+  text-align: center;
+  text-transform: uppercase;
+  text-decoration: none;
+}
+
+.submit-button:hover, .as-button:hover {
+  background-color: #c14636;
+  cursor: pointer;
+}

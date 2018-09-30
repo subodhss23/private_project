@@ -1,0 +1,67 @@
+{
+  "name": "NumberOneMusic",
+  "top_app": false,
+  "delete": "http://www.numberonemusic.com/faq/contact",
+  "support": [
+    {
+      "link": "https://www.numberonemusic.com/faq",
+      "text": "Help Center"
+    },
+    {
+      "link": "http://www.numberonemusic.com/faq/contact",
+      "text": "Contact"
+    }
+  ],
+  "logo": "numberonemusic/logo.png",
+  "instructions": [
+    {
+      "header": "Delete Account",
+      "title": "How To Delete Your Number One Music Account",
+      "id": "delete-account",
+      "link": "numberonemusic/delete-account",
+      "before": "There is only one way to Delete your Number one Music Account and that is by navigating through the actual website to the Contact us page. ",
+      "after": "Your account will be Deleted shortly after sending the Deletion request. ",
+      "action": {
+        "text": "Delete",
+        "link": "http://www.numberonemusic.com/faq/contact"
+      },
+      "qnAnswers": [
+        {
+          "question": "How do I know my Account is really Deleted?",
+          "answer": "You can try and log back in.  When your account is deleted you will not be able to access your account. Please note that after deletion you won't be able to register again or re install your account even by using a different email. ",
+          "createdAt": "July 20th 2018"
+        }
+      ],
+      "website": {
+        "steps": [
+          "[Go to the Number One Music Website] (https://www.numberonemusic.com). If you're already logged in, doing so will open your Number One Music home page",
+          "Click the Username on the Top Right",
+          "Click Support",
+          "Type a Message Requesting Deletion and Click Send"
+        ],
+        "slides": [
+          {
+            "alt": "NumberOneMusic-Delete Account from Website. Step 1: [Go to the Number One Music Website] (https://www.numberonemusic.com). If you're already logged in, doing so will open your Number One Music home page",
+            "title": "Login",
+            "url": "numberonemusic/slides/1NOMSiteDelete.png"
+          },
+          {
+            "alt": "NumberOneMusic-Delete Account from Website. Step 2: Click the Username on the Top Right",
+            "title": "Username",
+            "url": "numberonemusic/slides/2NOMSiteDelete.png"
+          },
+          {
+            "alt": "NumberOneMusic-Delete Account from Website. Step 3: Click Support",
+            "title": "Support",
+            "url": "numberonemusic/slides/3NOMSiteDelete.png"
+          },
+          {
+            "alt": "NumberOneMusic-Delete Account from Website. Step 4: Type a Message Requesting Deletion and Click Send",
+            "title": "Deletion Request",
+            "url": "numberonemusic/slides/4NOMSiteDelete.png"
+          }
+        ]
+      }
+    }
+  ]
+}

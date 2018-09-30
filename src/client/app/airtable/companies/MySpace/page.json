@@ -1,0 +1,86 @@
+{
+  "name": "MySpace",
+  "top_app": false,
+  "breaches": 360,
+  "delete": "https://myspace.com/settings/profile ",
+  "support": [
+    {
+      "link": "https://help.myspace.com/hc/en-us ",
+      "text": "Help Center"
+    },
+    {
+      "email": "support@myspace.com "
+    },
+    {
+      "phone": "(424) 202-6148"
+    }
+  ],
+  "logo": "myspace/logo.jpg",
+  "instructions": [
+    {
+      "header": "Delete Account",
+      "title": "How To Delete Your MySpace Account",
+      "id": "delete-account",
+      "link": "myspace/delete-account",
+      "before": "The steps below walk you through how to delete your MySpace account. Since there's no MySpace app, you'll need to do this from a desktop browser.",
+      "action": {
+        "text": "Delete",
+        "link": "https://myspace.com/settings/profile "
+      },
+      "qnAnswers": [
+        {
+          "question": "Can I stop receiving notifications without Deleting my Account?",
+          "answer": "Yes.  Myspace created a section devoted to notifications under your settings so you can adjust the frequency and type of notifications you receive. ",
+          "createdAt": "July 11th 2018"
+        },
+        {
+          "question": "Can I Delete my Myspace Account if I no longer remember my password?",
+          "answer": "The short answer is No.  You must recover your password first.  If you can't log into MySpace due to a forgotten password and/or  an inactive email, their support department recommends attempting to recover your email address through your email provider and then resetting your password once your email address is active again.",
+          "createdAt": "July 11th 2018"
+        }
+      ],
+      "website": {
+        "steps": [
+          "Go to the MySpace Website. If you're already logged in, doing so will open your MySpace home page.",
+          "Click Settings Gear on Bottom Left",
+          "Click Account",
+          "Click Delete Account",
+          "Click Delete Account Again",
+          "Choose a reason then Click Delete My Account"
+        ],
+        "slides": [
+          {
+            "alt": "MySpace-Delete Account from Website. Step 1: Go to the MySpace Website. If you're already logged in, doing so will open your MySpace home page.",
+            "title": "Login",
+            "url": "myspace/slides/1MyspaceSiteDelete.png"
+          },
+          {
+            "alt": "MySpace-Delete Account from Website. Step 2: Click Settings Gear on Bottom Left",
+            "title": "Settings Gear",
+            "url": "myspace/slides/2MyspaceSiteDelete.png"
+          },
+          {
+            "alt": "MySpace-Delete Account from Website. Step 3: Click Account",
+            "title": "Account",
+            "url": "myspace/slides/3MyspaceSiteDelete.png"
+          },
+          {
+            "alt": "MySpace-Delete Account from Website. Step 4: Click Delete Account",
+            "title": "Delete Account",
+            "url": "myspace/slides/4MyspaceSiteDelete.png"
+          },
+          {
+            "alt": "MySpace-Delete Account from Website. Step 5: Click Delete Account Again",
+            "title": "Delete Account",
+            "url": "myspace/slides/5MyspaceSiteDelete.png"
+          },
+          {
+            "alt": "MySpace-Delete Account from Website. Step 6: Choose a reason then Click Delete My Account",
+            "title": "Delete My Account",
+            "url": "myspace/slides/6MyspaceSiteDelete.png"
+          }
+        ]
+      }
+    }
+  ]
+}

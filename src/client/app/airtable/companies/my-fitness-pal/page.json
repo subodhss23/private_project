@@ -1,0 +1,138 @@
+{
+  "name": "My Fitness Pal",
+  "top_app": false,
+  "breaches": 150,
+  "social_image": [
+    {
+      "id": "attF3pfHwsPdpyFM5",
+      "url": "https://dl.airtable.com/1dfu5AHSqOYeHmpZLEBh_socialmedia-MYFITNESSPAL.jpg",
+      "filename": "socialmedia-MYFITNESSPAL.jpg",
+      "size": 78445,
+      "type": "image/jpeg",
+      "thumbnails": {
+        "small": {
+          "url": "https://dl.airtable.com/xfgHuLkTkW497DJFpLEQ_small_socialmedia-MYFITNESSPAL.jpg",
+          "width": 17,
+          "height": 36
+        },
+        "large": {
+          "url": "https://dl.airtable.com/UimfSZ9Sl6BV6jp1Ffid_large_socialmedia-MYFITNESSPAL.jpg",
+          "width": 460,
+          "height": 996
+        },
+        "full": {
+          "url": "https://dl.airtable.com/OTCNdxJKTniW3u6OsOoZ_full_socialmedia-MYFITNESSPAL.jpg",
+          "width": 460,
+          "height": 996
+        }
+      }
+    }
+  ],
+  "support": [
+    {
+      "link": "https://myfitnesspal.desk.com/?",
+      "text": "Help Center"
+    },
+    {
+      "link": "https://myfitnesspal.desk.com/customer/portal/emails/new",
+      "text": "Contact"
+    },
+    {
+      "email": "uahelp@underarmour.com"
+    }
+  ],
+  "logo": "my-fitness-pal/logo.jpg",
+  "instructions": [
+    {
+      "header": "Delete Account",
+      "title": "How To Delete Your My Fitness Pal Account",
+      "id": "delete-account",
+      "link": "my-fitness-pal/delete-account",
+      "before": "Deleting your My Fitness Pal Account is Easy.  You can do so from a computer browser or a mobile device.  Follow the steps below to complete deletion. ",
+      "qnAnswers": [
+        {
+          "question": "What happens when I delete my Account?",
+          "answer": "After Deletion information cannot be recovered.  Deletion cannot be undone. You will lose access to all of the data associated with your profile including food entries, workouts, step entries, weight entries, notes, newsfeed posts, and photos.  Please note, only the MyFitnessPal account will be deleted and this action will not impact any other Under Armour accounts you might have.  If you decide to try MyFitnessPal again, you’ll need to choose a new username the next time.\n",
+          "createdAt": "August 20th 2018"
+        },
+        {
+          "question": "I forgot my password.  Can I still Delete my Account?",
+          "answer": "No.  You must be able to log into your account to delete it.  [Please Click here] (https://myfitnesspal.desk.com/customer/en/portal/articles/1029658-how-do-i-change-my-password-how-can-i-recover-a-forgotten-password-) for more information.  Or you can [Click here] (https://www.myfitnesspal.com/account/forgot_password) to be directed straight to the forgotten password link. ",
+          "createdAt": "August 21st 2018"
+        }
+      ],
+      "ios": {
+        "steps": [
+          "Tap My Fitness Pal",
+          "Tap More on Bottom Right",
+          "Tap Help",
+          "Tap Delete Account",
+          "Enter Password and Tap Delete",
+          "Tap Delete to Confirm"
+        ],
+        "slides": [
+          {
+            "alt": "My Fitness Pal-Delete Account from iOS. Step 1: Tap My Fitness Pal",
+            "title": "Open App",
+            "url": "my-fitness-pal/slides/585_1OpenMyFitnessPal.jpg"
+          },
+          {
+            "alt": "My Fitness Pal-Delete Account from iOS. Step 2: Tap More on Bottom Right",
+            "title": "More",
+            "url": "my-fitness-pal/slides/586_2MoreonBottomRight.jpg"
+          },
+          {
+            "alt": "My Fitness Pal-Delete Account from iOS. Step 3: Tap Help",
+            "title": "Help",
+            "url": "my-fitness-pal/slides/587_3TapHelp.jpg"
+          },
+          {
+            "alt": "My Fitness Pal-Delete Account from iOS. Step 4: Tap Delete Account",
+            "title": "Delete Account",
+            "url": "my-fitness-pal/slides/588_4TapDeleteAccount.jpg"
+          },
+          {
+            "alt": "My Fitness Pal-Delete Account from iOS. Step 5: Enter Password and Tap Delete",
+            "title": "Password and Delete",
+            "url": "my-fitness-pal/slides/589_5DeleteAccount.jpg"
+          },
+          {
+            "alt": "My Fitness Pal-Delete Account from iOS. Step 6: Tap Delete to Confirm",
+            "title": "Confrim Deletion",
+            "url": "my-fitness-pal/slides/590_6Delete.jpg"
+          }
+        ]
+      },
+      "website": {
+        "steps": [
+          "[Log on to My Fitness Pal Website] (https://www.myfitnesspal.com/).  If you're already logged in, doing so will open your My Fitness Pal Homepage. ",
+          "Click Settings",
+          "Click Delete Account",
+          "Click Delete Account"
+        ],
+        "slides": [
+          {
+            "alt": "My Fitness Pal-Delete Account from Website. Step 1: [Log on to My Fitness Pal Website] (https://www.myfitnesspal.com/).  If you're already logged in, doing so will open your My Fitness Pal Homepage. ",
+            "title": "Login",
+            "url": "my-fitness-pal/slides/581_1LOGIN.jpg"
+          },
+          {
+            "alt": "My Fitness Pal-Delete Account from Website. Step 2: Click Settings",
+            "title": "Settings",
+            "url": "my-fitness-pal/slides/582_2Settings.jpg"
+          },
+          {
+            "alt": "My Fitness Pal-Delete Account from Website. Step 3: Click Delete Account",
+            "title": "Delete Account",
+            "url": "my-fitness-pal/slides/583_3DeleteAccount.jpg"
+          },
+          {
+            "alt": "My Fitness Pal-Delete Account from Website. Step 4: Click Delete Account",
+            "title": "Delete Account",
+            "url": "my-fitness-pal/slides/584_4DELETEACCOUNT.jpg"
+          }
+        ]
+      }
+    }
+  ]
+}

@@ -1,0 +1,303 @@
+{
+  "name": "Calm",
+  "top_app": false,
+  "delete": "https://support.calm.com/hc/en-us/requests/new ",
+  "social_image": [
+    {
+      "id": "attgfAeQ478gxspXH",
+      "url": "https://dl.airtable.com/B6VIwFQLS46PhpREyQO8_SocialMedia-Calm.jpg",
+      "filename": "SocialMedia-Calm.jpg",
+      "size": 100076,
+      "type": "image/jpeg",
+      "thumbnails": {
+        "small": {
+          "url": "https://dl.airtable.com/opG3E43PSNeXsiWyg7bl_small_SocialMedia-Calm.jpg",
+          "width": 17,
+          "height": 36
+        },
+        "large": {
+          "url": "https://dl.airtable.com/6Kp7ejFISdqxApJQXmcF_large_SocialMedia-Calm.jpg",
+          "width": 512,
+          "height": 1108
+        },
+        "full": {
+          "url": "https://dl.airtable.com/2nJsxWGwQYSqOK04GQl9_full_SocialMedia-Calm.jpg",
+          "width": 600,
+          "height": 1299
+        }
+      }
+    }
+  ],
+  "support": [
+    {
+      "link": "https://support.calm.com/hc/en-us",
+      "text": "Help Center"
+    },
+    {
+      "link": "https://support.calm.com/hc/en-us/requests/new ",
+      "text": "Contact"
+    },
+    {
+      "email": "support@calm.com"
+    }
+  ],
+  "logo": "calm/logo.jpg",
+  "instructions": [
+    {
+      "header": "Delete Apple Subscription",
+      "title": "How to Delete Your Calm Subscription From Apple",
+      "id": "delete-apple-subscription",
+      "link": "calm/delete-apple-subscription",
+      "before": "If you have a subscription account, just deleting your account won’t cancel the subscription.  You must cancel the subscription first by following the steps below. Once this is done, you have the option of deleting the free account if you choose.  ",
+      "after": "If you don’t see 'Calm.com' under ‘Active’ subscriptions then you do not have anything you need to Cancel.  If you see the Calm Free Trial Subscription on your list, please open it. Once open you will see the Calm subscription screen. Tap the \"Cancel Subscription\" button.  This will cancel your trial Subscription.  ",
+      "qnAnswers": [
+        {
+          "question": "I Just Downloaded The Calm App.  Am I going To Be Charged?",
+          "answer": "No.  The Calm App is free to download, and you will not incur any charges from downloading it or creating a calm account",
+          "createdAt": "July 15th 2018"
+        },
+        {
+          "question": "Will Canceling My Free Calm.com Account Cancel My Subscription?",
+          "answer": "No. Once you activate a free trial through iTunes, you will need to cancel before the end of the trial period to avoid being charged for the annual subscription.  Calm is not able to cancel a free trial on your behalf.   [Click here for more details] (https://support.calm.com/hc/en-us/articles/115005144313-How-to-cancel-iOS-free-trial-through-the-iTunes-App-Store) ",
+          "createdAt": "July 16th 2018"
+        },
+        {
+          "question": "Will Canceling My Free Calm.com Account Cancel My Subscription?",
+          "answer": "If you have been charged for a subscription and no longer wish to use Calm, you can request a refund from Apple. Please note, you will need to work with Apple directly, as Calm is not able to manage in-app purchases or offer refunds on their behalf. ",
+          "createdAt": "July 16th 2018"
+        },
+        {
+          "question": "Can I get A Refund If I Was Charged For My Subscription?",
+          "answer": "Once you activate a free trial through  Itunes or the Google Play store, you will need to cancel at least 24 hours before the trial ends to avoid being charged for the annual subscription.",
+          "createdAt": "July 16th 2018"
+        }
+      ],
+      "ios": {
+        "steps": [
+          "Open Settings on your IOS Device",
+          "Open Itunes & App Store",
+          "On the screen that appears, tap your Apple ID listed at the top",
+          "In the pop-up modal that shows, tap 'View Apple ID', and sign in if requested to do so",
+          "This brings you to an Account Settings page.  Scroll down and tap the ‘Subscriptions’ Option ",
+          "Here you will see a list of your current Apple Subscriptions. If you do not see Calm listed under ‘Active’, you are using the free version of Calm and have not activated a subscription trial."
+        ],
+        "slides": [
+          {
+            "alt": "Calm-Delete Apple Subscription from iOS. Step 1: Open Settings on your IOS Device",
+            "title": "Settings",
+            "url": "calm/slides/1CalmDeleteFromAppleIOS.png"
+          },
+          {
+            "alt": "Calm-Delete Apple Subscription from iOS. Step 2: Open Itunes & App Store",
+            "title": "Itunes &App Store",
+            "url": "calm/slides/2CalmDeleteFromAppleIOS.png"
+          },
+          {
+            "alt": "Calm-Delete Apple Subscription from iOS. Step 3: On the screen that appears, tap your Apple ID listed at the top",
+            "title": "Apple ID",
+            "url": "calm/slides/3CalmDeleteFromAppleIOS.png"
+          },
+          {
+            "alt": "Calm-Delete Apple Subscription from iOS. Step 4: In the pop-up modal that shows, tap 'View Apple ID', and sign in if requested to do so",
+            "title": "View Apple ID",
+            "url": "calm/slides/4CalmDeleteFromAppleIOS.png"
+          },
+          {
+            "alt": "Calm-Delete Apple Subscription from iOS. Step 5: This brings you to an Account Settings page.  Scroll down and tap the ‘Subscriptions’ Option ",
+            "title": "Subscription Option",
+            "url": "calm/slides/5CalmDeleteFromAppleIOS.png"
+          },
+          {
+            "alt": "Calm-Delete Apple Subscription from iOS. Step 6: Here you will see a list of your current Apple Subscriptions. If you do not see Calm listed under ‘Active’, you are using the free version of Calm and have not activated a subscription trial.",
+            "title": "List of Subscription Options",
+            "url": "calm/slides/6CalmDeleteFromAppleIOS.png"
+          }
+        ]
+      }
+    },
+    {
+      "header": "Manage Your Calm Subscription Status",
+      "title": "How To Manage Your Calm Subscription Status",
+      "id": "manage-your-calm-subscription-status",
+      "link": "calm/manage-your-calm-subscription-status",
+      "before": "You can check your current subscription status on the Calm Website or from the Calm Mobile app to find out if you have any subscriptions that you are currently paying for. From here, you can cancel your subscription too. ",
+      "after": "If you check this page and you do have a subscription you can cancel it here.  Canceling the subscription will still leave you with a free calm account.  If you want to delete your free account too you can open the How To module on ‘Deleting Free Accounts’ and follow the steps provided.",
+      "action": {
+        "text": "Manage",
+        "link": "https://www.calm.com/profile/stats "
+      },
+      "qnAnswers": [
+        {
+          "question": "I Just Downloaded The Calm App.  Am I going To Be Charged?",
+          "answer": "No.  The Calm App is free to download, and you will not incur any charges from downloading it or creating a calm account",
+          "createdAt": "July 15th 2018"
+        },
+        {
+          "question": "Will Canceling My Free Calm.com Account Cancel My Subscription?",
+          "answer": "No. Once you activate a free trial through iTunes, you will need to cancel before the end of the trial period to avoid being charged for the annual subscription.  Calm is not able to cancel a free trial on your behalf.   [Click here for more details] (https://support.calm.com/hc/en-us/articles/115005144313-How-to-cancel-iOS-free-trial-through-the-iTunes-App-Store) ",
+          "createdAt": "July 15th 2018"
+        },
+        {
+          "question": "Can I get A Refund If I Was Charged For My Subscription?",
+          "answer": "If you have been charged for a subscription and no longer wish to use Calm, you can request a refund from Apple. Please note, you will need to work with Apple directly, as Calm is not able to manage in-app purchases or offer refunds on their behalf. ",
+          "createdAt": "July 15th 2018"
+        },
+        {
+          "question": "When do I have to Cancel my Trial Subscription before I get charged?",
+          "answer": "Once you activate a free trial through  Itunes or the Google Play store, you will need to cancel at least 24 hours before the trial ends to avoid being charged for the annual subscription.",
+          "createdAt": "July 15th 2018"
+        }
+      ],
+      "ios": {
+        "steps": [
+          "Open the Calm App on your IOS Device",
+          "Tap the Profile Icon on the Top Right",
+          "Tap Settings",
+          "Tap Manage Subscriptions",
+          "If you see this screen you do not have any Subscriptions you need to worry about"
+        ],
+        "slides": [
+          {
+            "alt": "Calm-Manage Your Calm Subscription Status from iOS. Step 1: Open the Calm App on your IOS Device",
+            "title": "Open App",
+            "url": "calm/slides/1CalmIOSDelete.png"
+          },
+          {
+            "alt": "Calm-Manage Your Calm Subscription Status from iOS. Step 2: Tap the Profile Icon on the Top Right",
+            "title": "Profile Icon",
+            "url": "calm/slides/2CalmIOSDelete.png"
+          },
+          {
+            "alt": "Calm-Manage Your Calm Subscription Status from iOS. Step 3: Tap Settings",
+            "title": "Settings",
+            "url": "calm/slides/3CalmIOSDelete.png"
+          },
+          {
+            "alt": "Calm-Manage Your Calm Subscription Status from iOS. Step 4: Tap Manage Subscriptions",
+            "title": "Manage Subscriptions",
+            "url": "calm/slides/4CalmIOSDelete.png"
+          },
+          {
+            "alt": "Calm-Manage Your Calm Subscription Status from iOS. Step 5: If you see this screen you do not have any Subscriptions you need to worry about",
+            "title": "Subscription Screen",
+            "url": "calm/slides/5CalmIOSDelete.png"
+          }
+        ]
+      },
+      "website": {
+        "steps": [
+          "Go to the [Calm.com](https://www.calm.com). If you're already logged in, doing so will open your Calm.com home page",
+          "Click the Profile Icon on the Top Right"
+        ],
+        "slides": [
+          {
+            "alt": "Calm-Manage Your Calm Subscription Status from Website. Step 1: Go to the [Calm.com](https://www.calm.com). If you're already logged in, doing so will open your Calm.com home page",
+            "title": "Login",
+            "url": "calm/slides/1CalmSiteDelete.png"
+          },
+          {
+            "alt": "Calm-Manage Your Calm Subscription Status from Website. Step 2: Click the Profile Icon on the Top Right",
+            "title": "Profil Icon",
+            "url": "calm/slides/2CalmSiteDelete.png"
+          }
+        ]
+      }
+    },
+    {
+      "header": "Delete Free Account",
+      "title": "How To Delete Your Free Calm Account",
+      "id": "delete-free-account",
+      "link": "calm/delete-free-account",
+      "before": "There are two different types Calm.com Accounts.  There is a free account and a paid subscription account.  The steps listed below outline the only way to delete your Free Calm.com Account. ",
+      "after": "After you send the deletion request you will receive a confirmation email letting you know that your account has been deleted. ",
+      "action": {
+        "text": "Delete",
+        "link": "https://support.calm.com/hc/en-us/articles/115005141794-Calm-Support"
+      },
+      "qnAnswers": [
+        {
+          "question": "I Just Downloaded The Calm App.  Am I going To Be Charged?",
+          "answer": "No.  The Calm App is free to download, and you will not incur any charges from downloading it or creating a calm account",
+          "createdAt": "July 15th 2018"
+        },
+        {
+          "question": "Will Canceling My Free Calm.com Account Cancel My Subscription?",
+          "answer": "No. Once you activate a free trial through iTunes, you will need to cancel before the end of the trial period to avoid being charged for the annual subscription.  Calm is not able to cancel a free trial on your behalf.   [Click here for more details] (https://support.calm.com/hc/en-us/articles/115005144313-How-to-cancel-iOS-free-trial-through-the-iTunes-App-Store) ",
+          "createdAt": "July 15th 2018"
+        }
+      ],
+      "website": {
+        "steps": [
+          "Go to the [Calm.com](https://www.calm.com). If you're already logged in, doing so will open your Calm.com home page",
+          "Scroll Down to the bottom of page and Click Contact Us",
+          "Click “Subscribe” to see what your current subscription status is",
+          "Click I Still Need Help",
+          "Type the Email Associated with your Calm.com Account",
+          "Under ‘Subject’ Type ‘Delete Account’",
+          "Under ‘Description’ Type ‘I would like to Delete my Free Calm.com Account’",
+          "Select your Device",
+          "Under ‘What can we help you with?’ Click ‘Other’",
+          "Click ‘Submit Now’",
+          "You will receive a confirmation message that your request has been sent"
+        ],
+        "slides": [
+          {
+            "alt": "Calm-Delete Free Account from Website. Step 1: Go to the [Calm.com](https://www.calm.com). If you're already logged in, doing so will open your Calm.com home page",
+            "title": "Login",
+            "url": "calm/slides/1CalmFreeSiteDelete.png"
+          },
+          {
+            "alt": "Calm-Delete Free Account from Website. Step 2: Scroll Down to the bottom of page and Click Contact Us",
+            "title": "Contact us",
+            "url": "calm/slides/2CalmFreeSiteDelete.png"
+          },
+          {
+            "alt": "Calm-Delete Free Account from Website. Step 3: Click “Subscribe” to see what your current subscription status is",
+            "title": "Subscribe",
+            "url": "calm/slides/3CalmSiteDelete.png"
+          },
+          {
+            "alt": "Calm-Delete Free Account from Website. Step 4: Click I Still Need Help",
+            "title": "I Still Need Help",
+            "url": "calm/slides/4CalmFreeSiteDelete.png"
+          },
+          {
+            "alt": "Calm-Delete Free Account from Website. Step 5: Type the Email Associated with your Calm.com Account",
+            "title": "Type Email",
+            "url": "calm/slides/5CalmFreeSiteDelete.png"
+          },
+          {
+            "alt": "Calm-Delete Free Account from Website. Step 6: Under ‘Subject’ Type ‘Delete Account’",
+            "title": "Delete Account",
+            "url": "calm/slides/6CalmFreeSiteDelete.png"
+          },
+          {
+            "alt": "Calm-Delete Free Account from Website. Step 7: Under ‘Description’ Type ‘I would like to Delete my Free Calm.com Account’",
+            "title": "Delete My Free Calm Account",
+            "url": "calm/slides/7CalmFreeSiteDelete.png"
+          },
+          {
+            "alt": "Calm-Delete Free Account from Website. Step 8: Select your Device",
+            "title": "Device",
+            "url": "calm/slides/8CalmFreeSiteDelete.png"
+          },
+          {
+            "alt": "Calm-Delete Free Account from Website. Step 9: Under ‘What can we help you with?’ Click ‘Other’",
+            "title": "Other",
+            "url": "calm/slides/9CalmFreeSiteDelete.png"
+          },
+          {
+            "alt": "Calm-Delete Free Account from Website. Step 10: Click ‘Submit Now’",
+            "title": "Submit Now",
+            "url": "calm/slides/10CalmFreeSiteDelete.png"
+          },
+          {
+            "alt": "Calm-Delete Free Account from Website. Step 11: You will receive a confirmation message that your request has been sent",
+            "title": "Confirmation Message",
+            "url": "calm/slides/11CalmFreeSiteDelete.png"
+          }
+        ]
+      }
+    }
+  ]
+}

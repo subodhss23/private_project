@@ -1,0 +1,72 @@
+
+/*.tile > * {
+  border: 2px solid red;
+}*/
+
+.top-sites {
+  margin: 40px auto;
+  display: grid;
+  grid-template-columns: repeat(3, 1fr);
+  grid-gap: 30px;
+}
+
+.tile {
+  height: 171px;
+  width: 304px;
+  background-color: #F4F4F5;
+  display: grid;
+  grid-template-columns: 148px 1fr;
+  grid-auto-rows: 42px; 
+}
+
+.box1 {
+  grid-row-start: 1; 
+  grid-row-end: span 4;
+}
+
+.box2 {
+  grid-row-start: 1; 
+  grid-row-start: span 1; 
+}
+
+.box3 {
+  grid-row-start: 2; 
+  grid-row-end: span 3;
+}
+
+.title {
+  height: 66px;
+  width: 121px;
+  margin-left: 18px;
+  margin-top: 13px;
+  font-size: 14px;
+  color: #222E3D;
+  line-height: 35px;
+  letter-spacing: 0.4px;
+}
+
+.title p b {
+  font-size: 18px;
+}
+
+.icon {
+  margin-top: 35px;
+  margin-left: 37px;
+  margin-bottom: 33px;
+  height: 111px;
+  width: 111px;
+  background-size: contain;
+}
+
+.icon > img {
+  border-radius: 22.5%;
+  border: 1px solid rgba(0,0,0,.1);
+}
+
+.deleteIcon {
+  float: right;
+  width: 32px;
+  height: 32px;
+  margin-top: 9px;
+  margin-right: 9px;
+}

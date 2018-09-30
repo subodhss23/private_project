@@ -1,0 +1,121 @@
+{
+  "name": "Venmo",
+  "top_app": true,
+  "delete": "https://venmo.com/account/settings/profile",
+  "social_image": [
+    {
+      "id": "attcerzhifFJLf00n",
+      "url": "https://dl.airtable.com/7htD7FvSRD3eEhRtOJmD_socialmedia-venmo.png",
+      "filename": "socialmedia-venmo.png",
+      "size": 139891,
+      "type": "image/png",
+      "thumbnails": {
+        "small": {
+          "url": "https://dl.airtable.com/276GFP9R1iPh63Yf8lhW_small_socialmedia-venmo.png",
+          "width": 20,
+          "height": 36
+        },
+        "large": {
+          "url": "https://dl.airtable.com/Burv78GbRieOaziUoOP4_large_socialmedia-venmo.png",
+          "width": 512,
+          "height": 911
+        },
+        "full": {
+          "url": "https://dl.airtable.com/DLA81S3SRJ6dTXr5C5CX_full_socialmedia-venmo.png",
+          "width": 600,
+          "height": 1067
+        }
+      }
+    }
+  ],
+  "support": [
+    {
+      "link": "https://help.venmo.com/hc/en-us",
+      "text": "Help Center"
+    },
+    {
+      "link": "https://help.venmo.com/hc/en-us/requests/new",
+      "text": "Contact"
+    },
+    {
+      "email": "cardsupport@venmo.com"
+    },
+    {
+      "phone": "(855) 812-4430"
+    }
+  ],
+  "logo": "venmo/logo.jpg",
+  "instructions": [
+    {
+      "header": "Delete Account",
+      "title": "How To Delete Your Venmo Acount",
+      "id": "delete-account",
+      "link": "venmo/delete-account",
+      "before": "Closing your Venmo Account is easy.  You can do so by navigating to the Delete Page through your computer browser. You cannot Close your Account from within the mobile app. ",
+      "after": "Now, all you have to do is the delete the app from your mobile device.",
+      "action": {
+        "text": "Delete",
+        "link": "https://venmo.com/account/settings/profile"
+      },
+      "qnAnswers": [
+        {
+          "question": "Can I Delete My Account if I do not remember my Password?",
+          "answer": "No.  You will need to be logged in to close your account. If you need to reset your password, you can [click here to do so] (https://venmo.com/account/password-reset). ",
+          "createdAt": "July 22nd 2018"
+        },
+        {
+          "question": "What happens to my Funds when I Delete my Account?",
+          "answer": "You’ll need to transfer any funds in your Venmo balance to your bank account before deleting your account, or return the funds to the sender. Any funds remaining in your balance at the time you of close your Venmo Account will not be available to you without contacting Venmo again.",
+          "createdAt": "July 22nd 2018"
+        },
+        {
+          "question": "Do I have to Delete My Account if I do not want my payments public?",
+          "answer": "No. You can set up your Venmo account so that the privacy setting for all future payments is automatically set to your preference.  When you sign up the default privacy settings are set to public, but you can change that to private whenever you choose. ",
+          "createdAt": "July 22nd 2018"
+        }
+      ],
+      "website": {
+        "steps": [
+          "[Log onto the Venmo Website] (https://venmo.com). If you're already logged in, doing so will open your Venmo home page.",
+          "Click Settings on Top Right",
+          "Click Close My Account",
+          "Click Next",
+          "Click Next",
+          "Click Close My Account to Confirm"
+        ],
+        "slides": [
+          {
+            "alt": "Venmo-Delete Account from Website. Step 1: [Log onto the Venmo Website] (https://venmo.com). If you're already logged in, doing so will open your Venmo home page.",
+            "title": "Login",
+            "url": "venmo/slides/379_1Signin.jpg"
+          },
+          {
+            "alt": "Venmo-Delete Account from Website. Step 2: Click Settings on Top Right",
+            "title": "Settings",
+            "url": "venmo/slides/380_2Settings.jpg"
+          },
+          {
+            "alt": "Venmo-Delete Account from Website. Step 3: Click Close My Account",
+            "title": "Close My Account",
+            "url": "venmo/slides/381_3CloseMyVemoAcount.jpg"
+          },
+          {
+            "alt": "Venmo-Delete Account from Website. Step 4: Click Next",
+            "title": "Next",
+            "url": "venmo/slides/382_4Next.jpg"
+          },
+          {
+            "alt": "Venmo-Delete Account from Website. Step 5: Click Next",
+            "title": "Next",
+            "url": "venmo/slides/383_5Next.jpg"
+          },
+          {
+            "alt": "Venmo-Delete Account from Website. Step 6: Click Close My Account to Confirm",
+            "title": "Close My Account",
+            "url": "venmo/slides/384_6CloseMyAccount.jpg"
+          }
+        ]
+      }
+    }
+  ]
+}

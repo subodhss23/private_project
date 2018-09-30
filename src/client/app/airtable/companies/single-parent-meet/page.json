@@ -1,0 +1,212 @@
+{
+  "name": "Single Parent Meet",
+  "top_app": false,
+  "delete": "https://www.singleparentmeet.com/v3/account/RemoveMyProfile?back=MyAccount",
+  "social_image": [
+    {
+      "id": "attNbtW8lteOpVt1I",
+      "url": "https://dl.airtable.com/plFDIVY6SmWHFR1zUzyJ_download.jpg",
+      "filename": "download.jpg",
+      "size": 93917,
+      "type": "image/jpeg",
+      "thumbnails": {
+        "small": {
+          "url": "https://dl.airtable.com/sVgxbx3T2GEHB6slqA5g_small_download.jpg",
+          "width": 20,
+          "height": 36
+        },
+        "large": {
+          "url": "https://dl.airtable.com/swkdUUujQHiL9NjqUJGY_large_download.jpg",
+          "width": 512,
+          "height": 911
+        },
+        "full": {
+          "url": "https://dl.airtable.com/JHljlhKPQk27fYXCxcNh_full_download.jpg",
+          "width": 600,
+          "height": 1067
+        }
+      }
+    }
+  ],
+  "support": [
+    {
+      "link": "https://www.singleparentmeet.com/v3/help",
+      "text": "Help Center"
+    },
+    {
+      "link": "https://www.singleparentmeet.com/v3/help",
+      "text": "Contact"
+    },
+    {
+      "phone": "1-866-727-8920 "
+    }
+  ],
+  "logo": "single-parent-meet/logo.jpg",
+  "instructions": [
+    {
+      "header": "Delete Account",
+      "title": "How To Delete Your Free Single Parents Meet Account",
+      "id": "delete-account",
+      "link": "single-parent-meet/delete-account",
+      "before": "Deleting your Single Parents Meet Account is a simple process. Log onto your account from a computer browser and follow the steps below. This will permanently Delete your Single Parents Meet Account. ",
+      "action": {
+        "text": "Delete",
+        "link": "https://www.singleparentmeet.com/v3/account/RemoveMyProfile?back=MyAccount"
+      },
+      "qnAnswers": [
+        {
+          "question": "What happens when I delete my free account?",
+          "answer": "All emails, photos, records relating to your profile will be immediately removed from the site.",
+          "createdAt": "August 5th 2018"
+        },
+        {
+          "question": "Does deleting my account cancel my paid subscription?",
+          "answer": "No.  You must Cancel Your Subscription first.  Once the Subscription account is deleted then you can continue to delete your free account.",
+          "createdAt": "August 5th 2018"
+        },
+        {
+          "question": "How do I know if I have a paid subscription or a free registered guest account?",
+          "answer": "You can check your account status page.  [Click here to do so] (https://www.singleparentmeet.com/v3/account/AccountHistory?back=MyAccount). ",
+          "createdAt": "August 5th 2018"
+        }
+      ],
+      "website": {
+        "steps": [
+          "[Log on to the Single Parents meet Website](http://singleparentsmeet.com).  If you're already logged in doing so will open your Single Parents Meet homepage.",
+          "Click Settings",
+          "Click My Account",
+          "Scroll Down and Click View Account Status",
+          "Click Other Account Status Changes",
+          "Click Remove My Profile",
+          "Click No",
+          "Click 'I have not found what I am looking for' and Click Continue",
+          "Type Deletion Request and Click Remove My Profile",
+          "Click Remove My Profile to Confirm",
+          "This is the Confirmation Screen you will be directed to once your account has been deleted."
+        ],
+        "slides": [
+          {
+            "alt": "Single Parent Meet-Delete Account from Website. Step 1: [Log on to the Single Parents meet Website](http://singleparentsmeet.com).  If you're already logged in doing so will open your Single Parents Meet homepage.",
+            "title": "Log in",
+            "url": "single-parent-meet/slides/462_1Signin.jpg"
+          },
+          {
+            "alt": "Single Parent Meet-Delete Account from Website. Step 2: Click Settings",
+            "title": "Settings",
+            "url": "single-parent-meet/slides/463_2Settings.jpg"
+          },
+          {
+            "alt": "Single Parent Meet-Delete Account from Website. Step 3: Click My Account",
+            "title": "My Account",
+            "url": "single-parent-meet/slides/464_3MyAccount.jpg"
+          },
+          {
+            "alt": "Single Parent Meet-Delete Account from Website. Step 4: Scroll Down and Click View Account Status",
+            "title": "View Account Status",
+            "url": "single-parent-meet/slides/466_4ViewAccountStatus.jpg"
+          },
+          {
+            "alt": "Single Parent Meet-Delete Account from Website. Step 5: Click Other Account Status Changes",
+            "title": "Other Account Status Changes",
+            "url": "single-parent-meet/slides/467_5OtherAccountStatusChanges.jpg"
+          },
+          {
+            "alt": "Single Parent Meet-Delete Account from Website. Step 6: Click Remove My Profile",
+            "title": "Remove My Profile",
+            "url": "single-parent-meet/slides/468_6RemovemyProfile.jpg"
+          },
+          {
+            "alt": "Single Parent Meet-Delete Account from Website. Step 7: Click No",
+            "title": "No",
+            "url": "single-parent-meet/slides/469_7NO.jpg"
+          },
+          {
+            "alt": "Single Parent Meet-Delete Account from Website. Step 8: Click 'I have not found what I am looking for' and Click Continue",
+            "title": "Reason To Remove Profile",
+            "url": "single-parent-meet/slides/469_REMOVEMYPROFILE.jpg"
+          },
+          {
+            "alt": "Single Parent Meet-Delete Account from Website. Step 9: Type Deletion Request and Click Remove My Profile",
+            "title": "Remove My Profile",
+            "url": "single-parent-meet/slides/470_9RemoveProfile.jpg"
+          },
+          {
+            "alt": "Single Parent Meet-Delete Account from Website. Step 10: Click Remove My Profile to Confirm",
+            "title": "Remove My Pofile",
+            "url": "single-parent-meet/slides/471_10RemoveMyProfile.jpg"
+          },
+          {
+            "alt": "Single Parent Meet-Delete Account from Website. Step 11: This is the Confirmation Screen you will be directed to once your account has been deleted.",
+            "title": "Confirmation Screen",
+            "url": "single-parent-meet/slides/472_11DoNothingHighlightConfirmation.jpg"
+          }
+        ]
+      }
+    },
+    {
+      "header": "Delete Subscription Account",
+      "title": "How To Delete Your Single Parents Meet Subscription Account",
+      "id": "delete-subscription-account",
+      "link": "single-parent-meet/delete-subscription-account",
+      "before": "Deleting your Single Parents Meet Subscription Account is Easy. Log onto your account from a computer browser and follow the steps below. When you cancel, your account will remain active with full member benefits until your current subscription expires.  ",
+      "after": "Once the Subscription is Cancelled you will still have access to a free Single Parents Meet Account.  You must Delete the Free account to permanently Delete your Entire Account.  ",
+      "action": {
+        "text": "Delete",
+        "link": "https://www.singleparentmeet.com/v3/account/AccountHistory?back=MyAccount"
+      },
+      "qnAnswers": [
+        {
+          "question": "What happens when I delete my free account?",
+          "answer": "All emails, photos, records relating to your profile will be immediately removed from the site.",
+          "createdAt": "August 5th 2018"
+        },
+        {
+          "question": "Does deleting my account cancel my paid subscription?",
+          "answer": "No.  You must Cancel Your Subscription first.  Once the Subscription account is deleted then you can continue to delete your free account.",
+          "createdAt": "August 5th 2018"
+        },
+        {
+          "question": "How do I know if I have a paid subscription or a free registered guest account?",
+          "answer": "You can check your account status page.  [Click here to do so] (https://www.singleparentmeet.com/v3/account/AccountHistory?back=MyAccount). ",
+          "createdAt": "August 5th 2018"
+        }
+      ],
+      "website": {
+        "steps": [
+          "[Log on to the Single Parents meet Website](http://singleparentsmeet.com).  If you're already logged in doing so will open your Single Parents Meet homepage.",
+          "Click Setting on Top Right",
+          "Click My Account",
+          "Scroll Down and Click View Account Status",
+          "Here you will see your subscription status and transaction history.  You can cancel automatic renewal from this page."
+        ],
+        "slides": [
+          {
+            "alt": "Single Parent Meet-Delete Subscription Account from Website. Step 1: [Log on to the Single Parents meet Website](http://singleparentsmeet.com).  If you're already logged in doing so will open your Single Parents Meet homepage.",
+            "title": "Log in",
+            "url": "single-parent-meet/slides/457_1Signin.jpg"
+          },
+          {
+            "alt": "Single Parent Meet-Delete Subscription Account from Website. Step 2: Click Setting on Top Right",
+            "title": "Settings",
+            "url": "single-parent-meet/slides/458_2Settings.jpg"
+          },
+          {
+            "alt": "Single Parent Meet-Delete Subscription Account from Website. Step 3: Click My Account",
+            "title": "My Account",
+            "url": "single-parent-meet/slides/459_3MyAccount.jpg"
+          },
+          {
+            "alt": "Single Parent Meet-Delete Subscription Account from Website. Step 4: Scroll Down and Click View Account Status",
+            "title": "View Account Status",
+            "url": "single-parent-meet/slides/460_4ViewAccountStatus.jpg"
+          },
+          {
+            "alt": "Single Parent Meet-Delete Subscription Account from Website. Step 5: Here you will see your subscription status and transaction history.  You can cancel automatic renewal from this page.",
+            "title": "Cancel Automatic Renewal",
+            "url": "single-parent-meet/slides/461_5ACCOUNTSTATUSBOX_1.jpg"
+          }
+        ]
+      }
+    }
+  ]
+}

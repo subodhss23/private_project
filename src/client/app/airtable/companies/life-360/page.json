@@ -1,0 +1,153 @@
+{
+  "name": "Life 360",
+  "top_app": false,
+  "social_image": [
+    {
+      "id": "attTY3dd2qgF756zZ",
+      "url": "https://dl.airtable.com/vWI3fhUrSPWTeNKgAPUj_socialmedia-life.jpg",
+      "filename": "socialmedia-life.jpg",
+      "size": 67519,
+      "type": "image/jpeg",
+      "thumbnails": {
+        "small": {
+          "url": "https://dl.airtable.com/IQFPdbDyQcnUd1JJLxIJ_small_socialmedia-life.jpg",
+          "width": 17,
+          "height": 36
+        },
+        "large": {
+          "url": "https://dl.airtable.com/6wYq9hvRTCOzg5k937P7_large_socialmedia-life.jpg",
+          "width": 460,
+          "height": 996
+        },
+        "full": {
+          "url": "https://dl.airtable.com/BtNRrgXES9O01edUFHTO_full_socialmedia-life.jpg",
+          "width": 460,
+          "height": 996
+        }
+      }
+    }
+  ],
+  "support": [
+    {
+      "link": "https://www.life360.com/support/",
+      "text": "Help Center"
+    },
+    {
+      "link": "info@life360.com",
+      "text": "Contact"
+    },
+    {
+      "email": "info@life360.com"
+    }
+  ],
+  "logo": "life-360/logo.jpg",
+  "instructions": [
+    {
+      "header": "Delete Account",
+      "title": "How To Delete Your Life 360 Account",
+      "id": "delete-account",
+      "link": "life-360/delete-account",
+      "before": "Deleting your Life 360 Account is Easy You can do so from a computer browser or from within mobile App.  Or if you choose, you can just email customer service directly at**support@life360.com** and request that your account be deleted. Please note that canceling your account or deleting the app does not cancel your premium subscription. You must cancel the subscription prior to deletion.  ",
+      "qnAnswers": [
+        {
+          "question": "What happens when I delete my Life 360 Account?",
+          "answer": "When you delete your account all of your history and driving events will be deleted and they cannot be retrieved.  Deleting your account does not delete your premium subscription automatically.  Please remember to cancel this subscription prior to deleting your account.",
+          "createdAt": "August 19th 2018"
+        },
+        {
+          "question": "Do I have to Delete my Account to leave a circle?",
+          "answer": "No. If you would just like to leave a Circle and keep your account, go to Circle settings and leave the Circle.  You do not have to delete your entire account. ",
+          "createdAt": "August 19th 2018"
+        },
+        {
+          "question": "Does deleting my Account cancel my Life 360 Premium subscription?",
+          "answer": "No. Please cancel your subscription prior to deleting your account.  [For more information on canceling your Life 360 Premium subscription click here] (https://life360.helpshift.com/a/life360-family-locator/?s=account-management&f=how-do-i-cancel-my-premium-subscription&l=en&p=web). ",
+          "createdAt": "August 19th 2018"
+        },
+        {
+          "question": "I deleted the mobile App from my phone.  Will that delete my entire account?",
+          "answer": "No.  Deleting the App just removes the App from your phone.  It does not delete your account. If you have already deleted the App please re-download it and then follow the steps for deletion from inside the app. ",
+          "createdAt": "August 19th 2018"
+        }
+      ],
+      "website": {
+        "steps": [
+          "Log on to your [Life 360 Account] (https://www.life360.com/circles/?#/map).  If you're already logged in, doing so will open your Life360 Homepage.",
+          "Click the Profile Icon on Top Right",
+          "Click Account from drop down menu",
+          "Click I want to Delete my Life 360 Account",
+          "Type Name on Account then Click Delete Account"
+        ],
+        "slides": [
+          {
+            "alt": "Life 360-Delete Account from Website. Step 1: Log on to your [Life 360 Account] (https://www.life360.com/circles/?#/map).  If you're already logged in, doing so will open your Life360 Homepage.",
+            "title": "Log in",
+            "url": "life-360/slides/558_1Signin.jpg"
+          },
+          {
+            "alt": "Life 360-Delete Account from Website. Step 2: Click the Profile Icon on Top Right",
+            "title": "Profile Icon",
+            "url": "life-360/slides/559_2Profiletopright.jpg"
+          },
+          {
+            "alt": "Life 360-Delete Account from Website. Step 3: Click Account from drop down menu",
+            "title": "Account",
+            "url": "life-360/slides/560_3Account.jpg"
+          },
+          {
+            "alt": "Life 360-Delete Account from Website. Step 4: Click I want to Delete my Life 360 Account",
+            "title": "Delete Account",
+            "url": "life-360/slides/561_4Iwanttodeletemylife360Account.jpg"
+          },
+          {
+            "alt": "Life 360-Delete Account from Website. Step 5: Type Name on Account then Click Delete Account",
+            "title": "Delete Account",
+            "url": "life-360/slides/562_5DeleteAccount.jpg"
+          }
+        ]
+      },
+      "ios": {
+        "steps": [
+          "Tap Life 360 App",
+          "Tap the Three Bars on Top Left",
+          "Tap Settings",
+          "Tap Account",
+          "Tap Delete Account",
+          "Tap Yes, Continue"
+        ],
+        "slides": [
+          {
+            "alt": "Life 360-Delete Account from iOS. Step 1: Tap Life 360 App",
+            "title": "Open App",
+            "url": "life-360/slides/563_1Life360.jpg"
+          },
+          {
+            "alt": "Life 360-Delete Account from iOS. Step 2: Tap the Three Bars on Top Left",
+            "title": "Three Bars",
+            "url": "life-360/slides/564_2Threebarstopleft.jpg"
+          },
+          {
+            "alt": "Life 360-Delete Account from iOS. Step 3: Tap Settings",
+            "title": "Settings",
+            "url": "life-360/slides/565_3Settings.jpg"
+          },
+          {
+            "alt": "Life 360-Delete Account from iOS. Step 4: Tap Account",
+            "title": "Account",
+            "url": "life-360/slides/566_4Account.jpg"
+          },
+          {
+            "alt": "Life 360-Delete Account from iOS. Step 5: Tap Delete Account",
+            "title": "Delete Account",
+            "url": "life-360/slides/567_5DeleteAccount.jpg"
+          },
+          {
+            "alt": "Life 360-Delete Account from iOS. Step 6: Tap Yes, Continue",
+            "title": "Yes, Continue",
+            "url": "life-360/slides/568_6YesContinue.jpg"
+          }
+        ]
+      }
+    }
+  ]
+}

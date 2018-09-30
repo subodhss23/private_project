@@ -1,0 +1,60 @@
+{
+  "name": "Bid Zone",
+  "top_app": false,
+  "support": [
+    {
+      "link": "http://www.bid.zone/FAQs",
+      "text": "Help Center"
+    },
+    {
+      "link": "http://www.bid.zone/ContactUs",
+      "text": "Contact"
+    }
+  ],
+  "logo": "bid-zone/download.jpg",
+  "instructions": [
+    {
+      "header": "Delete Account",
+      "title": "How To Delete Your Bid Zone Account",
+      "id": "delete-account",
+      "link": "bid-zone/delete-account",
+      "before": "There is no easy way to Delete your Bid Zone Account.  The only way to Delete the Account is to contact customer service through the Contact us section of the Bid Zone App and request that your account be deleted.  ",
+      "qnAnswers": [
+        {
+          "question": "What happens if I email Bid Zone if they don’t cancel my Account?",
+          "answer": "It is suggested that you change/delete all your personal information on your account prior to deletion.  This way, if Bid Zone doesn’t delete your account, none of the information on the account reflects your personal information anyway. ",
+          "createdAt": "July 31st 2018"
+        },
+        {
+          "question": "Can I cancel my Bid?",
+          "answer": "Once you bid on an item, you can't cancel your bid and you are responsible of the amount reached if you win the auction.",
+          "createdAt": "July 31st 2018"
+        }
+      ],
+      "website": {
+        "steps": [
+          "[Log on to the Bid Zone website](http://www.bid.zone/).  If you are already logged in, doing so will open your Bid Zone homepage. ",
+          "Scroll down to the bottom of the page and Click Contact us",
+          "Fill in the Contact us Form to request Deletion and Click Send"
+        ],
+        "slides": [
+          {
+            "alt": "Bid Zone-Delete Account from Website. Step 1: [Log on to the Bid Zone website](http://www.bid.zone/).  If you are already logged in, doing so will open your Bid Zone homepage. ",
+            "title": "Log in",
+            "url": "bid-zone/slides/441_1SignIn.jpg"
+          },
+          {
+            "alt": "Bid Zone-Delete Account from Website. Step 2: Scroll down to the bottom of the page and Click Contact us",
+            "title": "Contact us",
+            "url": "bid-zone/slides/442_2Contactus.jpg"
+          },
+          {
+            "alt": "Bid Zone-Delete Account from Website. Step 3: Fill in the Contact us Form to request Deletion and Click Send",
+            "title": "Click Send",
+            "url": "bid-zone/slides/443_3Send.jpg"
+          }
+        ]
+      }
+    }
+  ]
+}

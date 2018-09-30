@@ -1,0 +1,132 @@
+{
+  "name": "Edmodo",
+  "top_app": false,
+  "delete": "https://support.edmodo.com/hc/en-us/requests/new#access_token=17ec02e3d299274e94cbe503b9317ce4dee2f27bd72d9f1f5c00bdfeb002ffe4&token_type=bearer&expires_in=86400 ",
+  "social_image": [
+    {
+      "id": "attuNkc3ttS8HpgQZ",
+      "url": "https://dl.airtable.com/9i8RMYfQRWQKLUbEXR3J_Edmodo-SocialMedia.jpg",
+      "filename": "Edmodo-SocialMedia.jpg",
+      "size": 29400,
+      "type": "image/jpeg",
+      "thumbnails": {
+        "small": {
+          "url": "https://dl.airtable.com/0sc39ku0TDmdtqLFFTXp_small_Edmodo-SocialMedia.jpg",
+          "width": 20,
+          "height": 36
+        },
+        "large": {
+          "url": "https://dl.airtable.com/7dgSBE0OSHe7BI4UdRxr_large_Edmodo-SocialMedia.jpg",
+          "width": 316,
+          "height": 562
+        },
+        "full": {
+          "url": "https://dl.airtable.com/LlAOlbrTQq6VsOjvFyZ6_full_Edmodo-SocialMedia.jpg",
+          "width": 316,
+          "height": 562
+        }
+      }
+    }
+  ],
+  "support": [
+    {
+      "link": "https://support.edmodo.com/hc/en-us/categories/200331504",
+      "text": "Help Center"
+    },
+    {
+      "link": "https://support.edmodo.com/hc/en-us/requests/new#access_token=17ec02e3d299274e94cbe503b9317ce4dee2f27bd72d9f1f5c00bdfeb002ffe4&token_type=bearer&expires_in=86400 ",
+      "text": "Contact"
+    },
+    {
+      "email": "nfo@edmodo.com"
+    },
+    {
+      "phone": "(650) 513-2735"
+    }
+  ],
+  "logo": "edmodo/Logo.jpg",
+  "instructions": [
+    {
+      "header": "Delete Account",
+      "title": "How To Delete Your Edmodo Account",
+      "id": "delete-account",
+      "link": "edmodo/delete-account",
+      "before": "In order to delete your Edmodo Account my must log on the the contact page from a Desktop browser. You cannot delete your account from the App on a mobile device.  But, before deletion can be started you have to go to the account setting page and make sure you have an email address associated with your account. ",
+      "action": {
+        "text": "Delete",
+        "link": "https://support.edmodo.com/hc/en-us/requests/new#access_token=17ec02e3d299274e94cbe503b9317ce4dee2f27bd72d9f1f5c00bdfeb002ffe4&token_type=bearer&expires_in=86400 "
+      },
+      "qnAnswers": [
+        {
+          "question": "Can I delete my Account from the Mobile App?",
+          "answer": "No.  You cannot delete your Edmodo account from within the App.  To complete deletion you must navigate to the Contact Us page from a Desktop Browser.  You can only locate the page by clicking on the Contact Us link.",
+          "createdAt": "July 12th 2018"
+        },
+        {
+          "question": "Can I delete my information from a group without Deleting My Whole Account?",
+          "answer": "Yes. You can submit a ticket to delete your account from a specific group without deleting the entire Edmodo account.",
+          "createdAt": "July 12th 2018"
+        },
+        {
+          "question": "What happens to the information on my Edmodo Account when I Delete My Account?",
+          "answer": "When a Student account is deleted, all student work and grades associated with that account will be lost. This information will be wiped from the system. ",
+          "createdAt": "July 12th 2018"
+        }
+      ],
+      "website": {
+        "steps": [
+          "Please Click the Red Delete Link to navigate to the Edmodo Contact Us Page",
+          "Please select \"Account Types, Passwords, and Deactivations\"  ",
+          "Make sure you type the email address associated with your account",
+          "Under what keywords describe your selection please type \"Delete Account\"",
+          "Then in the “How Can we Help” section please write “I am requesting to Delete My Account”",
+          "For “Account Types, Passwords, and Deactivations” please write “Deactivate My Account”",
+          "For “What device are you using to access Edmodo?” please write “Web browser, ie chrome, safari, firefox”",
+          "Then Click Submit"
+        ],
+        "slides": [
+          {
+            "alt": "Edmodo-Delete Account from Website. Step 1: Please Click the Red Delete Link to navigate to the Edmodo Contact Us Page",
+            "title": "Delete Link",
+            "url": "edmodo/slides/1EdmodoSiteDelete.png"
+          },
+          {
+            "alt": "Edmodo-Delete Account from Website. Step 2: Please select \"Account Types, Passwords, and Deactivations\"  ",
+            "title": "Account Types, Passwords, Deactivation",
+            "url": "edmodo/slides/2EdmodoSiteDelete.png"
+          },
+          {
+            "alt": "Edmodo-Delete Account from Website. Step 3: Make sure you type the email address associated with your account",
+            "title": "Email Address",
+            "url": "edmodo/slides/3EdmodoSiteDelete.png"
+          },
+          {
+            "alt": "Edmodo-Delete Account from Website. Step 4: Under what keywords describe your selection please type \"Delete Account\"",
+            "title": "Delete My Account",
+            "url": "edmodo/slides/4EdmodoSiteDelete.png"
+          },
+          {
+            "alt": "Edmodo-Delete Account from Website. Step 5: Then in the “How Can we Help” section please write “I am requesting to Delete My Account”",
+            "title": "Deletion Request",
+            "url": "edmodo/slides/5EdmodoSiteDelete.png"
+          },
+          {
+            "alt": "Edmodo-Delete Account from Website. Step 6: For “Account Types, Passwords, and Deactivations” please write “Deactivate My Account”",
+            "title": "Deactivate My Account",
+            "url": "edmodo/slides/6EdmodoSiteDelete.png"
+          },
+          {
+            "alt": "Edmodo-Delete Account from Website. Step 7: For “What device are you using to access Edmodo?” please write “Web browser, ie chrome, safari, firefox”",
+            "title": "Web Browser",
+            "url": "edmodo/slides/7EdmodoSiteDelete.png"
+          },
+          {
+            "alt": "Edmodo-Delete Account from Website. Step 8: Then Click Submit",
+            "title": "Submit",
+            "url": "edmodo/slides/8EdmodoSiteDelete.png"
+          }
+        ]
+      }
+    }
+  ]
+}

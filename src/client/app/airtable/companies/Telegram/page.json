@@ -1,0 +1,162 @@
+{
+  "name": "Telegram",
+  "top_app": false,
+  "breaches": 15,
+  "delete": "https://my.telegram.org/auth?to=deactivate",
+  "support": [
+    {
+      "link": "https://telegram.org/faq",
+      "text": "Help Center"
+    },
+    {
+      "link": "https://telegram.org/support",
+      "text": "Contact"
+    }
+  ],
+  "logo": "telegram/Logo.jpg",
+  "instructions": [
+    {
+      "header": "Delete Account",
+      "title": "How To Delete Your Telegram Account",
+      "id": "delete-account",
+      "link": "telegram/delete-account",
+      "before": "It is recommended that you delete your Telegram Account by opening the link to the deactivation page. However, there are steps to follow to delete your account by navigating through the Telegram App on your mobile Device if preferred. ",
+      "after": "Please note that termination of a Telegram account is an irreversible process.",
+      "action": {
+        "text": "Delete",
+        "link": "https://my.telegram.org/auth?to=deactivate"
+      },
+      "qnAnswers": [
+        {
+          "question": "What happens if I delete my Telegram Account?",
+          "answer": "All your data will be flushed from their system: all messages, groups, and contacts associated with your account will be deleted. ",
+          "createdAt": "July 8th 2018"
+        },
+        {
+          "question": "What happens to my the messages I have sent to contacts when I delete my account?",
+          "answer": "Your contacts will still be able to chat in the groups that you have created, and they will still have their copy of the messages you sent them. So if you want to send messages that can vanish without a trace, you can consider using the self-destruct timer instead. [Click here for more information on the Self-destruct timer] (https://telegram.org/faq#q-how-do-self-destructing-messages-work).",
+          "createdAt": "July 8th 2018"
+        },
+        {
+          "question": "Can I delete my Account from my mobile device?  ",
+          "answer": "The quick answer is Yes. But you must navigate to the deactivation page through the mobile app.   However, we recommend that you use a non-mobile browser if possible.  \n",
+          "createdAt": "July 8th 2018"
+        }
+      ],
+      "ios": {
+        "steps": [
+          "Open Telegram App",
+          "Tap Settings Gear on Bottom Right",
+          "Tap Telegram FAQ",
+          "Scroll Down to Your Account and Tap Deleting your Account",
+          "Tap Deactivation Page",
+          "Enter Your Phone Number to Re-Login and wait for Confirmation Code",
+          "Tap the Telegram Message on the top of the Screen to Open ",
+          "Copy the confirmation code sent to your Telegram Account ",
+          "Enter the Confirmation Code and Tap done",
+          "Give a reason for Deletion and Tap Done",
+          "Click Yes Delete My Account"
+        ],
+        "slides": [
+          {
+            "alt": "Telegram-Delete Account from iOS. Step 1: Open Telegram App",
+            "title": "Open App",
+            "url": "telegram/slides/1TelegramIOSDelete.png"
+          },
+          {
+            "alt": "Telegram-Delete Account from iOS. Step 2: Tap Settings Gear on Bottom Right",
+            "title": "Settings Gear",
+            "url": "telegram/slides/2TelegramIOSDelete.png"
+          },
+          {
+            "alt": "Telegram-Delete Account from iOS. Step 3: Tap Telegram FAQ",
+            "title": "Telegram FAQ",
+            "url": "telegram/slides/3TelegramIOSDelete.png"
+          },
+          {
+            "alt": "Telegram-Delete Account from iOS. Step 4: Scroll Down to Your Account and Tap Deleting your Account",
+            "title": "Deleting Your Account",
+            "url": "telegram/slides/4TelegramIOSDelete.png"
+          },
+          {
+            "alt": "Telegram-Delete Account from iOS. Step 5: Tap Deactivation Page",
+            "title": "Deactivation Page",
+            "url": "telegram/slides/5TelegramIOSDelete.png"
+          },
+          {
+            "alt": "Telegram-Delete Account from iOS. Step 6: Enter Your Phone Number to Re-Login and wait for Confirmation Code",
+            "title": "Enter Phone Number",
+            "url": "telegram/slides/6TelegramIOSDelete.png"
+          },
+          {
+            "alt": "Telegram-Delete Account from iOS. Step 7: Tap the Telegram Message on the top of the Screen to Open ",
+            "title": "Open Telegram Message",
+            "url": "telegram/slides/7TelegramIOSDelete.png"
+          },
+          {
+            "alt": "Telegram-Delete Account from iOS. Step 8: Copy the confirmation code sent to your Telegram Account ",
+            "title": "Copy Confirmation Code",
+            "url": "telegram/slides/8TelegramIOSDelete.png"
+          },
+          {
+            "alt": "Telegram-Delete Account from iOS. Step 9: Enter the Confirmation Code and Tap done",
+            "title": "Enter Confirmation Code",
+            "url": "telegram/slides/9TelegramIOSDelete.png"
+          },
+          {
+            "alt": "Telegram-Delete Account from iOS. Step 10: Give a reason for Deletion and Tap Done",
+            "title": "Reason for Deletion",
+            "url": "telegram/slides/10TelegramIOSDelete.png"
+          },
+          {
+            "alt": "Telegram-Delete Account from iOS. Step 11: Click Yes Delete My Account",
+            "title": "Yes Delete My Account",
+            "url": "telegram/slides/11TelegramIOSDelete.png"
+          }
+        ]
+      },
+      "website": {
+        "steps": [
+          "[Click here to open the Telegram Delete Link] (https://my.telegram.org/auth?to=deactivate).  It will bring you to the Telegram Deactivation Page",
+          "Enter Phone Number to Login",
+          "Copy the Confirmation Code Sent to your Telegram Account",
+          "Navigate Back to the Deactivation Page, Enter Confirmation Code and Click Sign in",
+          "Choose a Reason For Deletion and Click Done",
+          "Click Yes Delete My Account"
+        ],
+        "slides": [
+          {
+            "alt": "Telegram-Delete Account from Website. Step 1: [Click here to open the Telegram Delete Link] (https://my.telegram.org/auth?to=deactivate).  It will bring you to the Telegram Deactivation Page",
+            "title": "Delete Link",
+            "url": "telegram/slides/1TelegramSiteDelete.png"
+          },
+          {
+            "alt": "Telegram-Delete Account from Website. Step 2: Enter Phone Number to Login",
+            "title": "Phone Number",
+            "url": "telegram/slides/2TelegramSiteDelete.png"
+          },
+          {
+            "alt": "Telegram-Delete Account from Website. Step 3: Copy the Confirmation Code Sent to your Telegram Account",
+            "title": "Copy Confirmation Code",
+            "url": "telegram/slides/3TelegramSiteDelete.png"
+          },
+          {
+            "alt": "Telegram-Delete Account from Website. Step 4: Navigate Back to the Deactivation Page, Enter Confirmation Code and Click Sign in",
+            "title": "Confirmation Code and Sign in",
+            "url": "telegram/slides/4TelegramSiteDelete.png"
+          },
+          {
+            "alt": "Telegram-Delete Account from Website. Step 5: Choose a Reason For Deletion and Click Done",
+            "title": "Reason For Deletion",
+            "url": "telegram/slides/5TelegramSiteDelete.png"
+          },
+          {
+            "alt": "Telegram-Delete Account from Website. Step 6: Click Yes Delete My Account",
+            "title": "Yes Delete My Account",
+            "url": "telegram/slides/6TelegramSiteDelete.png"
+          }
+        ]
+      }
+    }
+  ]
+}

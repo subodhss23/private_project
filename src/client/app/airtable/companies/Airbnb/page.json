@@ -1,0 +1,76 @@
+{
+  "name": "Airbnb",
+  "top_app": false,
+  "delete": "https://www.airbnb.com/users/settings/183341753",
+  "support": [
+    {
+      "link": "https://www.airbnb.com/help",
+      "text": "Help Center"
+    },
+    {
+      "link": "https://www.airbnb.com/help/contact_us",
+      "text": "Contact"
+    },
+    {
+      "email": "terms@airbnb.com"
+    }
+  ],
+  "logo": "Airbnb/airbnb.jpg",
+  "instructions": [
+    {
+      "header": "Delete Account",
+      "title": "How To Delete Your Airbnb Account",
+      "id": "delete-account",
+      "link": "airbnb/delete-account",
+      "before": "You will need to Delete your Airbnb Account on a computer. You cannot cancel your Airbnb account from the Airbnb mobile app.",
+      "after": "Finalizing Cancelation to Airbnb will cancel all of your listings, and return you to the home page.",
+      "action": {
+        "text": "Delete",
+        "link": "https://www.airbnb.com/users/settings/183341753"
+      },
+      "thingsToRemember": [
+        "It’s important to note that after deletion you can’t reactivate, recover any data, or regain access to your account.",
+        "After Deletion, any reservations you currently have as a host or a guest will automatically be canceled.",
+        "Airbnb will start working on your deletion request after immediately after they receive it, but some of your data may remain in their systems due to other legal obligations.  ",
+        "Instead of deleting certain data, Airbnb may de-identify or disassociate it, such that it no longer appears associated with you. Some information, such as your reviews and messages you sent to other users, may still be visible to others.",
+        "Airbnb has recently updated their security after hackers imitated highly rated users to book stays and then steal from hosts."
+      ],
+      "website": {
+        "steps": [
+          "Go to the Airbnb Website. If you're already logged in, doing so will open your Airbnb home page.",
+          "Click the Profile Icon then Click Account Settings",
+          "Click Settings",
+          "Click Cancel My Account",
+          "Then Click Cancel my Account Again"
+        ],
+        "slides": [
+          {
+            "alt": "Airbnb-Delete Account from Website. Step 1: Go to the Airbnb Website. If you're already logged in, doing so will open your Airbnb home page.",
+            "title": "Login",
+            "url": "Airbnb/slides/1AirBnBSiteDelete.png"
+          },
+          {
+            "alt": "Airbnb-Delete Account from Website. Step 2: Click the Profile Icon then Click Account Settings",
+            "title": "Account Settings",
+            "url": "Airbnb/slides/2AirBnBSiteDelete.png"
+          },
+          {
+            "alt": "Airbnb-Delete Account from Website. Step 3: Click Settings",
+            "title": "Settings",
+            "url": "Airbnb/slides/3AirBnBSiteDelete.png"
+          },
+          {
+            "alt": "Airbnb-Delete Account from Website. Step 4: Click Cancel My Account",
+            "title": "Cancel My Account",
+            "url": "Airbnb/slides/4AirBnBSiteDelete.png"
+          },
+          {
+            "alt": "Airbnb-Delete Account from Website. Step 5: Then Click Cancel my Account Again",
+            "title": "Cancel My Account",
+            "url": "Airbnb/slides/5AirBnBSiteDelete.png"
+          }
+        ]
+      }
+    }
+  ]
+}

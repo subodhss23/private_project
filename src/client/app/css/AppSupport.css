@@ -1,0 +1,15 @@
+.support li {
+	display: block;
+	white-space: nowrap;
+}
+
+.support li > a:hover {
+	cursor: pointer;
+}
+
+.support li > a {
+	color: blue;
+	text-overflow: ellipsis;
+	white-space: nowrap;
+	overflow: hidden;
+}

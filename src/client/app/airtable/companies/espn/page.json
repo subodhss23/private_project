@@ -1,0 +1,115 @@
+{
+  "name": "Espn",
+  "top_app": false,
+  "social_image": [
+    {
+      "id": "attxZprHpEfljRN4J",
+      "url": "https://dl.airtable.com/umUWgNlCSmun5rvJNT7x_socialmedia-espn.jpg",
+      "filename": "socialmedia-espn.jpg",
+      "size": 101012,
+      "type": "image/jpeg",
+      "thumbnails": {
+        "small": {
+          "url": "https://dl.airtable.com/Droki6nQreHVH3AUn9Ew_small_socialmedia-espn.jpg",
+          "width": 17,
+          "height": 36
+        },
+        "large": {
+          "url": "https://dl.airtable.com/3PXG5TNeRR6Us2ElL4xN_large_socialmedia-espn.jpg",
+          "width": 512,
+          "height": 1108
+        },
+        "full": {
+          "url": "https://dl.airtable.com/Mb0tSkRLCiN3ydtU02eQ_full_socialmedia-espn.jpg",
+          "width": 600,
+          "height": 1299
+        }
+      }
+    }
+  ],
+  "support": [
+    {
+      "link": "https://support.espn.com/hc/en-us/categories/360000055572-ESPN",
+      "text": "Help Center"
+    },
+    {
+      "link": "https://support.espn.com/hc/en-us/requests/new?ticket_form_id=360000024212&category=ESPN+&section=manage_my_account&article=360000878731&articleName=what_is_the_refund_policy_for_espn+?",
+      "text": "Contact"
+    },
+    {
+      "email": "MS_SUPPORT@HELP.GO.COM"
+    },
+    {
+      "phone": "800-727-1800"
+    }
+  ],
+  "logo": "espn/logo.jpg",
+  "instructions": [
+    {
+      "header": "Delete Account",
+      "title": "How To Delete Your Espn Account",
+      "id": "delete-account",
+      "link": "espn/delete-account",
+      "before": "Deleting your ESPN Account is Easy.  Please follow the steps below to navigate to the setting page of your ESPN account to complete account Deletion.",
+      "qnAnswers": [
+        {
+          "question": "What does it mean when I delete my Account?\n",
+          "answer": "This means that the profile becomes inaccessible. ESPN is a Disney Company and per policy it takes 14 days for your information to be completely removed. ",
+          "createdAt": "August 16th 2018"
+        },
+        {
+          "question": "Can I get a refund for my subscription?",
+          "answer": "Refunds are provided within seven days of the first billing date.  After that date, no refunds or credits are offered.  However, if you cancel after that seven-day period, you will continue to have access to the service through the end of your current billing period.  For more information on current subscription or to live chat with Customer service [Please Click Here] (https://support.espn.com/hc/en-us/articles/360000878531-How-do-I-know-when-my-subscription-expires-).",
+          "createdAt": "August 19th 2018"
+        },
+        {
+          "question": "What should I do if I use a third party login to sign up for the account?",
+          "answer": "If you signed up for ESPN using a third-party login such as Facebook or Twitter, you should revoke all access from ESPN.  ",
+          "createdAt": "August 16th 2018"
+        }
+      ],
+      "website": {
+        "steps": [
+          "Log in to your [ESPN Account] (https://www.espn.com).  If you're already logged in, doing so will open your ESPN homepage.  ",
+          "Click the Profile Icon on Top Right",
+          "Click ESPN Profile from the drop down menu",
+          "Scroll Down and Click Delete Account",
+          "Click Yes, Delete This Account",
+          "Once you receive this Confirmation Message you will know your ESPN Account has been Deleted"
+        ],
+        "slides": [
+          {
+            "alt": "Espn-Delete Account from Website. Step 1: Log in to your [ESPN Account] (https://www.espn.com).  If you're already logged in, doing so will open your ESPN homepage.  ",
+            "title": "Log in",
+            "url": "espn/slides/552_1Signin.jpg"
+          },
+          {
+            "alt": "Espn-Delete Account from Website. Step 2: Click the Profile Icon on Top Right",
+            "title": "Profile Icon",
+            "url": "espn/slides/553_2Profiletopright.jpg"
+          },
+          {
+            "alt": "Espn-Delete Account from Website. Step 3: Click ESPN Profile from the drop down menu",
+            "title": "ESPN Profile",
+            "url": "espn/slides/554_3EspnProfile.jpg"
+          },
+          {
+            "alt": "Espn-Delete Account from Website. Step 4: Scroll Down and Click Delete Account",
+            "title": "Delete Account",
+            "url": "espn/slides/555_4DeleteAccount.jpg"
+          },
+          {
+            "alt": "Espn-Delete Account from Website. Step 5: Click Yes, Delete This Account",
+            "title": "Yes, Delete This Account",
+            "url": "espn/slides/556_5YesDeleteThisAccount.jpg"
+          },
+          {
+            "alt": "Espn-Delete Account from Website. Step 6: Once you receive this Confirmation Message you will know your ESPN Account has been Deleted",
+            "title": "Deletion Confirmation",
+            "url": "espn/slides/557_6yourESPNAccounthasbeendeleted.jpg"
+          }
+        ]
+      }
+    }
+  ]
+}

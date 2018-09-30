@@ -1,0 +1,77 @@
+{
+  "name": "Grindr",
+  "top_app": false,
+  "support": [
+    {
+      "link": "https://help.grindr.com/hc/en-us",
+      "text": "Help Center"
+    },
+    {
+      "link": "https://help.grindr.com/hc/en-us/requests/new",
+      "text": "Contact"
+    },
+    {
+      "email": "privacy@grindr.com"
+    }
+  ],
+  "logo": "Grindr/GLofo.jpg",
+  "instructions": [
+    {
+      "header": "Delete Account",
+      "title": "How To Delete Your Grindr Account",
+      "id": "delete-account",
+      "link": "grindr/delete-account",
+      "before": "Deleting the Grindr App will not delete your account.  You need to navigate through the app on your mobile device in order to delete your account.",
+      "after": "Remember, you will need to cancel your recurring subscription when deleting your account; otherwise you will keep paying for your profile even though it has been deleted.",
+      "thingsToRemember": [
+        "The deletion process removes the following information: Grindr account email address, profile Information (like your headline, about, etc.), profile photo, favorites, blocks, and chats",
+        "After Deletion, your account will be completely removed and you can not recover any information which was stored on your account",
+        "If you want to remove your chat logs you will need to to block the person before you delete your account",
+        "Unfortunately, a profile is unable to be recovered after deletion as this is a permanent action. However, you can create a new profile using the the same email address",
+        "If you revoke your consent for the processing of Personal Data, then Grindr will no longer be able to provide the Grindr Services"
+      ],
+      "ios": {
+        "steps": [
+          "Open the Grindr App",
+          "Tap the Setting Gear on the Top Right",
+          "Scroll Down and Tap Delete Profile",
+          "Tap Delete",
+          "Once you see this screen you know your profile has been deleted",
+          "To finish deletion hold down the Grindr App and then Tap the X to delete the App"
+        ],
+        "slides": [
+          {
+            "alt": "Grindr-Delete Account from iOS. Step 1: Open the Grindr App",
+            "title": "Open App",
+            "url": "Grindr/slides/1GrinderIOSDelete.png"
+          },
+          {
+            "alt": "Grindr-Delete Account from iOS. Step 2: Tap the Setting Gear on the Top Right",
+            "title": "Settings",
+            "url": "Grindr/slides/2GrinderIOSDelete.png"
+          },
+          {
+            "alt": "Grindr-Delete Account from iOS. Step 3: Scroll Down and Tap Delete Profile",
+            "title": "Delete Profile",
+            "url": "Grindr/slides/3GrinderIOSDelete.png"
+          },
+          {
+            "alt": "Grindr-Delete Account from iOS. Step 4: Tap Delete",
+            "title": "Delete",
+            "url": "Grindr/slides/4GrinderIOSDelete.png"
+          },
+          {
+            "alt": "Grindr-Delete Account from iOS. Step 5: Once you see this screen you know your profile has been deleted",
+            "title": "Grindr Deleted",
+            "url": "Grindr/slides/5GrinderIOSDelete.png"
+          },
+          {
+            "alt": "Grindr-Delete Account from iOS. Step 6: To finish deletion hold down the Grindr App and then Tap the X to delete the App",
+            "title": "Delete Grindr App",
+            "url": "Grindr/slides/6GrinderIOSDelete.png"
+          }
+        ]
+      }
+    }
+  ]
+}

@@ -1,0 +1,100 @@
+{
+  "name": "Living Social",
+  "top_app": false,
+  "delete": "https://www.livingsocial.com/customer_support#select-issue",
+  "social_image": [
+    {
+      "id": "atty5Txlp1S3OlE93",
+      "url": "https://dl.airtable.com/4I7DBXYmTdSVQVaasQID_socialmedia-livingsocial.jpg",
+      "filename": "socialmedia-livingsocial.jpg",
+      "size": 64037,
+      "type": "image/jpeg",
+      "thumbnails": {
+        "small": {
+          "url": "https://dl.airtable.com/9vWYsQ1YS5dZicnljLfw_small_socialmedia-livingsocial.jpg",
+          "width": 20,
+          "height": 36
+        },
+        "large": {
+          "url": "https://dl.airtable.com/lThrE8TyRiui5AWgF8fJ_large_socialmedia-livingsocial.jpg",
+          "width": 512,
+          "height": 911
+        },
+        "full": {
+          "url": "https://dl.airtable.com/bUyczgQwW9YdNeskTFgP_full_socialmedia-livingsocial.jpg",
+          "width": 600,
+          "height": 1067
+        }
+      }
+    }
+  ],
+  "support": [
+    {
+      "link": "https://www.livingsocial.com/faq#faqs:history-YWN0aW9uPWhvbWU=",
+      "text": "Help Center"
+    },
+    {
+      "link": "https://www.livingsocial.com/customer_support#select-issue",
+      "text": "Contact"
+    },
+    {
+      "email": "help@livingsocial.com"
+    },
+    {
+      "phone": "1 (202) 400-2100"
+    }
+  ],
+  "logo": "living-social/logo.jpg",
+  "instructions": [
+    {
+      "header": "Delete Account",
+      "title": "How To Delete Your Living Social Account",
+      "id": "delete-account",
+      "link": "living-social/delete-account",
+      "before": "Deleting your Living Social Account is Easy. Please Email **help@livingsocial.com** and request that your account be deleted.  Or you can follow the steps below to Contact Customer service by Email or Live Chat. Customer Service will take care of the Deletion Request on their end and your account will be deleted. ",
+      "after": "Please type a Deletion Request and provide Customer Service with the Email associated with your account.  They will Delete your Account for you. ",
+      "qnAnswers": [
+        {
+          "question": "What happens when I delete my Living Social Account? ",
+          "answer": "Your information is deleted and you will no longer have access to your Living Social Account. ",
+          "createdAt": "August 19th 2018"
+        },
+        {
+          "question": "How do I know Customer Service will Delete my Account?",
+          "answer": "You can try to log back on.  If you can no longer access your account you know it has been deleted.  This process has been verified by Delete My Data. ",
+          "createdAt": "August 20th 2018"
+        }
+      ],
+      "website": {
+        "steps": [
+          "[Click Here to Contact Customer Service] (https://www.livingsocial.com/customer_support#select-issue). Type I want to Delete My Account",
+          "Click Deactivating Your Living Social Account",
+          "Click No, I Still Need Help",
+          "Click Live Chat to Contact a Customer Rep Live or Click Email Living Social to Email a Customer Service Rep"
+        ],
+        "slides": [
+          {
+            "alt": "Living Social-Delete Account from Website. Step 1: [Click Here to Contact Customer Service] (https://www.livingsocial.com/customer_support#select-issue). Type I want to Delete My Account",
+            "title": "Contact Customer Service",
+            "url": "living-social/slides/569_1Iwanttodeletemyaccount.jpg"
+          },
+          {
+            "alt": "Living Social-Delete Account from Website. Step 2: Click Deactivating Your Living Social Account",
+            "title": "Deactivating Your Living Social Account",
+            "url": "living-social/slides/570_2ClickDeactivatingyourlivingsocialaccount.jpg"
+          },
+          {
+            "alt": "Living Social-Delete Account from Website. Step 3: Click No, I Still Need Help",
+            "title": "No, I Still Need Help",
+            "url": "living-social/slides/571_3ClickNoIstillneedhelp.jpg"
+          },
+          {
+            "alt": "Living Social-Delete Account from Website. Step 4: Click Live Chat to Contact a Customer Rep Live or Click Email Living Social to Email a Customer Service Rep",
+            "title": "Live Chat or Email",
+            "url": "living-social/slides/572_ClickLiveChatORClickEmailLivingSOcial.jpg"
+          }
+        ]
+      }
+    }
+  ]
+}

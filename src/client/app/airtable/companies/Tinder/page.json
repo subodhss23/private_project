@@ -1,0 +1,163 @@
+{
+  "name": "Tinder",
+  "top_app": true,
+  "delete": "https://tinder.com/app/profile",
+  "social_image": [
+    {
+      "id": "attmiTvgFZr7VPYVT",
+      "url": "https://dl.airtable.com/VGxM6pdkRye3Z1bky9x9_tinder-social.jpg",
+      "filename": "tinder-social.jpg",
+      "size": 32348,
+      "type": "image/jpeg",
+      "thumbnails": {
+        "small": {
+          "url": "https://dl.airtable.com/Cc1dwKLSTm1PGx8xUs6P_small_tinder-social.jpg",
+          "width": 72,
+          "height": 36
+        },
+        "large": {
+          "url": "https://dl.airtable.com/G4QwbeFzRamOD8MjPrnv_large_tinder-social.jpg",
+          "width": 1024,
+          "height": 512
+        },
+        "full": {
+          "url": "https://dl.airtable.com/fM7ZVBklSVyinsm7DBqU_full_tinder-social.jpg",
+          "width": 2400,
+          "height": 1200
+        }
+      }
+    }
+  ],
+  "support": [
+    {
+      "link": "https://www.help.tinder.com/hc/en-us",
+      "text": "Help Center"
+    },
+    {
+      "email": "help@gotinder.com"
+    }
+  ],
+  "logo": "tinder/logo.jpg",
+  "instructions": [
+    {
+      "header": "Delete Account",
+      "title": "How To Delete Your Tinder Account",
+      "id": "delete-account",
+      "link": "tinder/delete-account",
+      "before": "Simply deleting the app won’t be enough to get rid of Tinder permanently. If you’re ready to say goodbye to your matches and messages for good, you’ll need to delete your whole Tinder account. ",
+      "after": "Please note that if you log in to Tinder again after deleting your account, a new account will be created.",
+      "action": {
+        "text": "Delete",
+        "link": "https://tinder.com/app/profile"
+      },
+      "qnAnswers": [
+        {
+          "question": "What information gets removed when I delete my Tinder Account?",
+          "answer": "Deleting your account means you will permanently lose your matches, messages and other information associated with your account.",
+          "createdAt": "July 29th 2018"
+        },
+        {
+          "question": "If I delete my Account will my Subscription get cancelled too?",
+          "answer": "If you subscribed on Tinder for web (Tinder.com), deleting your account will cancel your subscription automatically.  If you subscribed to Tinder Plus or Tinder Gold using your Apple ID or Google Play Store ID, deleting the app and/or your account does not cancel your subscription. You have to cancel your subscription via email.",
+          "createdAt": "July 29th 2018"
+        },
+        {
+          "question": "Can I block my profile from others without deleting my whole account?",
+          "answer": "Please note that there is a feature called Discovery that is the part of the app that adjusts your privacy settings so you can see limit who gets to see your profile.  ",
+          "createdAt": "July 29th 2018"
+        }
+      ],
+      "thingsToRemember": [
+        "Deleting your account means you will permanently lose your matches, messages and other information associated with your account.",
+        "If you subscribed on Tinder for web (Tinder.com), deleting your account will cancel your subscription automatically.",
+        "If you subscribed to Tinder Plus or Tinder Gold using your Apple ID or Google Play Store ID, deleting the app and/or your account does not cancel your subscription. You have to cancel your subscription via email.",
+        "Please note that there is a feature called Discovery that is the part of the app that adjusts your privacy settings so you can see limit who gets to see your profile.  ",
+        "Tinder has a feature that allows you to download your data stored on the site.  However, this must be done before you delete your account. "
+      ],
+      "ios": {
+        "steps": [
+          "Open Tinder App",
+          "Tap Profile",
+          "Tap Settings",
+          "Scroll Down and Tap Delete",
+          "Tap Delete My Account to delete or Tap pause for a temporary break",
+          "Choose Something is Broken for a Reason for Deletion",
+          "Submit feedback and Tap Submit and Delete My Account",
+          "Choose Delete my Account to finalize deletion or again you have the option to choose pause if you just want a temporary break"
+        ],
+        "slides": [
+          {
+            "alt": "Tinder-Delete Account from iOS. Step 1: Open Tinder App",
+            "title": "Tinder App",
+            "url": "tinder/slides/1TinderIOSDelete.png"
+          },
+          {
+            "alt": "Tinder-Delete Account from iOS. Step 2: Tap Profile",
+            "title": "Profile",
+            "url": "tinder/slides/2TinderIOSDelete.png"
+          },
+          {
+            "alt": "Tinder-Delete Account from iOS. Step 3: Tap Settings",
+            "title": "Settings",
+            "url": "tinder/slides/3TinderIOSDelete.png"
+          },
+          {
+            "alt": "Tinder-Delete Account from iOS. Step 4: Scroll Down and Tap Delete",
+            "title": "Delete",
+            "url": "tinder/slides/4TinderIOSDelete.png"
+          },
+          {
+            "alt": "Tinder-Delete Account from iOS. Step 5: Tap Delete My Account to delete or Tap pause for a temporary break",
+            "title": "Delete My Account",
+            "url": "tinder/slides/5TinderIOSDelete.png"
+          },
+          {
+            "alt": "Tinder-Delete Account from iOS. Step 6: Choose Something is Broken for a Reason for Deletion",
+            "title": "Reason for Deletion",
+            "url": "tinder/slides/6TinderIOSDelete.png"
+          },
+          {
+            "alt": "Tinder-Delete Account from iOS. Step 7: Submit feedback and Tap Submit and Delete My Account",
+            "title": "Submit and Delete My Account",
+            "url": "tinder/slides/7TinderIOSDelete.png"
+          },
+          {
+            "alt": "Tinder-Delete Account from iOS. Step 8: Choose Delete my Account to finalize deletion or again you have the option to choose pause if you just want a temporary break",
+            "title": "Delete My Account",
+            "url": "tinder/slides/8TinderIOSDelete.png"
+          }
+        ]
+      },
+      "website": {
+        "steps": [
+          "[Go to the Tinder Website](https://www.tinder.com). If you're already logged in, doing so will open your Tinder home page",
+          "Click the Profile Icon",
+          "Click Delete My Account",
+          "Click Delete Account to finalize deletion or you can Click Pause if you just want a temporary break"
+        ],
+        "slides": [
+          {
+            "alt": "Tinder-Delete Account from Website. Step 1: [Go to the Tinder Website](https://www.tinder.com). If you're already logged in, doing so will open your Tinder home page",
+            "title": "Login",
+            "url": "tinder/slides/1TinderSiteDelete.png"
+          },
+          {
+            "alt": "Tinder-Delete Account from Website. Step 2: Click the Profile Icon",
+            "title": "Profile Icon",
+            "url": "tinder/slides/2TinderSiteDelete.png"
+          },
+          {
+            "alt": "Tinder-Delete Account from Website. Step 3: Click Delete My Account",
+            "title": "Delete My Account",
+            "url": "tinder/slides/3TinderSiteDelete.png"
+          },
+          {
+            "alt": "Tinder-Delete Account from Website. Step 4: Click Delete Account to finalize deletion or you can Click Pause if you just want a temporary break",
+            "title": "Delete My Account",
+            "url": "tinder/slides/4TinderSiteDelete.png"
+          }
+        ]
+      }
+    }
+  ]
+}

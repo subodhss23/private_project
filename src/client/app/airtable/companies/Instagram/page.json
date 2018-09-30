@@ -1,0 +1,209 @@
+{
+  "name": "Instagram",
+  "top_app": true,
+  "breaches": 6,
+  "delete": "https://instagram.com/accounts/remove/request/permanent/",
+  "social_image": [
+    {
+      "id": "attcHsKksjTkpQpec",
+      "url": "https://dl.airtable.com/R9O6ddiR6mHTpjAOq8Lo_instagram-social.jpg",
+      "filename": "instagram-social.jpg",
+      "size": 465868,
+      "type": "image/jpeg",
+      "thumbnails": {
+        "small": {
+          "url": "https://dl.airtable.com/c0eNnWbWQVm2tXCNhnO4_small_instagram-social.jpg",
+          "width": 64,
+          "height": 36
+        },
+        "large": {
+          "url": "https://dl.airtable.com/zVysX7RLO0Io3GN0KtAK_large_instagram-social.jpg",
+          "width": 910,
+          "height": 512
+        },
+        "full": {
+          "url": "https://dl.airtable.com/nL1pYvtOTgGiXi2oce0D_full_instagram-social.jpg",
+          "width": 3000,
+          "height": 1688
+        }
+      }
+    }
+  ],
+  "support": [
+    {
+      "link": "https://help.instagram.com/",
+      "text": "Help Center"
+    },
+    {
+      "email": "support@instagram.com"
+    },
+    {
+      "phone": "(650) 543-4800"
+    }
+  ],
+  "logo": "instagram/logo.jpg",
+  "instructions": [
+    {
+      "header": "Delete Account",
+      "title": "How To Delete Your Instagram Account",
+      "id": "delete-account",
+      "link": "instagram/delete-account",
+      "before": "You cannot delete an Instagram Account using the app.  Deletion has to be done via a web browser, either on a smartphone, tablet or PC.",
+      "after": "Remember, If you do not want to disable or delete your account you can change your privacy setting to see who can see it.",
+      "action": {
+        "text": "Delete",
+        "link": "https://instagram.com/accounts/remove/request/permanent/"
+      },
+      "website": {
+        "steps": [
+          "[Click the Instagram Delete Link] (https://instagram.com/accounts/remove/request/permanent/).  If you're already logged in, doing so will open your Instagram Delete Page",
+          "Click Your Account",
+          "Click Why you are Deleting your Account",
+          "Enter Password",
+          "Click Permanently Delete My Account"
+        ],
+        "slides": [
+          {
+            "alt": "Instagram-Delete Account from Website. Step 1: [Click the Instagram Delete Link] (https://instagram.com/accounts/remove/request/permanent/).  If you're already logged in, doing so will open your Instagram Delete Page",
+            "title": "Login",
+            "url": "instagram/slides/1InstagramSiteDelete.png"
+          },
+          {
+            "alt": "Instagram-Delete Account from Website. Step 2: Click Your Account",
+            "title": "Your Account",
+            "url": "instagram/slides/2InstagramSiteDelete.png"
+          },
+          {
+            "alt": "Instagram-Delete Account from Website. Step 3: Click Why you are Deleting your Account",
+            "title": "Why are you Deleting your Account",
+            "url": "instagram/slides/3InstagramSiteDelete.png"
+          },
+          {
+            "alt": "Instagram-Delete Account from Website. Step 4: Enter Password",
+            "title": "Enter Password",
+            "url": "instagram/slides/4InstagramSiteDelete.png"
+          },
+          {
+            "alt": "Instagram-Delete Account from Website. Step 5: Click Permanently Delete My Account",
+            "title": "Permanently Delete My Account",
+            "url": "instagram/slides/5InstagramSiteDelete.png"
+          }
+        ]
+      },
+      "qnAnswers": [
+        {
+          "question": "Can I reactivate a Deleted Instagram Account?",
+          "answer": "Once you delete your account it can never be reactivated.  Be sure you want to permanently delete your account and not just disable it. After you delete your account, you can't sign up again with the same username or add that username to another account.",
+          "createdAt": "July 28th 2018"
+        },
+        {
+          "question": "What happens to my information when I Delete my Instagram Account?",
+          "answer": "If you delete your Instagram account, everything associated with that account is permanently deleted. That includes your photos, followers, profile, comments, videos, likes, etc.",
+          "createdAt": "July 28th 2018"
+        },
+        {
+          "question": " What does Disabling my Instagram Account mean?",
+          "answer": "If you temporarily disable your Instagram account, your account data is still stored and when you reactivate your account, the data will be restored. As soon as you click on deactivate, the people who are following you won’t be able to see you in their following list.  Also, when you disable your account you hide your photos, profile, videos, likes, and comments from the Instagram world until you log back into your account.",
+          "createdAt": "July 28th 2018"
+        },
+        {
+          "question": "Can I Delete my Account if I forgot my password?",
+          "answer": "No.  It’s important to note that you have to be able to log in to delete your account,   meaning, Instagram will not delete it for you by any other means. ",
+          "createdAt": "July 28th 2018"
+        }
+      ],
+      "thingsToRemember": [
+        "Once you delete your account it can never be reactivated.  Be sure you want to permanently delete your account and not just disable it. ",
+        "Once you delete your account it can never be reactivated.  Be sure you want to permanently delete your account and not just disable it. ",
+        "Also it’s important to note that You have to be able to log in to delete your account,  meaning, Instagram will not delete it for you by any other means).",
+        "After you delete your account, you can't sign up again with the same username or add that username to another account.",
+        "If you delete your Instagram account, everything associated with that account is permanently deleted. That includes your photos, followers, profile, comments, videos, likes, etc.",
+        "If you temporarily disable your Instagram account, your account data is still stored and when you reactivate your account, the data will be restored. As soon as you click on deactivate, the people who are following you won’t be able to see you in their following list.",
+        "If you temporarily disabling your account you essentially hide your photos, profile, videos, likes, and comments from the Instagram world until you log back into your account."
+      ]
+    },
+    {
+      "header": "Disable Account",
+      "title": "How To Disable Your Instagram Account",
+      "id": "disable-account",
+      "link": "instagram/disable-account",
+      "before": "You cannot delete an Instagram Account using the app.  Deletion has to be done via a web browser, either on a smartphone, tablet or PC.",
+      "after": "Remember, If you don’t want to disable or delete your account you can change your privacy setting to see who can see it.",
+      "action": {
+        "text": "Disable",
+        "link": "https://www.instagram.com/accounts/remove/request/temporary/ "
+      },
+      "qnAnswers": [
+        {
+          "question": "Can I reactivate a Deleted Instagram Account?",
+          "answer": "Once you delete your account it can never be reactivated.  Be sure you want to permanently delete your account and not just disable it. After you delete your account, you can't sign up again with the same username or add that username to another account.",
+          "createdAt": "July 28th 2018"
+        },
+        {
+          "question": "What happens to my information when I Delete my Instagram Account?",
+          "answer": "If you delete your Instagram account, everything associated with that account is permanently deleted. That includes your photos, followers, profile, comments, videos, likes, etc.",
+          "createdAt": "July 28th 2018"
+        },
+        {
+          "question": " What does Disabling my Instagram Account mean?",
+          "answer": "If you temporarily disable your Instagram account, your account data is still stored and when you reactivate your account, the data will be restored. As soon as you click on deactivate, the people who are following you won’t be able to see you in their following list.  Also, when you disable your account you hide your photos, profile, videos, likes, and comments from the Instagram world until you log back into your account.",
+          "createdAt": "July 28th 2018"
+        },
+        {
+          "question": "Can I Delete my Account if I forgot my password?",
+          "answer": "No.  It’s important to note that you have to be able to log in to delete your account,   meaning, Instagram will not delete it for you by any other means. ",
+          "createdAt": "July 28th 2018"
+        }
+      ],
+      "thingsToRemember": [
+        "After you delete your account, you can't sign up again with the same username or add that username to another account.",
+        "If you delete your Instagram account, everything associated with that account is permanently deleted. That includes your photos, followers, profile, comments, videos, likes, etc.",
+        "If you temporarily disable your Instagram account, your account data is still stored and when you reactivate your account, the data will be restored. As soon as you click on deactivate, the people who are following you won’t be able to see you in their following list.",
+        "Also it’s important to note that You have to be able to log in to delete your account,  meaning, Instagram will not delete it for you by any other means).",
+        "If you temporarily disabling your account you essentially hide your photos, profile, videos, likes, and comments from the Instagram world until you log back into your account."
+      ],
+      "website": {
+        "steps": [
+          "[Go to the Instagram Website](https://www.instagram.com). If you're already logged in, doing so will open your Instagram home page ",
+          "Click the Person Symbol in the Top Right Corner",
+          "Click Edit Profile",
+          "Click Temporarily Disable my Account",
+          "Click Privacy Concerns",
+          "Click Temporarily Disable my Account"
+        ],
+        "slides": [
+          {
+            "alt": "Instagram-Disable Account from Website. Step 1: [Go to the Instagram Website](https://www.instagram.com). If you're already logged in, doing so will open your Instagram home page ",
+            "title": "Login",
+            "url": "instagram/slides/1InstagramSiteDisable.png"
+          },
+          {
+            "alt": "Instagram-Disable Account from Website. Step 2: Click the Person Symbol in the Top Right Corner",
+            "title": "Person Symbol",
+            "url": "instagram/slides/2InstagramSiteDisable.png"
+          },
+          {
+            "alt": "Instagram-Disable Account from Website. Step 3: Click Edit Profile",
+            "title": "Edit Profile",
+            "url": "instagram/slides/3InstagramSiteDisable.png"
+          },
+          {
+            "alt": "Instagram-Disable Account from Website. Step 4: Click Temporarily Disable my Account",
+            "title": "Temporarily Disable my Account",
+            "url": "instagram/slides/4InstagramSiteDisable.png"
+          },
+          {
+            "alt": "Instagram-Disable Account from Website. Step 5: Click Privacy Concerns",
+            "title": "Privacy Concerns",
+            "url": "instagram/slides/5InstagramSiteDisable.png"
+          },
+          {
+            "alt": "Instagram-Disable Account from Website. Step 6: Click Temporarily Disable my Account",
+            "title": "Temporarily Disable my Account",
+            "url": "instagram/slides/6InstagramSiteDisable.png"
+          }
+        ]
+      }
+    }
+  ]
+}

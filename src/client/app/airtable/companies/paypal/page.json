@@ -1,0 +1,115 @@
+{
+  "name": "PayPal",
+  "top_app": true,
+  "delete": "https://www.paypal.com/myaccount/settings/account/close",
+  "social_image": [
+    {
+      "id": "attLUxtPOeU7NjLCa",
+      "url": "https://dl.airtable.com/f9Sa4tn6Sm2MPEons8Em_socialmedia-paypal.jpg",
+      "filename": "socialmedia-paypal.jpg",
+      "size": 91774,
+      "type": "image/jpeg",
+      "thumbnails": {
+        "small": {
+          "url": "https://dl.airtable.com/VhNpL61bTbWIzMZYezb9_small_socialmedia-paypal.jpg",
+          "width": 17,
+          "height": 36
+        },
+        "large": {
+          "url": "https://dl.airtable.com/aBaVg8hrS32Z5kNZoFKz_large_socialmedia-paypal.jpg",
+          "width": 512,
+          "height": 1108
+        },
+        "full": {
+          "url": "https://dl.airtable.com/M5OrNMvyQd2P75Rv5T3w_full_socialmedia-paypal.jpg",
+          "width": 600,
+          "height": 1299
+        }
+      }
+    }
+  ],
+  "support": [
+    {
+      "link": "https://www.paypal.com/us/selfhelp/home",
+      "text": "Help Center"
+    },
+    {
+      "link": "https://www.paypal.com/us/selfhelp/contact/email/privacy",
+      "text": "Contact"
+    },
+    {
+      "phone": "1 (888) 221-1161"
+    }
+  ],
+  "logo": "paypal/logo.jpg",
+  "instructions": [
+    {
+      "header": "Delete Account",
+      "title": "How To Delete Your PayPal Account",
+      "id": "delete-account",
+      "link": "paypal/delete-account",
+      "before": "Deleting your Paypal Account is Easy.  PayPal provides a delete link from within their website.  You cannot delete your account from a mobile app. ",
+      "action": {
+        "text": "Delete",
+        "link": "https://www.paypal.com/myaccount/settings/account/close"
+      },
+      "qnAnswers": [
+        {
+          "question": "What happens when I delete my PayPal account?",
+          "answer": "Upon Account Deletion any unpaid money requests are automatically canceled and you lose any unused redemption codes or coupons.  ",
+          "createdAt": "August 10th 2018"
+        },
+        {
+          "question": "Why won't PayPal let me close my account?",
+          "answer": "You cannot close your account if there are limitations, unresolved issues, or a balance. Please contact [customer service here] (https://www.paypal.com/us/selfhelp/contact/email/privacy) if you are experiencing any these issues.",
+          "createdAt": "August 10th 2018"
+        },
+        {
+          "question": "Can I re-open a PayPal account with the same email address of my Deleted Account?",
+          "answer": "Yes.  PayPal allows this.  But you must remove your email address from the account you want to delete before you delete it.  [Click here] (https://www.paypal.com/myaccount/settings/)to navigate to the account settings page to remove your email address. ",
+          "createdAt": "August 10th 2018"
+        },
+        {
+          "question": "I signed up for PayPal using a facebook, what do I do?",
+          "answer": "You can Delete your account by following the steps above. However, please log onto facebook and remove third party access from facebook to your paypal account. ",
+          "createdAt": "August 10th 2018"
+        },
+        {
+          "question": "Can I delete my account if I do not remember my password?",
+          "answer": "No. You must be able to log into your account to delete it.  For more information on recovering your password please [Click here] (https://www.paypal.com/us/smarthelp/article/i-forgot-my-password.-how-do-i-reset-it-faq1933)",
+          "createdAt": "August 10th 2018"
+        }
+      ],
+      "website": {
+        "steps": [
+          "Log on to the [PayPal Website] (https://www.paypal.com/myaccount/home).  If you are already logged in, doing so with open your PayPal homepage. ",
+          "Click the Setting Gear on Top Right",
+          "Click Close ",
+          "Click Close Account to Confirm Deletion"
+        ],
+        "slides": [
+          {
+            "alt": "PayPal-Delete Account from Website. Step 1: Log on to the [PayPal Website] (https://www.paypal.com/myaccount/home).  If you are already logged in, doing so with open your PayPal homepage. ",
+            "title": "Log on",
+            "url": "paypal/slides/507_0Signin.jpg"
+          },
+          {
+            "alt": "PayPal-Delete Account from Website. Step 2: Click the Setting Gear on Top Right",
+            "title": "Settings Gear",
+            "url": "paypal/slides/508_1ClosePayPal.jpg"
+          },
+          {
+            "alt": "PayPal-Delete Account from Website. Step 3: Click Close ",
+            "title": "Close ",
+            "url": "paypal/slides/509_2CLosePayPal.jpg"
+          },
+          {
+            "alt": "PayPal-Delete Account from Website. Step 4: Click Close Account to Confirm Deletion",
+            "title": "Close Account",
+            "url": "paypal/slides/510_3ClosePaypal.jpg"
+          }
+        ]
+      }
+    }
+  ]
+}

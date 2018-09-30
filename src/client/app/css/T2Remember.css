@@ -1,0 +1,21 @@
+.heading {
+	width: 642px;
+	padding: 35px 0px 25px;
+	text-align: left;
+}
+	
+.module > ul {
+	-moz-column-count: 2;
+  -moz-column-gap: 20px;
+  -webkit-column-count: 2;
+  -webkit-column-gap: 20px;
+  column-count: 2;
+  list-style: disc;
+
+  margin-bottom: 20px;
+  /*https://stackoverflow.com/questions/7785374/how-to-prevent-column-break-within-an-element*/
+}
+
+.module > ul > li {
+	margin-left: 1em;
+}

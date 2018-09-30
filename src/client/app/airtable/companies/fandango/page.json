@@ -1,0 +1,219 @@
+{
+  "name": "Fandango",
+  "top_app": false,
+  "delete": "https://www.fandango.com/account/settings?accounttype=email&login=success",
+  "social_image": [
+    {
+      "id": "attAitzXcmWiMidG8",
+      "url": "https://dl.airtable.com/sDArkS6QfOdeDgGx0JpF_socialmedia-fandango.jpg",
+      "filename": "socialmedia-fandango.jpg",
+      "size": 141410,
+      "type": "image/jpeg",
+      "thumbnails": {
+        "small": {
+          "url": "https://dl.airtable.com/qWSzDnFQfr1JbbyWztug_small_socialmedia-fandango.jpg",
+          "width": 17,
+          "height": 36
+        },
+        "large": {
+          "url": "https://dl.airtable.com/LR9tq1E5TGOvUhotN55n_large_socialmedia-fandango.jpg",
+          "width": 512,
+          "height": 1108
+        },
+        "full": {
+          "url": "https://dl.airtable.com/1PxPNMZzSWqR580Sq0rj_full_socialmedia-fandango.jpg",
+          "width": 600,
+          "height": 1299
+        }
+      }
+    }
+  ],
+  "support": [
+    {
+      "link": "https://www.fandango.com/help",
+      "text": "Help Center"
+    },
+    {
+      "link": "http://fandango.custhelp.com/app/ask",
+      "text": "Contact"
+    },
+    {
+      "phone": "(866) 857-5191"
+    }
+  ],
+  "logo": "fandango/logo.jpg",
+  "instructions": [
+    {
+      "header": "Change Personal Information",
+      "title": "How To Change Your Personal Information on Your Fandango Account",
+      "id": "change-personal-information",
+      "link": "fandango/change-personal-information",
+      "before": "Fandango does not give you an option to Delete your Account.  Therefore, you need to contact customer service through your computer browser and request that your account be deleted.  However, this does not always work.  Due to this, It is suggested that you go in and change or delete your personal information where you can prior to contacting customer service.  These steps will teach you how to do so.",
+      "after": "This should make all your information useless to Fandango.",
+      "action": {
+        "text": "Change",
+        "link": "https://www.fandango.com/account/settings?accounttype=email&login=success"
+      },
+      "qnAnswers": [
+        {
+          "question": "Why should I change my Personal Information prior to deleting my account?",
+          "answer": "Changing your personal information is a way to make your data useless to Fandango.  Because Fandango does not make it easy to delete your account we suggest that you go in and cancel your credit card, change your email address, and change any other information linked to you. Now, if they do not delete you account, none of the information can trace back to you anyway.  ",
+          "createdAt": "July 23rd 2018"
+        },
+        {
+          "question": "What happens to my Credits when I delete My Account?",
+          "answer": "You will lose all credits associated with your account.  You cannot transfer them to another account.  It is recommended that you use all leftover credits prior to deletion.",
+          "createdAt": "July 23rd 2018"
+        },
+        {
+          "question": "Do I have to Delete my Account to Unsubscribe to emails?",
+          "answer": "No.  To unsubscribe to Fandango emails [please click here] (https://www.fandango.com/email-unsubscribe?ed_rid=_edid). ",
+          "createdAt": "July 23rd 2018"
+        }
+      ],
+      "website": {
+        "steps": [
+          "To log onto your Fandango Account Setting [Click here] (https://www.fandango.com/account/settings?accounttype=email&login=success)",
+          "Click Basic Information",
+          "Change all Basic Personal Information so it cannot identify you anymore and Click Save",
+          "Click Change Email",
+          "Change your email address so its not linked to your primary email account and Click Save",
+          "Click Sharing",
+          "Make sure both setting are to turned to Off",
+          "Click Payment Method",
+          "Click Delete"
+        ],
+        "slides": [
+          {
+            "alt": "Fandango-Change Personal Information from Website. Step 1: To log onto your Fandango Account Setting [Click here] (https://www.fandango.com/account/settings?accounttype=email&login=success)",
+            "title": "Account Settings",
+            "url": "fandango/slides/393_1DoNothingbutmakeitlookliketheothers.jpg"
+          },
+          {
+            "alt": "Fandango-Change Personal Information from Website. Step 2: Click Basic Information",
+            "title": "Basic Information",
+            "url": "fandango/slides/394_2BasicINformation.jpg"
+          },
+          {
+            "alt": "Fandango-Change Personal Information from Website. Step 3: Change all Basic Personal Information so it cannot identify you anymore and Click Save",
+            "title": "Change Personal Information",
+            "url": "fandango/slides/395_3Save.jpg"
+          },
+          {
+            "alt": "Fandango-Change Personal Information from Website. Step 4: Click Change Email",
+            "title": "Change Email",
+            "url": "fandango/slides/396_4ChangeEmail.jpg"
+          },
+          {
+            "alt": "Fandango-Change Personal Information from Website. Step 5: Change your email address so its not linked to your primary email account and Click Save",
+            "title": "Change Email & Save",
+            "url": "fandango/slides/397_5Save.jpg"
+          },
+          {
+            "alt": "Fandango-Change Personal Information from Website. Step 6: Click Sharing",
+            "title": "Sharing",
+            "url": "fandango/slides/398_6Sharing.jpg"
+          },
+          {
+            "alt": "Fandango-Change Personal Information from Website. Step 7: Make sure both setting are to turned to Off",
+            "title": "Turn to Off",
+            "url": "fandango/slides/399_7Botrhturnedtooff.jpg"
+          },
+          {
+            "alt": "Fandango-Change Personal Information from Website. Step 8: Click Payment Method",
+            "title": "Payment Method",
+            "url": "fandango/slides/400_8PaymentMethod.jpg"
+          },
+          {
+            "alt": "Fandango-Change Personal Information from Website. Step 9: Click Delete",
+            "title": "Delete",
+            "url": "fandango/slides/401_9Delete.jpg"
+          }
+        ]
+      }
+    },
+    {
+      "header": "Delete Account",
+      "title": "How To Delete Your Fandango Account",
+      "id": "delete-account",
+      "link": "fandango/delete-account",
+      "before": "Fandango does not give you an option to Delete your Account.  Therefore, you need to contact customer service through your computer browser and request that your account be deleted.  However, this does not always work.  Due to this, It is suggested that you go in and change or delete your personal information where you can prior to contacting customer service.  These steps will teach you how to contact customer service.",
+      "after": "You should receive a confirmation email that your account has been deleted. There are some cases where people have found that there information was not able to be deleted . This is why we recommend that you change all your personal information including your email address making your account useless to them.  ",
+      "action": {
+        "text": "Delete",
+        "link": "http://fandango.custhelp.com/app/ask"
+      },
+      "qnAnswers": [
+        {
+          "question": "Why should I change my Personal Information prior to deleting my account?",
+          "answer": "Changing your personal information is a way to make your data useless to Fandango.  Because Fandango does not make it easy to delete your account we suggest that you go in and cancel your credit card, change your email address, and change any other information linked to you. Now, if they do not delete you account, none of the information can trace back to you anyway.  ",
+          "createdAt": "July 22nd 2018"
+        },
+        {
+          "question": "What happens to my Credits when I delete My Account?",
+          "answer": "You will lose all credits associated with your account.  You cannot transfer them to another account.  It is recommended that you use all leftover credits prior to deletion.",
+          "createdAt": "July 23rd 2018"
+        },
+        {
+          "question": "Do I have to Delete my Account to Unsubscribe to emails?",
+          "answer": "No.  To unsubscribe to Fandango emails [please click here] (https://www.fandango.com/email-unsubscribe?ed_rid=_edid). ",
+          "createdAt": "July 23rd 2018"
+        }
+      ],
+      "website": {
+        "steps": [
+          "To Contact Customer Service [Please Click here] (http://fandango.custhelp.com/app/ask). ",
+          "Under Category Click Other",
+          "Type the Email Address associated to your Fandango Account",
+          "Type your First and Last Name",
+          "Type a Deletion Request",
+          "Under What was the Email Content Type Other",
+          "Click Continue",
+          "This is the Confirmation Message you will receive explaining that Customer Service will Contact you within 72 hours"
+        ],
+        "slides": [
+          {
+            "alt": "Fandango-Delete Account from Website. Step 1: To Contact Customer Service [Please Click here] (http://fandango.custhelp.com/app/ask). ",
+            "title": "Customer Support",
+            "url": "fandango/slides/385_1CustomerSupportPageDoNothing.jpg"
+          },
+          {
+            "alt": "Fandango-Delete Account from Website. Step 2: Under Category Click Other",
+            "title": "Other",
+            "url": "fandango/slides/386_2CLickOther.jpg"
+          },
+          {
+            "alt": "Fandango-Delete Account from Website. Step 3: Type the Email Address associated to your Fandango Account",
+            "title": "Email Address",
+            "url": "fandango/slides/387_3EmailAddress.jpg"
+          },
+          {
+            "alt": "Fandango-Delete Account from Website. Step 4: Type your First and Last Name",
+            "title": "Contact Information",
+            "url": "fandango/slides/388_4FirstNameandLastName.jpg"
+          },
+          {
+            "alt": "Fandango-Delete Account from Website. Step 5: Type a Deletion Request",
+            "title": "Deletion Request",
+            "url": "fandango/slides/389_5QuestionBox.jpg"
+          },
+          {
+            "alt": "Fandango-Delete Account from Website. Step 6: Under What was the Email Content Type Other",
+            "title": "Other Email Content",
+            "url": "fandango/slides/390_6WhatwastheemailcontentOther.jpg"
+          },
+          {
+            "alt": "Fandango-Delete Account from Website. Step 7: Click Continue",
+            "title": "Continue",
+            "url": "fandango/slides/391_7ClickContinue.jpg"
+          },
+          {
+            "alt": "Fandango-Delete Account from Website. Step 8: This is the Confirmation Message you will receive explaining that Customer Service will Contact you within 72 hours",
+            "title": "Confirmation Message",
+            "url": "fandango/slides/392_8DoNothing.jpg"
+          }
+        ]
+      }
+    }
+  ]
+}

@@ -1,0 +1,45 @@
+.footer {
+	text-transform: uppercase;
+	letter-spacing: 0.07em;
+	display: grid;
+	grid-template-columns: 1fr 0.5fr;
+}
+
+.left {
+	align-items: center;
+	text-transform: uppercase;
+	letter-spacing: 0.07em;
+	height: 136px;
+	display: flex;	
+}
+
+.left > ul {
+	float:left;
+}
+
+.left > ul > li {
+	float:left;
+	padding-right: 20px;	
+}
+
+.left > ul > li > a {
+	float:left;
+}
+
+.footer-social {
+	display: flex;
+	justify-content: flex-end;
+	align-items: center;
+}
+
+.fb_icon {
+	margin-left: 23px; 
+	width: 20px;
+	height: 36px;
+}
+
+.twitter_icon {
+	margin-left: 23px;
+	width: 34px;
+	height: 30px;
+}

@@ -1,0 +1,9 @@
+[Settings]
+  ID = "elastic-knuth-81d787"
+
+[context.production.environment]
+  REACT_APP_ENV = "production"
+
+[context.deploy-preview.environment]
+  REACT_APP_ENV = "preview"
+

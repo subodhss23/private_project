@@ -1,0 +1,105 @@
+{
+  "name": "Black People Meet",
+  "top_app": false,
+  "support": [
+    {
+      "link": "https://www.blackpeoplemeet.com/v3/help ",
+      "text": "Help Center"
+    },
+    {
+      "link": "https://peoplemedia.custhelp.com/app/ask/theme/blackpeoplemeetv6/src/www.blackpeoplemeet.com_v3_help_iframehelper/pmsite/2 ",
+      "text": "Contact"
+    },
+    {
+      "phone": "1-866-727-8920"
+    }
+  ],
+  "logo": "black-people-meet/Logo.jpg",
+  "instructions": [
+    {
+      "header": "Delete Account",
+      "title": "How To Delete Your Black People Meet Account",
+      "id": "delete-account",
+      "link": "black-people-meet/delete-account",
+      "before": "You cannot delete your Black People Meet Account from the mobile app.  You must delete your account by navigating through the website.",
+      "thingsToRemember": [
+        "Please note, all emails, photos, records relating to your profile, remaining time and account will be immediately removed from the site.",
+        "If you would later like to join BlackPeopleMeet again, you will have to create a new profile from scratch. ",
+        "If you just want to take a break, you can hide BlackPeopleMeet profile. You can do so from the same settings tab that allows you to delete BlackPeopleMeet profile.",
+        "If you signed up for BlackPeopleMeet using a third-party login such as Facebook or Twitter, you probably want to revoke all access from BlackPeopleMeet."
+      ],
+      "website": {
+        "steps": [
+          "Go to the Black People Meet Website. If you're already logged in, doing so will open your Black People Meet home page.",
+          "Click on your Settings located at the top right section of your screen",
+          "Click My Account from the drop down menu",
+          "Scroll down to Account Status and then Click the View Account Status link",
+          "On the next screen, click the Other Account Status Changes link",
+          "Click the Remove My Profile link",
+          "Choose an Option and then continue",
+          "Choose another Option and then continue",
+          "Type in Delete My Account and then Remove My Profile",
+          "Click Remove My Profile to Confirm",
+          "This screen will appear to Confirm Delete"
+        ],
+        "slides": [
+          {
+            "alt": "Black People Meet-Delete Account from Website. Step 1: Go to the Black People Meet Website. If you're already logged in, doing so will open your Black People Meet home page.",
+            "title": "Login",
+            "url": "black-people-meet/slides/1BPMSiteDelete.png"
+          },
+          {
+            "alt": "Black People Meet-Delete Account from Website. Step 2: Click on your Settings located at the top right section of your screen",
+            "title": "Settings",
+            "url": "black-people-meet/slides/2BPMSiteDelete.png"
+          },
+          {
+            "alt": "Black People Meet-Delete Account from Website. Step 3: Click My Account from the drop down menu",
+            "title": "My Account",
+            "url": "black-people-meet/slides/3BPMSiteDelete.png"
+          },
+          {
+            "alt": "Black People Meet-Delete Account from Website. Step 4: Scroll down to Account Status and then Click the View Account Status link",
+            "title": "View Account Status",
+            "url": "black-people-meet/slides/4BPMSiteDelete.png"
+          },
+          {
+            "alt": "Black People Meet-Delete Account from Website. Step 5: On the next screen, click the Other Account Status Changes link",
+            "title": "Other Account Status",
+            "url": "black-people-meet/slides/5BPMSiteDelete.png"
+          },
+          {
+            "alt": "Black People Meet-Delete Account from Website. Step 6: Click the Remove My Profile link",
+            "title": "Remove My Profile",
+            "url": "black-people-meet/slides/6BPMSiteDelete.png"
+          },
+          {
+            "alt": "Black People Meet-Delete Account from Website. Step 7: Choose an Option and then continue",
+            "title": "Choose an Option",
+            "url": "black-people-meet/slides/7BPMSiteDelete.png"
+          },
+          {
+            "alt": "Black People Meet-Delete Account from Website. Step 8: Choose another Option and then continue",
+            "title": "Choose an Option",
+            "url": "black-people-meet/slides/8BPMSiteDelete.png"
+          },
+          {
+            "alt": "Black People Meet-Delete Account from Website. Step 9: Type in Delete My Account and then Remove My Profile",
+            "title": "Type Delete and Remove",
+            "url": "black-people-meet/slides/9BPMSiteDelete.png"
+          },
+          {
+            "alt": "Black People Meet-Delete Account from Website. Step 10: Click Remove My Profile to Confirm",
+            "title": "Remove My Profile",
+            "url": "black-people-meet/slides/10BPMSiteDelete.png"
+          },
+          {
+            "alt": "Black People Meet-Delete Account from Website. Step 11: This screen will appear to Confirm Delete",
+            "title": "Deletion Confirmed",
+            "url": "black-people-meet/slides/11BPMSiteDelete.png"
+          }
+        ]
+      }
+    }
+  ]
+}

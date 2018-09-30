@@ -1,0 +1,142 @@
+{
+  "name": "Roblox",
+  "top_app": false,
+  "delete": "https://www.roblox.com/my/account#!/billing",
+  "social_image": [
+    {
+      "id": "att9SPG74tdsb2u7J",
+      "url": "https://dl.airtable.com/21OdYkixSjykgYLo57wK_socialmedia-robolox.jpg",
+      "filename": "socialmedia-robolox.jpg",
+      "size": 50665,
+      "type": "image/jpeg",
+      "thumbnails": {
+        "small": {
+          "url": "https://dl.airtable.com/w0rMap8kRk2yOAbRCV28_small_socialmedia-robolox.jpg",
+          "width": 20,
+          "height": 36
+        },
+        "large": {
+          "url": "https://dl.airtable.com/nPA7XoUBQK68LYzPz6Ol_large_socialmedia-robolox.jpg",
+          "width": 316,
+          "height": 562
+        },
+        "full": {
+          "url": "https://dl.airtable.com/B3rpatlzTbSEal8dJDPM_full_socialmedia-robolox.jpg",
+          "width": 316,
+          "height": 562
+        }
+      }
+    }
+  ],
+  "support": [
+    {
+      "link": "https://en.help.roblox.com/hc/en-us",
+      "text": "Help Center"
+    },
+    {
+      "link": "https://www.roblox.com/support",
+      "text": "Contact"
+    },
+    {
+      "email": "info@roblox.com"
+    },
+    {
+      "phone": "(888) 858-2569"
+    }
+  ],
+  "logo": "roblox/Logo.jpg",
+  "instructions": [
+    {
+      "header": "Cancel Subscription",
+      "title": "How To Cancel Your Robolox Subsription",
+      "id": "cancel-subscription",
+      "link": "roblox/cancel-subscription",
+      "before": "You can cancel theSubscription at any time on the website. Your subscription will be cancelled immediately but you will keep privileges for the remainder of the already paid time.  ",
+      "after": "Unfortunately, their is no account deletion feature for free accounts.  Meaning, you are stuck with your free account after you cancel your paid subscription. ",
+      "intro": "If no Builders Club membership is associated with the account, then there is nothing that you will need to cancel.  The account will simply remain inactive until you're ready to play again.  Unfortunately, there is no way to delete a free account. Due to this, we suggest that you go into your account settings and change all of your personal information so it doesn't reflect you and cannot be traced back to you.  At this point, this is the closest solution to deletion and will ensure that your personal information is no longer tied to the site.",
+      "qnAnswers": [
+        {
+          "question": "Can I get a refund for cancelling my subscription early?",
+          "answer": "No. Builders Club memberships purchased through the roblox.com website are recurring by default and will renew at the end of their term using the original payment method. You can cancel on the website at anytime before the renewal date. If you cancel a recurring subscription, you will continue to receive Builders Club privileges for the remainder of the already paid time.",
+          "createdAt": "July 26th 2018"
+        },
+        {
+          "question": "What should I do to delete my account if Robolox doesn't allow account deletion?",
+          "answer": "Change all of your personal information.  If you change all your personal information associated with your account then none of the information can identify you.  This way if they do not delete your account its not connected to you anyway. ",
+          "createdAt": "July 27th 2018"
+        }
+      ],
+      "website": {
+        "steps": [
+          "[Open the Robolox Website] (https://www.roblox.com/my/account#!/billing).  If you’re already logged in, doing so will open your Robolox Homepage.",
+          "Click the Settings Gear on the Top Right",
+          "Click Settings",
+          "Click Billing",
+          "This screen shows no subscription.  However, if you have an active subscription you will see a grey cancel button. Click the button and follow the prompts to cancel your subscription"
+        ],
+        "slides": [
+          {
+            "alt": "Roblox-Cancel Subscription from Website. Step 1: [Open the Robolox Website] (https://www.roblox.com/my/account#!/billing).  If you’re already logged in, doing so will open your Robolox Homepage.",
+            "title": "Log in",
+            "url": "roblox/slides/431_1Signin.jpg"
+          },
+          {
+            "alt": "Roblox-Cancel Subscription from Website. Step 2: Click the Settings Gear on the Top Right",
+            "title": "Settings Gear",
+            "url": "roblox/slides/432_2Settings.jpg"
+          },
+          {
+            "alt": "Roblox-Cancel Subscription from Website. Step 3: Click Settings",
+            "title": "Settings",
+            "url": "roblox/slides/433_3Settings.jpg"
+          },
+          {
+            "alt": "Roblox-Cancel Subscription from Website. Step 4: Click Billing",
+            "title": "Billing",
+            "url": "roblox/slides/434_4Billing.jpg"
+          },
+          {
+            "alt": "Roblox-Cancel Subscription from Website. Step 5: This screen shows no subscription.  However, if you have an active subscription you will see a grey cancel button. Click the button and follow the prompts to cancel your subscription",
+            "title": "Cancel Subscription",
+            "url": "roblox/slides/435_5DoNothingMakeitLookliketherest.jpg"
+          }
+        ]
+      }
+    },
+    {
+      "header": "Delete Free Account",
+      "title": "How To Delete Your Free Robolox Account",
+      "id": "delete-free-account",
+      "link": "roblox/delete-free-account",
+      "intro": "If no Builders Club membership is associated with the account, then there is nothing that you will need to cancel.  The account will simply remain inactive until you're ready to play Roblox again.  Unfortunately, there is no way to delete a free account. Due to this, we suggest that you go into your account settings and change all of your personal information so it doesn't reflect you and cannot be traced back to you.  At this point, this is the closest solution to deletion and will ensure that your personal information is no longer tied to Robolox. ",
+      "action": {
+        "text": "Delete",
+        "link": "https://www.roblox.com/my/account#!/billing"
+      },
+      "qnAnswers": [
+        {
+          "question": "Can I get a refund for cancelling my subscription early?",
+          "answer": "No. Builders Club memberships purchased through the roblox.com website are recurring by default and will renew at the end of their term using the original payment method. You can cancel on the website at anytime before the renewal date. If you cancel a recurring subscription, you will continue to receive Builders Club privileges for the remainder of the already paid time.",
+          "createdAt": "July 27th 2018"
+        },
+        {
+          "question": "What should I do to delete my account if Robolox doesn't allow account deletion?",
+          "answer": "Change all of your personal information.  If you change all your personal information associated with your account then none of the information can identify you.  This way if they do not delete your account its not connected to you anyway. ",
+          "createdAt": "July 27th 2018"
+        }
+      ],
+      "website": {
+        "steps": [
+          "Usually when there is no deletion feature you can still email customer service and they will delete your account for you. Unfortunatley, this rule does not apply to Robolox.  This is the email we received after requesting account deletion.  As you can see Robolox Customer Service is of no help. "
+        ],
+        "slides": [
+          {
+            "alt": "Roblox-Delete Free Account from Website. Step 1: Usually when there is no deletion feature you can still email customer service and they will delete your account for you. Unfortunatley, this rule does not apply to Robolox.  This is the email we received after requesting account deletion.  As you can see Robolox Customer Service is of no help. ",
+            "title": "Deletion Request",
+            "url": "roblox/slides/screenshot.png"
+          }
+        ]
+      }
+    }
+  ]
+}

@@ -1,0 +1,126 @@
+{
+  "name": "Yahoo",
+  "top_app": true,
+  "breaches": 999,
+  "delete": "https://edit.yahoo.com/config/delete_user",
+  "social_image": [
+    {
+      "id": "attZHKLMAeE6dzydt",
+      "url": "https://dl.airtable.com/fBDSP2YQJaiPn52xPglJ_SocialMedia-Yahoo.jpg",
+      "filename": "SocialMedia-Yahoo.jpg",
+      "size": 46566,
+      "type": "image/jpeg",
+      "thumbnails": {
+        "small": {
+          "url": "https://dl.airtable.com/e4I7JeQLT468Hjw5gTIe_small_SocialMedia-Yahoo.jpg",
+          "width": 17,
+          "height": 36
+        },
+        "large": {
+          "url": "https://dl.airtable.com/Z4CkwVYREeGFiueWgqfB_large_SocialMedia-Yahoo.jpg",
+          "width": 316,
+          "height": 684
+        },
+        "full": {
+          "url": "https://dl.airtable.com/EOsu0ExWT7iku1MkBNar_full_SocialMedia-Yahoo.jpg",
+          "width": 316,
+          "height": 684
+        }
+      }
+    }
+  ],
+  "support": [
+    {
+      "link": "https://help.yahoo.com/kb/account",
+      "text": "Help Center"
+    },
+    {
+      "link": "https://io.help.yahoo.com/contact/index?page=contact&locale=en_US&y=PROD_ACCT",
+      "text": "Contact"
+    }
+  ],
+  "logo": "yahoo/LOGO.jpg",
+  "instructions": [
+    {
+      "header": "Delete Account",
+      "title": "How To Delete Your Yahoo Account",
+      "id": "delete-account",
+      "link": "yahoo/delete-account",
+      "before": "You cannot delete your yahoo account from a mobile app.  You have to use the delete link from a desktop browser. ",
+      "after": "Remember, after deletion do not try and log back onto your account.  Logging back on will reactivate your deleted account.  ",
+      "action": {
+        "text": "Delete",
+        "link": "https://edit.yahoo.com/config/delete_user"
+      },
+      "qnAnswers": [
+        {
+          "question": "Will I automatically lose access to other Yahoo services after I delete my Account?",
+          "answer": "Yes.  Deleting your Yahoo account will disable all other Yahoo associated services.",
+          "createdAt": "July 14th 2018"
+        },
+        {
+          "question": "Can I reactivate my account after Deletion?",
+          "answer": "Yes, but there is a small window for this. If you sign onto your account within 4o days of closing it the account will be automatically reactivated. ",
+          "createdAt": "July 15th 2018"
+        },
+        {
+          "question": "After I delete my Account will all my information be removed from Yahoo?",
+          "answer": "Yahoo! says the deletion process takes about 90 days to complete.  After this your information will be removed.  If you want your data scrubbed from Yahoo's servers sooner than that, you'll want to go through and delete your Yahoo! emails, Flickr photos, and Yahoo! Contacts before completing the account termination process.",
+          "createdAt": "July 15th 2018"
+        },
+        {
+          "question": "Can I contact Yahoo Directly?",
+          "answer": "Best answer is No.  It’s incredibly hard to contact yahoo directly by phone or direct email.  The steps above are the best method for deletion. Don’t ever count on ever speaking to anyone directly.",
+          "createdAt": "July 15th 2018"
+        },
+        {
+          "question": "What about removing Facebooks Third Party Access?",
+          "answer": "Facebook's Single Sign On service makes logging in and creating accounts for apps, games, and services easy. But when connect to Facebook you give those apps access to your data — a lot of your data.  It is a good idea to log onto facebook after deleting Yahoo to remove facebooks third party access.  Essentially this will break the link between your Facebook account and Yahoo.  To do this, follow the steps on how to remove Facebooks third party access. ",
+          "createdAt": "July 15th 2018"
+        }
+      ],
+      "website": {
+        "steps": [
+          "[Click here for the Yahoo Delete Link] (https://edit.yahoo.com/config/delete_user).   It will bring you to the Yahoo Delete Page.",
+          "Click on the Account you want to delete",
+          "Enter your Username and Click Sign in",
+          "Enter your Password and Click Sign in",
+          "Click Continue Deleting My Account",
+          "Click Yes Terminate My Account to Confirm Deletion"
+        ],
+        "slides": [
+          {
+            "alt": "Yahoo-Delete Account from Website. Step 1: [Click here for the Yahoo Delete Link] (https://edit.yahoo.com/config/delete_user).   It will bring you to the Yahoo Delete Page.",
+            "title": "Delete Link",
+            "url": "yahoo/slides/1YahooSiteDelete.png"
+          },
+          {
+            "alt": "Yahoo-Delete Account from Website. Step 2: Click on the Account you want to delete",
+            "title": "Choose Account to Delete",
+            "url": "yahoo/slides/2YahooSiteDelete.png"
+          },
+          {
+            "alt": "Yahoo-Delete Account from Website. Step 3: Enter your Username and Click Sign in",
+            "title": "Enter Username",
+            "url": "yahoo/slides/3YahooSiteDelete.png"
+          },
+          {
+            "alt": "Yahoo-Delete Account from Website. Step 4: Enter your Password and Click Sign in",
+            "title": "Enter Password",
+            "url": "yahoo/slides/4YahooSiteDelete.png"
+          },
+          {
+            "alt": "Yahoo-Delete Account from Website. Step 5: Click Continue Deleting My Account",
+            "title": "Continue Deletion My Account",
+            "url": "yahoo/slides/5YahooSiteDelete.png"
+          },
+          {
+            "alt": "Yahoo-Delete Account from Website. Step 6: Click Yes Terminate My Account to Confirm Deletion",
+            "title": "Yes Terminate My Account",
+            "url": "yahoo/slides/6YahooSiteDelete.png"
+          }
+        ]
+      }
+    }
+  ]
+}

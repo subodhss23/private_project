@@ -1,0 +1,212 @@
+{
+  "name": "Slack",
+  "top_app": false,
+  "delete": "https://deletemydatagroup.slack.com/admin/settings",
+  "social_image": [
+    {
+      "id": "attgInWNsbxX9UFNK",
+      "url": "https://dl.airtable.com/WfWu1vC7SEOk9OlgduZv_socialmedia-slack.jpg",
+      "filename": "socialmedia-slack.jpg",
+      "size": 62296,
+      "type": "image/jpeg",
+      "thumbnails": {
+        "small": {
+          "url": "https://dl.airtable.com/V7Ggh1nR7m3nWTixx1JQ_small_socialmedia-slack.jpg",
+          "width": 17,
+          "height": 36
+        },
+        "large": {
+          "url": "https://dl.airtable.com/O7QHFo20TuimsTpIncV9_large_socialmedia-slack.jpg",
+          "width": 512,
+          "height": 1108
+        },
+        "full": {
+          "url": "https://dl.airtable.com/Na2XjrCJQqSQuatoTORF_full_socialmedia-slack.jpg",
+          "width": 600,
+          "height": 1299
+        }
+      }
+    }
+  ],
+  "support": [
+    {
+      "link": "https://get.slack.help/hc/en-us",
+      "text": "Help Center"
+    },
+    {
+      "link": "https://slack.com/help/contact?from_hc=1&src=article&hid=HC-F985-E35B-EA89-B933&aid=203953146",
+      "text": "Contact"
+    }
+  ],
+  "logo": "slack/Logo.jpg",
+  "instructions": [
+    {
+      "header": "Deactivate Account",
+      "title": "How To Deactivate Your Slack Account",
+      "id": "deactivate-account",
+      "link": "slack/deactivate-account",
+      "before": "You can only Delete or Deactivate your Slack Account on a Computer, you cannot do so on a mobile device.  Only a workspace Primary Owner can Delete a Slack Workspace. If you are not the primary owner you can Deactivate your Workspace which is the same as deleting since it will now be removed.  ",
+      "after": "Your account will be deactivated after confirm your deactivation request.",
+      "action": {
+        "text": "Deactivate",
+        "link": "https://deletemydatagroup.slack.com/account/settings"
+      },
+      "qnAnswers": [
+        {
+          "question": "What happens when I Deactivate or Delete My Slack Account? ",
+          "answer": "Deactivating your account won't delete messages or files you've shared. It is recommended that you delete content you'd like to remove before deactivating your account.  ",
+          "createdAt": "July 21st 2018"
+        },
+        {
+          "question": "Can Reactivate a Deleted or Deactivated Workspace?",
+          "answer": "No. Deleting a Slack workspace cannot be undone: once you delete a workspace, all of its messages and files will be irretrievable, so it is recommended that you download a copy of your data first.  You can, however, sign up again with the same email address.  [Click here for more on exporting data] (https://get.slack.help/hc/en-us/articles/201658943-Export-your-workspace-data).",
+          "createdAt": "July 21st 2018"
+        },
+        {
+          "question": "If I am not the Primary owner of a Workspace can I Delete my Account?",
+          "answer": "No, but you can deactivate it. Deactivation is the same as deletion essentially.  For deactivation you are deleting your account that is tied to the workspace, not the whole workspace. ",
+          "createdAt": "July 21st 2018"
+        },
+        {
+          "question": "Does Deactivating my Slack Account Delete every Workspace?",
+          "answer": "No. For every workspace you've joined, you'll need to deactivate each account individually. ",
+          "createdAt": "July 21st 2018"
+        },
+        {
+          "question": "Can I Transfer Ownership of my Workspace instead of Deleting My Account?",
+          "answer": "Yes.  Once you transfer ownership you will be an account holder.  As an account holder you have the option of deactivating your account. ",
+          "createdAt": "July 21st 2018"
+        }
+      ],
+      "website": {
+        "steps": [
+          "[Go to the Slack Sign in] (https://slack.com/signin) If you’re already logging in, doing so will open your Slack Workspace.",
+          "Click the Settings Gear on the Right Side",
+          "Scroll Down and Click Deactivate My Account",
+          "Click Yes, Deactivate My Account",
+          "Check the Box and Click Yes Deactivate My Account"
+        ],
+        "slides": [
+          {
+            "alt": "Slack-Deactivate Account from Website. Step 1: [Go to the Slack Sign in] (https://slack.com/signin) If you’re already logging in, doing so will open your Slack Workspace.",
+            "title": "Login",
+            "url": "slack/slides/1SlackSiteDeactivate.png"
+          },
+          {
+            "alt": "Slack-Deactivate Account from Website. Step 2: Click the Settings Gear on the Right Side",
+            "title": "Settings Gear",
+            "url": "slack/slides/2SlackSiteDeactivate.png"
+          },
+          {
+            "alt": "Slack-Deactivate Account from Website. Step 3: Scroll Down and Click Deactivate My Account",
+            "title": "Deactivate My Account",
+            "url": "slack/slides/3SlackSiteDeactivate.png"
+          },
+          {
+            "alt": "Slack-Deactivate Account from Website. Step 4: Click Yes, Deactivate My Account",
+            "title": "Yes, Deactivate My Account",
+            "url": "slack/slides/4SlackSiteDeactivate.png"
+          },
+          {
+            "alt": "Slack-Deactivate Account from Website. Step 5: Check the Box and Click Yes Deactivate My Account",
+            "title": "Confirm Deactivation",
+            "url": "slack/slides/5SlackSiteDeactivate.png"
+          }
+        ]
+      }
+    },
+    {
+      "header": "Delete Account",
+      "title": "How to Delete Your Slack Account",
+      "id": "delete-account",
+      "link": "slack/delete-account",
+      "before": "You can only Delete or Deactivate your Slack Account through an Internet Browser, you cannot do so through the App on a Mobile Device.  Only a workspace Primary Owner can Delete a Slack Workspace. If you are not the primary owner you can Deactivate your Workspace which is the same as deleting since it will now be removed.  ",
+      "after": "Your account will be deleted after confirm your deletion request.",
+      "action": {
+        "text": "Delete",
+        "link": "https://deletemydatagroup.slack.com/admin/settings"
+      },
+      "qnAnswers": [
+        {
+          "question": "What happens when I Deactivate or Delete My Slack Account? ",
+          "answer": "Deactivating your account won't delete messages or files you've shared. It  is recommended that you delete content you'd like to remove before deactivating your account.  ",
+          "createdAt": "July 21st 2018"
+        },
+        {
+          "question": "Can Reactivate a Deleted or Deactivated Workspace?",
+          "answer": "No. Deleting a Slack workspace cannot be undone: once you delete a workspace, all of its messages and files will be irretrievable, so it is recommended that you download a copy of your data first. You can, however, sign up again with the same email address. [Click here for more on exporting data] (https://get.slack.help/hc/en-us/articles/201658943-Export-your-workspace-data).",
+          "createdAt": "July 21st 2018"
+        },
+        {
+          "question": "If I am not the Primary owner of a Workspace can I Delete my Account?",
+          "answer": "No, but you can deactivate it. Deactivation is the same as deletion essentially.  For deactivation you are deleting your account that is tied to the workspace, not the whole workspace. ",
+          "createdAt": "July 21st 2018"
+        },
+        {
+          "question": "Can I Transfer Ownership of my Workspace instead of Deleting My Account?",
+          "answer": "Yes.  Once you transfer ownership you will be an account holder.  As an account holder you have the option of deactivating your account. ",
+          "createdAt": "July 21st 2018"
+        },
+        {
+          "question": "Does Deactivating my Slack Account Delete every Workspace?",
+          "answer": "No. For every workspace you've joined, you'll need to deactivate each account individually. ",
+          "createdAt": "July 21st 2018"
+        }
+      ],
+      "website": {
+        "steps": [
+          "[Go to the Slack Website] (https://www.slack.com). If you're already logged in, doing so will open your Slack home page",
+          "Click your Workspace Name on the Top Left",
+          "Select Profile and Account from the Menu",
+          "Click the Gear Icon on the Right Side",
+          "Click Menu",
+          "Click Settings and Permissions",
+          "Scroll Down and Click Delete Workspace",
+          "Check Confirm Deletion and then Click Yes, Delete My Workspace"
+        ],
+        "slides": [
+          {
+            "alt": "Slack-Delete Account from Website. Step 1: [Go to the Slack Website] (https://www.slack.com). If you're already logged in, doing so will open your Slack home page",
+            "title": "Login",
+            "url": "slack/slides/1SlackSiteDelete.png"
+          },
+          {
+            "alt": "Slack-Delete Account from Website. Step 2: Click your Workspace Name on the Top Left",
+            "title": "Workspace Name",
+            "url": "slack/slides/2SlackSiteDelete.png"
+          },
+          {
+            "alt": "Slack-Delete Account from Website. Step 3: Select Profile and Account from the Menu",
+            "title": "Profile and Account",
+            "url": "slack/slides/3SlackSiteDelete.png"
+          },
+          {
+            "alt": "Slack-Delete Account from Website. Step 4: Click the Gear Icon on the Right Side",
+            "title": "Gear Icon",
+            "url": "slack/slides/4SlackSiteDelete.png"
+          },
+          {
+            "alt": "Slack-Delete Account from Website. Step 5: Click Menu",
+            "title": "Menu",
+            "url": "slack/slides/5SlackSiteDelete.png"
+          },
+          {
+            "alt": "Slack-Delete Account from Website. Step 6: Click Settings and Permissions",
+            "title": "Settings and Permissions",
+            "url": "slack/slides/6SlackSiteDelete.png"
+          },
+          {
+            "alt": "Slack-Delete Account from Website. Step 7: Scroll Down and Click Delete Workspace",
+            "title": "Delete Workspace",
+            "url": "slack/slides/7SlackSiteDelete.png"
+          },
+          {
+            "alt": "Slack-Delete Account from Website. Step 8: Check Confirm Deletion and then Click Yes, Delete My Workspace",
+            "title": "Confirm Deletion",
+            "url": "slack/slides/8SlackSiteDelete.png"
+          }
+        ]
+      }
+    }
+  ]
+}

@@ -1,0 +1,59 @@
+.home > section > h1, h3 {
+	text-align: center;
+}
+
+.home > section > h3 {
+  height: 17px;
+  margin-top: 30px;
+}
+
+.s1 {
+	width: 642px;
+	margin: 0 auto 100px auto;
+	text-align: center;
+}
+
+.s2 {
+	margin-bottom: 75px;
+}
+
+/*.s3 > .usp > * {
+  border: 2px solid red;
+}*/
+
+.s3 > .usp {
+	height: 330px;
+	margin-top: 96px;
+	display: grid;
+	grid-template-columns: repeat(2, 1fr);
+	grid-row-gap: 63px;
+	grid-column-gap: 84px;
+	grid-auto-rows: 150px;
+}
+
+.s3 > .usp> .block {
+	display: grid;
+	grid-template-columns: 32px 1fr;
+	grid-column-gap: 15px;
+}
+
+.s3 > .usp> .block > .text {
+  height: 141px;
+  margin-top: 5px;
+}
+
+.s3 > .usp > .block > .text > .desc > a {
+	color: #1a73e8;
+}
+
+.line {
+    width: 149px;
+    height: 4px;
+    margin: 39px auto 35px auto;
+    background-color: #F24848;
+}
+
+.delete-all {
+	color: #1a73e8;
+	text-decoration: underline;
+}

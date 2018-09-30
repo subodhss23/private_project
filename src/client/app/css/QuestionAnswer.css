@@ -1,0 +1,40 @@
+.qaWrapper {
+	margin-bottom: 24px!important;
+}
+
+.qWrapper, .aWrapper {
+	margin-bottom: 10px!important;
+	display: grid;
+	grid-template-columns: 100px 1fr;	
+}
+
+.q {
+	width:100px;
+}
+
+.a {
+	width:100px;
+}
+
+.q > span, .a > span {
+	font-weight: 700!important;
+}
+
+.question {
+	padding-left:0%;
+	float:left;
+}
+
+.answer {
+	padding-left:0%;
+	float:left;
+}
+
+.answer > div > p > a {
+	color: #1a73e8;
+	text-decoration: underline;
+}
+
+.createdAt {
+	color: #767676!important;
+}

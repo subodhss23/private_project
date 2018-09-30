@@ -1,0 +1,94 @@
+{
+  "name": "Housekeeper",
+  "top_app": false,
+  "delete": "https://petsitter.com/settings ",
+  "support": [
+    {
+      "link": "https://help.careguide.com/hc/en-us",
+      "text": "Help Center"
+    },
+    {
+      "link": "https://help.careguide.com/hc/en-us/requests/new",
+      "text": "Contact"
+    },
+    {
+      "email": "info@careguide.com"
+    },
+    {
+      "phone": "1-855-874-8837 "
+    }
+  ],
+  "logo": "housekeeper/logo.png",
+  "instructions": [
+    {
+      "header": "Delete Account",
+      "title": "How to delete your Housekeeper account",
+      "id": "delete-account",
+      "link": "housekeeper/delete-account",
+      "before": "Housekeeper is a company under the Careguide umbrella.  All of the companies under Careguide follow the same deletion process. You cannot delete any of the Careguide accounts from a mobile app, you must delete the accounts from your desktop browser.  Please follow the steps below to delete your Housekeepr Account.",
+      "after": "Remember, once Deletion is complete you will loose access to all other Careguide Accounts. ",
+      "action": {
+        "text": "Delete",
+        "link": "https://petsitter.com/settings "
+      },
+      "qnAnswers": [
+        {
+          "question": "Does Deleting my profile delete my account?",
+          "answer": "No. You must follow the steps to cancel your subscription to delete your account.",
+          "createdAt": "July 14th 2018"
+        },
+        {
+          "question": "Does deleting my Account cancel my Paid Subscription?",
+          "answer": "No.  You must cancel your subscription before deleting your account.  To do so, please navigate to the settings page and click manage my subscription.  There you will be able to change or cancel your current subscriptions. ",
+          "createdAt": "July 14th 2018"
+        },
+        {
+          "question": "Will Deleting My Housekeeper.com Account Delete the rest of my Careguide Accounts?",
+          "answer": "Yes.  If you delete an unpaid Housekeeper Account it will delete your accounts for the rest of the free Careguide services you are signed up for.",
+          "createdAt": "July 14th 2018"
+        },
+        {
+          "question": "Can I get a refund if I cancel my subscription?",
+          "answer": "The answer is No.  Careguide states that since their sites are self serve and you are able to cancel your subscription at anytime, they do not offer refunds. If you’ve signed up for a month, they suggest you make the most of your time with them by reaching out to more people on the site. ",
+          "createdAt": "July 14th 2018"
+        }
+      ],
+      "website": {
+        "steps": [
+          "[Go to the Housekeeper Website](https://www.housekeeper.com). If you're already logged in, doing so will open your Housekeeper.com home page",
+          " Click on My Profile Icon",
+          "Click Settings",
+          "Scroll Down to Delete My Account",
+          "Click Delete Account to Confirm Deletion"
+        ],
+        "slides": [
+          {
+            "alt": "Housekeeper-Delete Account from Website. Step 1: [Go to the Housekeeper Website] (www.housekeeper.com). If you're already logged in, doing so will open your Housekeeper.com home page",
+            "title": "Login",
+            "url": "housekeeper/slides/1HousekeeperSiteDelete.png"
+          },
+          {
+            "alt": "Housekeeper-Delete Account from Website. Step 2:  Click on My Profile Icon",
+            "title": "Profile",
+            "url": "housekeeper/slides/2HousekeeperSiteDelete.png"
+          },
+          {
+            "alt": "Housekeeper-Delete Account from Website. Step 3: Click Settings",
+            "title": "Settings",
+            "url": "housekeeper/slides/3HousekeeperSiteDelete.png"
+          },
+          {
+            "alt": "Housekeeper-Delete Account from Website. Step 4: Scroll Down to Delete My Account",
+            "title": "Delete My Account",
+            "url": "housekeeper/slides/4HousekeeperSiteDelete.png"
+          },
+          {
+            "alt": "Housekeeper-Delete Account from Website. Step 5: Click Delete Account to Confirm Deletion",
+            "title": "Confirm Deletion",
+            "url": "housekeeper/slides/5HousekeeperSiteDelete.png"
+          }
+        ]
+      }
+    }
+  ]
+}

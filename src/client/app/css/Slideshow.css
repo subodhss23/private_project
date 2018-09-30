@@ -1,0 +1,32 @@
+.module {
+	display: grid;
+	grid-template-columns: repeat(2, 1fr);
+	grid-auto-rows: 420px;
+	grid-column-gap: 30px;
+}
+
+.right {
+	overflow-y: scroll;
+}
+
+.right::-webkit-scrollbar {
+    width: 10px;
+}
+ 
+.right::-webkit-scrollbar-thumb {
+  background-color: #F24848;
+  outline: 1px solid slategrey;
+}
+
+.howTo > a {
+	color: blue;
+}
+
+.howTo > a:hover {
+	cursor: pointer;
+}
+
+.right> ul > li > div > p > a {
+	color: #1a73e8;
+	text-decoration: underline;
+}

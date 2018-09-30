@@ -1,0 +1,164 @@
+{
+  "name": "Ebay",
+  "top_app": true,
+  "delete": "http://cgi1.ebay.com/ws/eBayISAPI.dll?CloseAccount",
+  "social_image": [
+    {
+      "id": "attkWoFnYyOBf9z7R",
+      "url": "https://dl.airtable.com/KkBh0DonTna27z6Czl5s_Ebay-SocialMedia.jpg",
+      "filename": "Ebay-SocialMedia.jpg",
+      "size": 72853,
+      "type": "image/jpeg",
+      "thumbnails": {
+        "small": {
+          "url": "https://dl.airtable.com/15CiwGhzRvGr7xAz4TLD_small_Ebay-SocialMedia.jpg",
+          "width": 17,
+          "height": 36
+        },
+        "large": {
+          "url": "https://dl.airtable.com/VVNGWD3uTbeBDsrHXRX2_large_Ebay-SocialMedia.jpg",
+          "width": 460,
+          "height": 996
+        },
+        "full": {
+          "url": "https://dl.airtable.com/Z7tbc8pQlmtGeGcaFMpQ_full_Ebay-SocialMedia.jpg",
+          "width": 460,
+          "height": 996
+        }
+      }
+    }
+  ],
+  "support": [
+    {
+      "link": "https://www.ebay.com/help/home",
+      "text": "Help Center"
+    },
+    {
+      "link": "https://www.ebay.com/help/account/changing-account-settings/closing-account?id=4199#contactWay",
+      "text": "Contact"
+    },
+    {
+      "phone": "1 (866) 540-3229"
+    }
+  ],
+  "logo": "ebay/Logo.jpg",
+  "instructions": [
+    {
+      "header": "Delete Account",
+      "title": "How To Delete Your Ebay Account",
+      "id": "delete-account",
+      "link": "ebay/delete-account",
+      "before": "To delete your Ebay account please follow the steps below.  If your ebay ID is your email address, it is strongly suggested that you change it prior to closing your account.",
+      "after": "When you submit a request to close your account, Ebay will send an email to your registered email address and to your eBay Messages within 24 hours letting you know that they’ve received it. Generally, it takes 30 days to close an account from the date we receive a request.",
+      "action": {
+        "text": "Delete",
+        "link": "http://cgi1.ebay.com/ws/eBayISAPI.dll?CloseAccount"
+      },
+      "qnAnswers": [
+        {
+          "question": "Is Closing my Ebay Account the same as Deleting my Ebay Account?",
+          "answer": "Yes.",
+          "createdAt": "July 19th 2018"
+        },
+        {
+          "question": "What happens when I Close My Ebay Account?",
+          "answer": "If you close your eBay account, you'll no longer be able to sell on the site or access My eBay. You'll also lose your feedback, as well as your purchase and sales history.",
+          "createdAt": "July 19th 2018"
+        },
+        {
+          "question": "What are some reasons why Ebay would refuse to Close My Account?",
+          "answer": "Ebay will not close your account if you have any unpaid fees, if your account balance is not zero, if you have unresolved suspensions, if you have restrictions and if you have any open bids. ",
+          "createdAt": "July 19th 2018"
+        },
+        {
+          "question": "Can I Reactivate a Deleted Account?",
+          "answer": "If you change your mind during the time it takes to close your account, you can contact Ebay and ask to have it reopened.  After the 30-day or 60-day period (depending on whether you've bought or sold in the past 30 days) your account will be permanently closed. If you'd like to use eBay again, you'll need to create a new account.  However, you won’t be able to create a new one under the same ID or email address ever again.",
+          "createdAt": "July 19th 2018"
+        },
+        {
+          "question": "Can I Close My Account if I recently bought or sold an item on Ebay?",
+          "answer": "Yes, but the process will be delayed. If you've bought or sold items in the 30 days prior to submitting your request, Ebay will keep your account open for 60 days from receiving your request so any outstanding sales or purchases can be completed, and so Ebay can meet their commitments to all buyers and sellers under the eBay Money Back Guarantee.",
+          "createdAt": "July 19th 2018"
+        }
+      ],
+      "website": {
+        "steps": [
+          "[Go to the Ebay Website] (https://www.ebay.com). If you're already logged in, doing so will open your Ebay home page",
+          "Click on your Profile Name on Top Right",
+          "Click Account Setting",
+          "Click Close My Account",
+          "Click Close My Account",
+          "Click Continue",
+          "Select a Reason why you are leaving",
+          "Click Continue",
+          "Under ‘View possible solution’ click ‘Yes, but I would still like to Close My Account’",
+          "Click Continue",
+          "Confirm Closure and then Click Continue",
+          "This is the Confirmation screen you see when your request for Deletion has been sent"
+        ],
+        "slides": [
+          {
+            "alt": "Ebay-Delete Account from Website. Step 1: [Go to the Ebay Website] (https://www.ebay.com). If you're already logged in, doing so will open your Ebay home page",
+            "title": "Log in",
+            "url": "ebay/slides/1EbaySiteDelete.png"
+          },
+          {
+            "alt": "Ebay-Delete Account from Website. Step 2: Click on your Profile Name on Top Right",
+            "title": "Profile Name",
+            "url": "ebay/slides/2EbaySiteDelete.png"
+          },
+          {
+            "alt": "Ebay-Delete Account from Website. Step 3: Click Account Setting",
+            "title": "Account Settings",
+            "url": "ebay/slides/3EbaySiteDelete.png"
+          },
+          {
+            "alt": "Ebay-Delete Account from Website. Step 4: Click Close My Account",
+            "title": "Close My Account",
+            "url": "ebay/slides/4EbaySiteDelete.png"
+          },
+          {
+            "alt": "Ebay-Delete Account from Website. Step 5: Click Close My Account",
+            "title": "Close My Account",
+            "url": "ebay/slides/5EbaySiteDelete.png"
+          },
+          {
+            "alt": "Ebay-Delete Account from Website. Step 6: Click Continue",
+            "title": "Continue",
+            "url": "ebay/slides/6EbaySiteDelete.png"
+          },
+          {
+            "alt": "Ebay-Delete Account from Website. Step 7: Select a Reason why you are leaving",
+            "title": "Reason For Leaving",
+            "url": "ebay/slides/7EbaySiteDelete.png"
+          },
+          {
+            "alt": "Ebay-Delete Account from Website. Step 8: Click Continue",
+            "title": "Continue",
+            "url": "ebay/slides/8EbaySiteDelete.png"
+          },
+          {
+            "alt": "Ebay-Delete Account from Website. Step 9: Under ‘View possible solution’ click ‘Yes, but I would still like to Close My Account’",
+            "title": "Yes, But I would still like to Close My Account",
+            "url": "ebay/slides/9EbaySiteDelete.png"
+          },
+          {
+            "alt": "Ebay-Delete Account from Website. Step 10: Click Continue",
+            "title": "Continue",
+            "url": "ebay/slides/10EbaySiteDelete.png"
+          },
+          {
+            "alt": "Ebay-Delete Account from Website. Step 11: Confirm Closure and then Click Continue",
+            "title": "Continue",
+            "url": "ebay/slides/11EbaySiteDelete.png"
+          },
+          {
+            "alt": "Ebay-Delete Account from Website. Step 12: This is the Confirmation screen you see when your request for Deletion has been sent",
+            "title": "Confirmation Screen",
+            "url": "ebay/slides/12EbaySiteDelete.png"
+          }
+        ]
+      }
+    }
+  ]
+}

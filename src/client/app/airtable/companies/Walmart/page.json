@@ -1,0 +1,140 @@
+{
+  "name": "Walmart",
+  "top_app": false,
+  "delete": "https://help.walmart.com/app/ask ",
+  "social_image": [
+    {
+      "id": "attvO6HyeoAzGpUEG",
+      "url": "https://dl.airtable.com/xmgEw7DnRIqNBDPGzSUZ_Walmart-SocialMedia.jpg",
+      "filename": "Walmart-SocialMedia.jpg",
+      "size": 73722,
+      "type": "image/jpeg",
+      "thumbnails": {
+        "small": {
+          "url": "https://dl.airtable.com/6yUf2WJRQIGBmHBf3BlL_small_Walmart-SocialMedia.jpg",
+          "width": 17,
+          "height": 36
+        },
+        "large": {
+          "url": "https://dl.airtable.com/rghpfH69S2eCK8ZEQyp9_large_Walmart-SocialMedia.jpg",
+          "width": 512,
+          "height": 1108
+        },
+        "full": {
+          "url": "https://dl.airtable.com/jrMyNjqRWvwpYufnlVgI_full_Walmart-SocialMedia.jpg",
+          "width": 600,
+          "height": 1299
+        }
+      }
+    }
+  ],
+  "support": [
+    {
+      "link": "https://help.walmart.com/ ",
+      "text": "Help Center"
+    },
+    {
+      "link": "https://help.walmart.com/app/ask ",
+      "text": "Contact"
+    },
+    {
+      "email": "help@walmart.com "
+    },
+    {
+      "phone": "1-800-966-6546 "
+    }
+  ],
+  "logo": "walmart/logo.jpg",
+  "instructions": [
+    {
+      "header": "Delete Account",
+      "title": "How To Delete Your Walmart Account",
+      "id": "delete-account",
+      "link": "walmart/delete-account",
+      "before": "There is no easy option to delete your Walmart Account.  You must contact customer service and request Account deletion.  You can do this by following the steps below or calling the customer service number listed for Walmart on this site. ",
+      "after": "Once this process is complete, Walmart will call you or send you a confirmation email letting you know that your account has been deleted. ",
+      "action": {
+        "text": "Delete",
+        "link": "https://help.walmart.com/app/ask "
+      },
+      "qnAnswers": [
+        {
+          "question": "Is there an easier way to delete my account other than contacting customer service?",
+          "answer": "No. In order to permanently delete your Walmart.com Account you must contact Customer Service and request account deletion. Since this is a difficult process, we  suggest you change your personal information from their site prior to this, essentially making your data useless to them. ",
+          "createdAt": "July 14th 2018"
+        },
+        {
+          "question": "How do I remove my personal information from Walmart.com?",
+          "answer": "You need to change all of your personal information stored on the site. You do this by going to your profile settings. Once there, change all fields with personal information so none of the information logged is yours. Because an account at Walmart.com cannot be deleted easily, we suggest you do this to make your data useless.  ",
+          "createdAt": "July 14th 2018"
+        }
+      ],
+      "website": {
+        "steps": [
+          "[Go to the Walmart Website] (https://www.walmart.com/). If you're already logged in, doing so will open your Walmart home page",
+          "Click the Profile Icon on the Top Right",
+          "Click Help",
+          "Click the Computer Image that says Walmart.com under Contact us",
+          "Click Shopping at Walmart.com under Choose your Topic",
+          "Click Manage Account under What can we help you with",
+          "Click Email",
+          "Fill in your information and type “I would like to Delete my Account” under reasons for contacting us. Then Click Submit",
+          "Click Ask Agent for Help",
+          "Copy Confirmation Code to reference to Customer Service"
+        ],
+        "slides": [
+          {
+            "alt": "Walmart-Delete Account from Website. Step 1: [Go to the Walmart Website] (https://www.walmart.com/). If you're already logged in, doing so will open your Walmart home page",
+            "title": "Login",
+            "url": "walmart/slides/1WalmartSiteDelete.png"
+          },
+          {
+            "alt": "Walmart-Delete Account from Website. Step 2: Click the Profile Icon on the Top Right",
+            "title": "Profile Icon",
+            "url": "walmart/slides/2WalmartSiteDelete.png"
+          },
+          {
+            "alt": "Walmart-Delete Account from Website. Step 3: Click Help",
+            "title": "Help",
+            "url": "walmart/slides/3WalmartSiteDelete.png"
+          },
+          {
+            "alt": "Walmart-Delete Account from Website. Step 4: Click the Computer Image that says Walmart.com under Contact us",
+            "title": "Walmart.com",
+            "url": "walmart/slides/4WalmartSiteDelete.png"
+          },
+          {
+            "alt": "Walmart-Delete Account from Website. Step 5: Click Shopping at Walmart.com under Choose your Topic",
+            "title": "Shopping at Walmart.com",
+            "url": "walmart/slides/5WalmartSiteDelete.png"
+          },
+          {
+            "alt": "Walmart-Delete Account from Website. Step 6: Click Manage Account under What can we help you with",
+            "title": "Manage Account",
+            "url": "walmart/slides/6WalmartSiteDelete.png"
+          },
+          {
+            "alt": "Walmart-Delete Account from Website. Step 7: Click Email",
+            "title": "Email",
+            "url": "walmart/slides/7WalmartSiteDelete.png"
+          },
+          {
+            "alt": "Walmart-Delete Account from Website. Step 8: Fill in your information and type “I would like to Delete my Account” under reasons for contacting us. Then Click Submit",
+            "title": "Fill in Personal Information",
+            "url": "walmart/slides/8WalmartSiteDelete.png"
+          },
+          {
+            "alt": "Walmart-Delete Account from Website. Step 9: Click Ask Agent for Help",
+            "title": "Ask Agent for Help",
+            "url": "walmart/slides/9WalmartSiteDelete.png"
+          },
+          {
+            "alt": "Walmart-Delete Account from Website. Step 10: Copy Confirmation Code to reference to Customer Service",
+            "title": "Confirmation Code",
+            "url": "walmart/slides/10WalmartSiteDelete.png"
+          }
+        ]
+      }
+    }
+  ]
+}

@@ -1,0 +1,182 @@
+{
+  "name": "Linkedin",
+  "top_app": false,
+  "delete": "https://www.linkedin.com/psettings/account-management/close-submit",
+  "social_image": [
+    {
+      "id": "attc3VE3o4jryqJu9",
+      "url": "https://dl.airtable.com/rRNYmtoQHSl9A0ei6CvK_socialmedia-linkedin.jpg",
+      "filename": "socialmedia-linkedin.jpg",
+      "size": 72441,
+      "type": "image/jpeg",
+      "thumbnails": {
+        "small": {
+          "url": "https://dl.airtable.com/ui15plrySJKRgb5pkpg1_small_socialmedia-linkedin.jpg",
+          "width": 20,
+          "height": 36
+        },
+        "large": {
+          "url": "https://dl.airtable.com/IodtKrVQmqGEjwbjqKxm_large_socialmedia-linkedin.jpg",
+          "width": 460,
+          "height": 818
+        },
+        "full": {
+          "url": "https://dl.airtable.com/mffa6fZoSlene2HOJjEe_full_socialmedia-linkedin.jpg",
+          "width": 460,
+          "height": 818
+        }
+      }
+    }
+  ],
+  "support": [
+    {
+      "link": "https://www.linkedin.com/help/linkedin?trk=neptune_help&lang=en",
+      "text": "Help Center"
+    },
+    {
+      "link": "https://www.linkedin.com/help/linkedin/solve/contact",
+      "text": "Contact"
+    },
+    {
+      "phone": "885-955-7790"
+    }
+  ],
+  "logo": "linkedin/logo.jpg",
+  "instructions": [
+    {
+      "header": "Delete Account",
+      "title": "How To Delete Your Linkedin Account",
+      "id": "delete-account",
+      "link": "linkedin/delete-account",
+      "before": "Deleting your Linkedin Account is Easy.  You can do so from your computer browser or from within the mobile app. ",
+      "action": {
+        "text": "Delete",
+        "link": "https://www.linkedin.com/psettings/account-management/close-submit"
+      },
+      "qnAnswers": [
+        {
+          "question": "What happens when I delete my Account?",
+          "answer": "When you delete a LinkedIn account, it doesn’t mean that all your data is immediately wiped from its backup drives.  Your information is retained as long as necessary to comply with legal obligations after deletion.  Plus, if you log in within 30 days of Deleting your Account you have the choice to reactivate your account back to your previous settings. If you would like your information deleted sooner you can contact customer service by [clicking here] (https://www.linkedin.com/help/linkedin/solve) and your request will be answered within 30 days. ",
+          "createdAt": "August 12th 2018"
+        },
+        {
+          "question": "Can I download my data from Linkedin before I delete my account?",
+          "answer": "Yes.  Linkedin provides you with a downloaded copy of your data as long as you request it. To download your Linkedin data please [click here] (https://www.linkedin.com/psettings/member-data).",
+          "createdAt": "August 12th 2018"
+        },
+        {
+          "question": "I have two Linkedin Account and I want to delete on. What do I do?",
+          "answer": "To learn how to delete or merge a duplicate account please [click here] (https://www.linkedin.com/help/linkedin/answer/1275).",
+          "createdAt": "August 12th 2018"
+        },
+        {
+          "question": "I forgot my password. Can I still delete my account?",
+          "answer": "No. If you don't recall your Linkedin password you can email Linkedin technical support [here] (https://www.linkedin.com/uas/request-password-reset) and they will assist you in locating your account informaiton.",
+          "createdAt": "August 12th 2018"
+        }
+      ],
+      "website": {
+        "steps": [
+          "Log onto the [Linkedin Website] (https://www.linkedin.com/feed/).  If you are already logged in, doing so will open your Linkedin homepage.",
+          "Click the Profile Icon on Top Right",
+          "Click Settings and Privacy",
+          "Click Subscriptions and Payments",
+          "Click Closing your Linkedin Account",
+          "Choose a Reason for Deletion then Type a Deletion Request then Click Next",
+          "Verify Password then Click Close Account",
+          "This is the Confirmation Message you receive once your Account has been Closed"
+        ],
+        "slides": [
+          {
+            "alt": "Linkedin-Delete Account from Website. Step 1: Log onto the [Linkedin Website] (https://www.linkedin.com/feed/).  If you are already logged in, doing so will open your Linkedin homepage.",
+            "title": "Login",
+            "url": "linkedin/slides/531_1Signin.jpg"
+          },
+          {
+            "alt": "Linkedin-Delete Account from Website. Step 2: Click the Profile Icon on Top Right",
+            "title": "Profile Icon",
+            "url": "linkedin/slides/532_2ProfileIcon.jpg"
+          },
+          {
+            "alt": "Linkedin-Delete Account from Website. Step 3: Click Settings and Privacy",
+            "title": "Settings and Privacy",
+            "url": "linkedin/slides/533_3SettingsandPrivacy.jpg"
+          },
+          {
+            "alt": "Linkedin-Delete Account from Website. Step 4: Click Subscriptions and Payments",
+            "title": "Subscriptions and Payments",
+            "url": "linkedin/slides/534_4SubscriptionsandPayments.jpg"
+          },
+          {
+            "alt": "Linkedin-Delete Account from Website. Step 5: Click Closing your Linkedin Account",
+            "title": "Closing Your Linkedin Account",
+            "url": "linkedin/slides/535_5Closingyourlinkedinaccount.jpg"
+          },
+          {
+            "alt": "Linkedin-Delete Account from Website. Step 6: Choose a Reason for Deletion then Type a Deletion Request then Click Next",
+            "title": "Deletion Request",
+            "url": "linkedin/slides/536_6Next.jpg"
+          },
+          {
+            "alt": "Linkedin-Delete Account from Website. Step 7: Verify Password then Click Close Account",
+            "title": "Verify Password",
+            "url": "linkedin/slides/537_7CloseAccount.jpg"
+          },
+          {
+            "alt": "Linkedin-Delete Account from Website. Step 8: This is the Confirmation Message you receive once your Account has been Closed",
+            "title": "Confirmation Message",
+            "url": "linkedin/slides/538_8Weveclosedyouraccount.jpg"
+          }
+        ]
+      },
+      "ios": {
+        "steps": [
+          "Tap Linkedin App",
+          "Tap Profile Icon Top Left",
+          "Tap Settings Gear Top Right",
+          "Scroll Down and Tap Close Account",
+          "Tap Continue",
+          "Tap I have Privacy Concerns then Tap Next",
+          "Verify Password then Tap Done"
+        ],
+        "slides": [
+          {
+            "alt": "Linkedin-Delete Account from iOS. Step 1: Tap Linkedin App",
+            "title": "Linkedin",
+            "url": "linkedin/slides/524_1LinkedinApp.jpg"
+          },
+          {
+            "alt": "Linkedin-Delete Account from iOS. Step 2: Tap Profile Icon Top Left",
+            "title": "Profile Icon",
+            "url": "linkedin/slides/525_2ProfileTopLeft.jpg"
+          },
+          {
+            "alt": "Linkedin-Delete Account from iOS. Step 3: Tap Settings Gear Top Right",
+            "title": "Settings Gear",
+            "url": "linkedin/slides/526_3SettingsGear.jpg"
+          },
+          {
+            "alt": "Linkedin-Delete Account from iOS. Step 4: Scroll Down and Tap Close Account",
+            "title": "Close Account",
+            "url": "linkedin/slides/527_4CloseAccount.jpg"
+          },
+          {
+            "alt": "Linkedin-Delete Account from iOS. Step 5: Tap Continue",
+            "title": "Continue",
+            "url": "linkedin/slides/528_5Continue.jpg"
+          },
+          {
+            "alt": "Linkedin-Delete Account from iOS. Step 6: Tap I have Privacy Concerns then Tap Next",
+            "title": "Privacy Concerns",
+            "url": "linkedin/slides/529_6TapNExt.jpg"
+          },
+          {
+            "alt": "Linkedin-Delete Account from iOS. Step 7: Verify Password then Tap Done",
+            "title": "Verify Password",
+            "url": "linkedin/slides/530_7Done.jpg"
+          }
+        ]
+      }
+    }
+  ]
+}

@@ -1,0 +1,29 @@
+/*.container > * {
+  border: 2px solid rgb(233,171,88);
+  border-radius: 5px;
+  background-color: rgba(233,171,88,.5);
+  color: #d9480f;
+}*/
+
+.container {
+	margin-top: 19px;
+	margin-bottom:193px;	
+}
+
+
+.container {
+	display: grid;
+	grid-column-gap: 68px;
+	grid-template-columns: 270px 1fr; 
+}
+
+.left {
+	padding-top: 90px;
+	display: grid;
+	grid-column-gap: 15px;
+	grid-template-columns: 55px 1fr; 
+}
+
+.right {
+	
+}

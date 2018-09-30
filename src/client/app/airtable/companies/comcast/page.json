@@ -1,0 +1,100 @@
+{
+  "name": "Comcast",
+  "top_app": false,
+  "social_image": [
+    {
+      "id": "attCFQUZtd8DpNCEk",
+      "url": "https://dl.airtable.com/OeCXpTMbSQK79WU4P8tg_socialmedia-comcast.jpg",
+      "filename": "socialmedia-comcast.jpg",
+      "size": 40265,
+      "type": "image/jpeg",
+      "thumbnails": {
+        "small": {
+          "url": "https://dl.airtable.com/2x3iICulT0eBhyQywU34_small_socialmedia-comcast.jpg",
+          "width": 20,
+          "height": 36
+        },
+        "large": {
+          "url": "https://dl.airtable.com/ioZWpNS5Quam5v5oAWpm_large_socialmedia-comcast.jpg",
+          "width": 460,
+          "height": 818
+        },
+        "full": {
+          "url": "https://dl.airtable.com/NxQQdAJJSwaxHanp27Ih_full_socialmedia-comcast.jpg",
+          "width": 460,
+          "height": 818
+        }
+      }
+    }
+  ],
+  "support": [
+    {
+      "link": "https://www.xfinity.com/support/",
+      "text": "Help Center"
+    },
+    {
+      "link": "https://www.xfinity.com/support/contact-us/",
+      "text": "Contact"
+    },
+    {
+      "phone": "1-800 comcast; 1-800 xfinity"
+    }
+  ],
+  "logo": "comcast/logo.jpg",
+  "instructions": [
+    {
+      "header": "Delete Account",
+      "title": "How To Delete Your Comcast/Xfinity Account",
+      "id": "delete-account",
+      "link": "comcast/delete-account",
+      "before": "Only a primary account holder can delete a secondary user account. The primary user must log on and delete the chosen account by navigating through the Comcast/Xfinity website.  The steps below will show you how to delete a secondary user account.",
+      "after": "After you delete the secondary user account you will need to call comcast to delete the primary account which will permanently delete your Comcast/xfinity account. ",
+      "action": {
+        "text": "Delete",
+        "link": "https://customer.xfinity.com/#/users"
+      },
+      "qnAnswers": [
+        {
+          "question": "What happens when I delete my primary user account?",
+          "answer": "This will permanently delete your account.  All settings, preferences, and emails will be erased.  You will lose all emails, voicemails, and other information associated with the username.  Please note that you must cancel any recurring payments prior to deleting your account. ",
+          "createdAt": "July 27th 2018"
+        },
+        {
+          "question": "What happens when I delete a secondary user account?",
+          "answer": "This permanently deletes a secondary user, and all settings and preferences for this user will be erased. When you delete a username, you'll likely lose emails, voicemails, and other information associated with the username. Be sure to print or save copies of anything you want to keep.  Please note that If this user has made scheduled payments, those will need to be cancelled prior to removing the user.",
+          "createdAt": "July 27th 2018"
+        }
+      ],
+      "website": {
+        "steps": [
+          "[Log on to the Comcast/xfinity website](https://my.xfinity.com/?cid=cust).  If you are already logged in, doing so will open your comcast/xfinity homepage. ",
+          "Click My Account",
+          "Click Users",
+          "This is the page that allows you access to the user settings for the primary account. This is where you will be able to delete secondary user accounts or change account settings. "
+        ],
+        "slides": [
+          {
+            "alt": "Comcast-Delete Account from Website. Step 1: [Log on to the Comcast/xfinity website](https://my.xfinity.com/?cid=cust).  If you are already logged in, doing so will open your comcast/xfinity homepage. ",
+            "title": "Log in",
+            "url": "comcast/slides/436_1Signin.jpg"
+          },
+          {
+            "alt": "Comcast-Delete Account from Website. Step 2: Click My Account",
+            "title": "My Account",
+            "url": "comcast/slides/437_2ClickMyAccount.jpg"
+          },
+          {
+            "alt": "Comcast-Delete Account from Website. Step 3: Click Users",
+            "title": "Users",
+            "url": "comcast/slides/438_3Users.jpg"
+          },
+          {
+            "alt": "Comcast-Delete Account from Website. Step 4: This is the page that allows you access to the user settings for the primary account. This is where you will be able to delete secondary user accounts or change account settings. ",
+            "title": "Delete Account",
+            "url": "comcast/slides/439_4erasepersonalinformationandmakeliketheohters.png"
+          }
+        ]
+      }
+    }
+  ]
+}

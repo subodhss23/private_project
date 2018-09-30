@@ -1,0 +1,186 @@
+{
+  "name": "Duolingo",
+  "top_app": false,
+  "delete": "https://drive-thru.duolingo.com/ ",
+  "social_image": [
+    {
+      "id": "att8rvs1V7K723wL0",
+      "url": "https://dl.airtable.com/P7UgSgbCRQi7fNoy4ttL_Duolingo-SocialMedia.jpg",
+      "filename": "Duolingo-SocialMedia.jpg",
+      "size": 40520,
+      "type": "image/jpeg",
+      "thumbnails": {
+        "small": {
+          "url": "https://dl.airtable.com/wp4rjXUiSD2NZaNClKvQ_small_Duolingo-SocialMedia.jpg",
+          "width": 20,
+          "height": 36
+        },
+        "large": {
+          "url": "https://dl.airtable.com/0aopDYaXQjuj7HbLaHbb_large_Duolingo-SocialMedia.jpg",
+          "width": 512,
+          "height": 911
+        },
+        "full": {
+          "url": "https://dl.airtable.com/Iobiig6Q6mI2dJQpajxl_full_Duolingo-SocialMedia.jpg",
+          "width": 600,
+          "height": 1067
+        }
+      }
+    }
+  ],
+  "support": [
+    {
+      "link": "https://support.duolingo.com/hc/en-us ",
+      "text": "Help Center"
+    },
+    {
+      "email": "privacy@duolingo.com "
+    },
+    {
+      "phone": "412-567-6602"
+    }
+  ],
+  "logo": "duolingo/logo.jpg",
+  "instructions": [
+    {
+      "header": "Deactivate Account",
+      "title": "How To Deactivate Your Duolingo Account",
+      "id": "deactivate-account",
+      "link": "duolingo/deactivate-account",
+      "before": "You have two options for disabling your account.  You can either deactivate your account, which gives you the option to return at a later date, or you can permanently delete your account and erase all of your personal data.  However, you cannot complete any of these through a mobile device, you must log on from your desktop browser. \n\nTo deactivate your account follow the steps below.",
+      "after": "Remember, when you decide that you want your account back all you have to do is re-login with the same email address you originally used to sign up for your account.",
+      "action": {
+        "text": "Deactivate",
+        "link": "https://www.duolingo.com/settings/account "
+      },
+      "qnAnswers": [
+        {
+          "question": "What is the difference between Deactivating my Account and Deleting my Account?",
+          "answer": "If you deactivate your account you have the option of restoring your account just by logging in, plus your username is saved and cannot be used by anyone else. If you delete your account you lose all of your information and it can never be restored. You will have a 7-day grace period after you request deletion in case you change your mind. However, once you complete deletion to your account this action cannot be undone. ",
+          "createdAt": "July 11th 2018"
+        },
+        {
+          "question": "How do I restore my information after account deactivation?",
+          "answer": "You will be able to re-activate your information to your account just by logging back in. ",
+          "createdAt": "July 11th 2018"
+        },
+        {
+          "question": "What happens to my information after I Deactivate my Account?",
+          "answer": "If you deactivate your account, your username and email associated with your account will be reserved so that nobody else can sign up with those. Any messages in the forum posted by you under this account will appear as [deactivated user] unless you re-activate the account.",
+          "createdAt": "July 11th 2018"
+        },
+        {
+          "question": "Will Deactivating my Account cancel my Duolingo Plus subscription?",
+          "answer": "The quick answer is No.  it is important to note that if you are a Duolingo Plus subscriber via the mobile apps, disabling your account will not suspend charges, those are done by Apple or Google. Therefore, you would need to cancel through Apple or Google. ",
+          "createdAt": "July 11th 2018"
+        }
+      ],
+      "website": {
+        "steps": [
+          "Go to the Duolingo Website. If you're already logged in, doing so will open your Duolingo home page",
+          "Click Username at the Top of the screen",
+          "Click Settings",
+          "Click Disable My Account",
+          "Click Disable My Account to Complete"
+        ],
+        "slides": [
+          {
+            "alt": "Duolingo-Deactivate Account from Website. Step 1: Go to the Duolingo Website. If you're already logged in, doing so will open your Duolingo home page",
+            "title": "Login",
+            "url": "duolingo/slides/1DuolingoSiteDeactivate.png"
+          },
+          {
+            "alt": "Duolingo-Deactivate Account from Website. Step 2: Click Username at the Top of the screen",
+            "title": "Username",
+            "url": "duolingo/slides/2DuolingoSiteDeactivate.png"
+          },
+          {
+            "alt": "Duolingo-Deactivate Account from Website. Step 3: Click Settings",
+            "title": "Settings",
+            "url": "duolingo/slides/3DuolingoSiteDeactivate.png"
+          },
+          {
+            "alt": "Duolingo-Deactivate Account from Website. Step 4: Click Disable My Account",
+            "title": "Disable My Account",
+            "url": "duolingo/slides/4DuolingoSiteDeactivate.png"
+          },
+          {
+            "alt": "Duolingo-Deactivate Account from Website. Step 5: Click Disable My Account to Complete",
+            "title": "Disable My Account",
+            "url": "duolingo/slides/5DuolingoSiteDeactivate.png"
+          }
+        ]
+      }
+    },
+    {
+      "header": "Delete Account",
+      "title": "How To Delete Your Duolingo Account",
+      "id": "delete-account",
+      "link": "duolingo/delete-account",
+      "before": "You have two options for disabling your account.  You can either deactivate your account, which gives you the option to return at a later date, or you can permanently delete your account and erase all of your personal data.  However, you cannot complete any of these through a mobile device, you must log on from your desktop browser. \n\nTo Permanently delete your account follow the steps below.",
+      "after": "Deletion is not complete until you confirm via email.  You need to log onto the email associated with the account and click the link to Confirm Deletion.  Remember, there is a 7-day grace period in case you change your mind. ",
+      "action": {
+        "text": "Delete",
+        "link": "https://drive-thru.duolingo.com/ "
+      },
+      "qnAnswers": [
+        {
+          "question": "What is the difference between Deactivating my Account and Deleting my Account?",
+          "answer": "If you deactivate your account you have the option of restoring your account just by logging in, plus your username is saved and cannot be used by anyone else. If you delete your account you lose all of your information and it can never be restored. You will have a 7-day grace period after you request deletion in case you change your mind. However, once you complete deletion to your account this action cannot be undone. ",
+          "createdAt": "July 11th 2018"
+        },
+        {
+          "question": "What happens to my information after I Deactivate my Account?",
+          "answer": "If you deactivate your account, your username and email associated with your account will be reserved so that nobody else can sign up with those. Any messages in the forum posted by you under this account will appear as [deactivated user] unless you re-activate the account.",
+          "createdAt": "July 11th 2018"
+        },
+        {
+          "question": "How do I restore my information after account deactivation?",
+          "answer": "You will be able to re-activate information to your account just by logging back in. ",
+          "createdAt": "July 11th 2018"
+        },
+        {
+          "question": "Will Deactivating my Account cancel my Duolingo Plus subscription?",
+          "answer": "The quick answer is No.  it is important to note that if you are a Duolingo Plus subscriber via the mobile apps, disabling your account will not suspend charges, those are done by Apple or Google. Therefore, you would need to cancel through Apple or Google. ",
+          "createdAt": "July 11th 2018"
+        }
+      ],
+      "website": {
+        "steps": [
+          "Go to the Duolingo Website. If you're already logged in, doing so will open your Duolingo home page.",
+          "Click Username at the Top of the Screen",
+          "Click Settings",
+          "Click Delete My Account",
+          "Click Erase Personal Data"
+        ],
+        "slides": [
+          {
+            "alt": "Duolingo-Delete Account from Website. Step 1: Go to the Duolingo Website. If you're already logged in, doing so will open your Duolingo home page.",
+            "title": "Login",
+            "url": "duolingo/slides/1DuolingoSiteDelete.png"
+          },
+          {
+            "alt": "Duolingo-Delete Account from Website. Step 2: Click Username at the Top of the Screen",
+            "title": "Username",
+            "url": "duolingo/slides/2DuolingoSiteDelete.png"
+          },
+          {
+            "alt": "Duolingo-Delete Account from Website. Step 3: Click Settings",
+            "title": "Settings",
+            "url": "duolingo/slides/3DuolingoSiteDelete.png"
+          },
+          {
+            "alt": "Duolingo-Delete Account from Website. Step 4: Click Delete My Account",
+            "title": "Delete My Account",
+            "url": "duolingo/slides/4DuolingoSiteDelete.png"
+          },
+          {
+            "alt": "Duolingo-Delete Account from Website. Step 5: Click Erase Personal Data",
+            "title": "Erase Personal Data",
+            "url": "duolingo/slides/5DuolingoSiteDelete.png"
+          }
+        ]
+      }
+    }
+  ]
+}

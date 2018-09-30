@@ -1,0 +1,150 @@
+{
+  "name": "Bumble",
+  "top_app": false,
+  "support": [
+    {
+      "link": "https://bumble.com/en-us/faq",
+      "text": "Help Center"
+    },
+    {
+      "link": "https://bumble.com/en-us/contact-us",
+      "text": "Contact"
+    },
+    {
+      "email": "Feedback@team.bumble.com  "
+    }
+  ],
+  "logo": "Bumble/logo.jpg",
+  "instructions": [
+    {
+      "header": "Delete Account",
+      "title": "How To Delete Your Bumble Account",
+      "id": "delete-account",
+      "link": "bumble/delete-account",
+      "before": "Just deleting the bumble app from your device does not delete your account.  If you want to delete your bumble Account for real you must navigate to the settings page on your mobile device.",
+      "after": "However, since Bumble account is linked to your Facebook account, you must take an extra step after deleting it.  You need to break the link between Facebook and Bumble by removing third party access to your bumble account from facebook. ",
+      "thingsToRemember": [
+        "To delete an account is to remove the profile completely so people cannot see it or swipe on it. It does mean you will have to start over if you want to get back in the game but in the meantime, it does mean peace and quiet.",
+        "Removed and Deleted information may persist in backup copies for up to 30 Days to enable restoration of account, but it will not be available to others in the meantime.",
+        "If you no longer wish to receive push notifications/alerts from the App, you may opt out by changing your notification settings on your mobile device, you do not need to delete your whole account.",
+        "If you have subscribed to Bumble Boost, you will need to stop the payment from the Google Play Store or iTunes otherwise you will still be charged. Both stores have a subscriptions section that should list Bumble. Select it and cancel the subscription."
+      ],
+      "ios": {
+        "steps": [
+          "Open up your Bumble App",
+          "Click Profile Icon on Top Left",
+          "Select Settings and Scroll to the Bottom",
+          "Select Delete Account",
+          "Select Why you are Deleting your Account",
+          "Select Delete Account",
+          "Type ‘Delete’ into the box when prompted then Select Confirm"
+        ],
+        "slides": [
+          {
+            "alt": "Bumble-Delete Account from iOS. Step 1: Open up your Bumble App",
+            "title": "Open App",
+            "url": "Bumble/slides/1BumbleIOSDelete.png"
+          },
+          {
+            "alt": "Bumble-Delete Account from iOS. Step 2: Click Profile Icon on Top Left",
+            "title": "Profile Icon",
+            "url": "Bumble/slides/2BumbleIOSDelete.png"
+          },
+          {
+            "alt": "Bumble-Delete Account from iOS. Step 3: Select Settings and Scroll to the Bottom",
+            "title": "Settings",
+            "url": "Bumble/slides/3BumbleIOSDelete.png"
+          },
+          {
+            "alt": "Bumble-Delete Account from iOS. Step 4: Select Delete Account",
+            "title": "Delete Account",
+            "url": "Bumble/slides/4BumbleIOSDelete.png"
+          },
+          {
+            "alt": "Bumble-Delete Account from iOS. Step 5: Select Why you are Deleting your Account",
+            "title": "Reason for Deletion",
+            "url": "Bumble/slides/5BumbleIOSDelete.png"
+          },
+          {
+            "alt": "Bumble-Delete Account from iOS. Step 6: Select Delete Account",
+            "title": "Delete Account",
+            "url": "Bumble/slides/6BumbleIOSDelete.png"
+          },
+          {
+            "alt": "Bumble-Delete Account from iOS. Step 7: Type ‘Delete’ into the box when prompted then Select Confirm",
+            "title": "Type 'Delete'",
+            "url": "Bumble/slides/7BumbleIOSDelete.png"
+          }
+        ]
+      }
+    },
+    {
+      "header": "Remove Third Party Access",
+      "title": "How To Remove Third Party Access From Bumble",
+      "id": "remove-third-party-access",
+      "link": "bumble/remove-third-party-access",
+      "before": "Since Bumble account is linked to your Facebook account, you must take an extra step after deleting it.  You need to break the link between Facebook and Bumble by removing third party access to your bumble account from facebook. ",
+      "after": "Remember, you must delete your bumble account from the settings page in the app in addition to removing third party access from facebook. ",
+      "ios": {
+        "steps": [
+          "Open the Facebook App",
+          "Tap the three bars on the bottom right",
+          "Scroll down to Settings and Privacy",
+          "Tap Settings",
+          "Tap Apps and Websites",
+          "Tap Logged in with Facebook",
+          "Select Bumble and then Tap Remove to delink app",
+          "Tap Remove again",
+          "A screen will appear that says Bumble Removed to Confirm Deletion"
+        ],
+        "slides": [
+          {
+            "alt": "Bumble-Remove Third Party Access from iOS. Step 1: Open the Facebook App",
+            "title": "Open App",
+            "url": "Bumble/slides/1BumbleTPA.png"
+          },
+          {
+            "alt": "Bumble-Remove Third Party Access from iOS. Step 2: Tap the three bars on the bottom right",
+            "title": "Three bars",
+            "url": "Bumble/slides/2BumbleTPA.png"
+          },
+          {
+            "alt": "Bumble-Remove Third Party Access from iOS. Step 3: Scroll down to Settings and Privacy",
+            "title": "Settings and Privacy",
+            "url": "Bumble/slides/3BumbleTPA.png"
+          },
+          {
+            "alt": "Bumble-Remove Third Party Access from iOS. Step 4: Tap Settings",
+            "title": "Settings",
+            "url": "Bumble/slides/4BumbleTPA.png"
+          },
+          {
+            "alt": "Bumble-Remove Third Party Access from iOS. Step 5: Tap Apps and Websites",
+            "title": "Apps and Websites",
+            "url": "Bumble/slides/5BumbleTPA.png"
+          },
+          {
+            "alt": "Bumble-Remove Third Party Access from iOS. Step 6: Tap Logged in with Facebook",
+            "title": "Logged in with Facebook",
+            "url": "Bumble/slides/6BumbleTPA.png"
+          },
+          {
+            "alt": "Bumble-Remove Third Party Access from iOS. Step 7: Select Bumble and then Tap Remove to delink app",
+            "title": "Remove",
+            "url": "Bumble/slides/7BumbleTPA.png"
+          },
+          {
+            "alt": "Bumble-Remove Third Party Access from iOS. Step 8: Tap Remove again",
+            "title": "Remove",
+            "url": "Bumble/slides/8BumbleTPA.png"
+          },
+          {
+            "alt": "Bumble-Remove Third Party Access from iOS. Step 9: A screen will appear that says Bumble Removed to Confirm Deletion",
+            "title": "Bumble Removed",
+            "url": "Bumble/slides/9BumbleTPA.png"
+          }
+        ]
+      }
+    }
+  ]
+}

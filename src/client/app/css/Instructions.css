@@ -1,0 +1,55 @@
+.shortcut {
+  position: fixed;
+  top: 50%;
+  right: 0px; 
+  background-color: #F24848; 
+  color: #fff;
+}
+
+.shortcut > ul > li {
+	padding: 8px 17px;
+}
+
+.shortcut > ul > li > a {
+	color: #fff;
+}
+
+.how-to-module {
+	display: grid;
+	grid-row-gap: 75px;
+	padding-bottom: 50px;
+}
+
+.how-to-module > a {
+	color: blue;
+}
+
+.how-to-module > a:hover {
+	cursor: pointer;
+}
+
+.actions {
+	display: inline-flex;
+	align-items: center;
+	margin-top: -25px;
+	margin-bottom: 30px;
+}
+
+.actions li {
+	display: inline-flex;
+	align-items: center;
+	height: 32px;
+	margin: 0 25px 0px 0;
+}
+
+.actions li > a:hover {
+	cursor: pointer;
+}
+
+.actions li > a {
+	color: blue;
+}
+
+.q-a > h2  {
+	margin-bottom: 30px!important;
+}

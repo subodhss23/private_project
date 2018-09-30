@@ -1,0 +1,99 @@
+{
+  "name": "Ikea",
+  "top_app": false,
+  "delete": "https://secure.ikea.com/webapp/wcs/stores/servlet/UpdateUser?layout=user/deleteProfile&actionType=view&formName=deleteUser&langId=-1&storeId=12",
+  "social_image": [
+    {
+      "id": "attc4KyJ0GuWgeok7",
+      "url": "https://dl.airtable.com/MUpNi2cCTpqGJXWJpaDb_socialmedia-ikea.jpg",
+      "filename": "socialmedia-ikea.jpg",
+      "size": 110418,
+      "type": "image/jpeg",
+      "thumbnails": {
+        "small": {
+          "url": "https://dl.airtable.com/4Zp7YeES6OmPM4OoqZwd_small_socialmedia-ikea.jpg",
+          "width": 20,
+          "height": 36
+        },
+        "large": {
+          "url": "https://dl.airtable.com/7pAd2CiUQD23m0ymxxuw_large_socialmedia-ikea.jpg",
+          "width": 512,
+          "height": 911
+        },
+        "full": {
+          "url": "https://dl.airtable.com/a5a67xBxQHyz8EvBUXmS_full_socialmedia-ikea.jpg",
+          "width": 600,
+          "height": 1067
+        }
+      }
+    }
+  ],
+  "support": [
+    {
+      "link": "https://www.ikea.com/ms/en_US/customer_service/faq/index.html",
+      "text": "Help Center"
+    },
+    {
+      "link": "sharespace.us@ikea.com",
+      "text": "Contact"
+    },
+    {
+      "email": "sharespace.us@ikea.com"
+    },
+    {
+      "phone": "888.888.4532"
+    }
+  ],
+  "logo": "ikea/logo.jpg",
+  "instructions": [
+    {
+      "header": "Delete Account",
+      "title": "How To Delete Your Ikea Account",
+      "id": "delete-account",
+      "link": "ikea/delete-account",
+      "before": "Deleting your Ikea Account is Easy.  There is an Easy Delete Link located on your account page when you log in on a computer browser. You cannot delete your Ikea account from within your mobile app. If you happen to live in a country that does not offer a delete link please contact customer service by email or chat and they will be happy to delete your account for you. ",
+      "qnAnswers": [
+        {
+          "question": "What happens when I delete my Ikea Account?",
+          "answer": "Your information will be removed from the system and you will no longer be able to access your Ikea account.  If you are concerned about your information and how it will be deleted please contact Ikea customer service directly through email or chat and they will be happy to assist you. Please note, Publicly visible text/images often aren’t properly removed even when you succeed in removing an account. Try editing or removing them manually before removing the account itself.",
+          "createdAt": "August 12th 2018"
+        },
+        {
+          "question": "Does cancelling my Account cancel my Ikea Family Membership?",
+          "answer": "To cancel your membership, send Ikea an email at **ikeafamily@89degrees.com**.  Be sure to include your name, email address and Ikea Family card number and your request will be processed within three business days.",
+          "createdAt": "August 12th 2018"
+        }
+      ],
+      "website": {
+        "steps": [
+          "Log in to your [Ikea Account] (https://secure.ikea.com/webapp/wcs/stores/servlet/MyProfile?langId=-1&storeId=12&ddkey=https%3AUpdateUser).  If you are already logged in doing so will open your Ikea homepage.",
+          "Scroll down on your Account homepage and Click the Delete Link",
+          "Confirm Username and Profile and Click Delete Profile",
+          "This is the confirmation message you will receive when your profile has been deleted"
+        ],
+        "slides": [
+          {
+            "alt": "Ikea-Delete Account from Website. Step 1: Log in to your [Ikea Account] (https://secure.ikea.com/webapp/wcs/stores/servlet/MyProfile?langId=-1&storeId=12&ddkey=https%3AUpdateUser).  If you are already logged in doing so will open your Ikea homepage.",
+            "title": "Log in",
+            "url": "ikea/slides/539_1Signin.jpg"
+          },
+          {
+            "alt": "Ikea-Delete Account from Website. Step 2: Scroll down on your Account homepage and Click the Delete Link",
+            "title": "Delete Link",
+            "url": "ikea/slides/540_2DeleteUser.jpg"
+          },
+          {
+            "alt": "Ikea-Delete Account from Website. Step 3: Confirm Username and Profile and Click Delete Profile",
+            "title": "Delete Profile",
+            "url": "ikea/slides/541_3DeleteProfile.jpg"
+          },
+          {
+            "alt": "Ikea-Delete Account from Website. Step 4: This is the confirmation message you will receive when your profile has been deleted",
+            "title": "Deletion Message",
+            "url": "ikea/slides/542_4YourProfilehasbeendeleted.jpg"
+          }
+        ]
+      }
+    }
+  ]
+}

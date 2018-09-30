@@ -1,0 +1,81 @@
+{
+  "name": "Livestrong",
+  "top_app": false,
+  "delete": "https://www.livestrong.com/contact-us/",
+  "support": [
+    {
+      "link": "https://www.livestrong.com/contact-us/",
+      "text": "Help Center"
+    },
+    {
+      "link": "https://www.livestrong.com/contact-us/",
+      "text": "Contact"
+    },
+    {
+      "email": "support@livestrong.com"
+    }
+  ],
+  "logo": "livestrong/download-1.jpg",
+  "instructions": [
+    {
+      "header": "Delete Account",
+      "title": "How To Delete your Livestrong Account",
+      "id": "delete-account",
+      "link": "livestrong/delete-account",
+      "before": "You can only Delete your Livestrong Account on a Computer, you cannot do so on a mobile device.  There is not an option to delete your account from your profile page. If you'd like your LIVESTRONG.COM account deleted, follow the steps below and provide Customer Support with your account username and the email address you used to register.",
+      "after": "Customer Service will contacts you via email to let you know once your account has been deleted. ",
+      "action": {
+        "text": "Delete",
+        "link": "https://www.livestrong.com/contact-us/"
+      },
+      "qnAnswers": [
+        {
+          "question": "Is Deleting my Account the same as Cancelling my Subscription?",
+          "answer": "No.  You must cancel your subscription before you delete your account.  [For more information click here] (https://livestrong.zendesk.com/hc/en-us/articles/204912834-How-do-I-cancel-my-Gold-membership-subscription-)",
+          "createdAt": "July 21st 2018"
+        },
+        {
+          "question": "How do I Delete My Paid Subscription Account?",
+          "answer": "Please email Customer Service at **support@livestrong.com** and request that your subscription be Deleted.  Customer Services is very prompt at getting back to you.  You can also Delete your free account by sending an email too if you don’t want to navigate to the Contact us section of the website. ",
+          "createdAt": "July 22nd 2018"
+        }
+      ],
+      "website": {
+        "steps": [
+          "[Go to the Livestrong Website] (https://www.livestrong.com). If you're already logged in, doing so will open your Livestrong home page",
+          "Scroll Down and Click Contact & FAQ",
+          "Under ‘What is the nature of your inquiry?’ Click Delete My Account",
+          "Enter in your Personal Contact Info and Type a Deletion Request and then Click Submit",
+          "You will see this confirmation Message once your Deletion Request has been submitted"
+        ],
+        "slides": [
+          {
+            "alt": "Livestrong-Delete Account from Website. Step 1: [Go to the Livestrong Website] (https://www.livestrong.com). If you're already logged in, doing so will open your Livestrong home page",
+            "title": "Login",
+            "url": "livestrong/slides/1LivestrongSiteDelete.png"
+          },
+          {
+            "alt": "Livestrong-Delete Account from Website. Step 2: Scroll Down and Click Contact & FAQ",
+            "title": "Contact & FAQ",
+            "url": "livestrong/slides/2LivestrongSiteDelete.png"
+          },
+          {
+            "alt": "Livestrong-Delete Account from Website. Step 3: Under ‘What is the nature of your inquiry?’ Click Delete My Account",
+            "title": "Delete My Account",
+            "url": "livestrong/slides/3LivestrongSiteDelete.png"
+          },
+          {
+            "alt": "Livestrong-Delete Account from Website. Step 4: Enter in your Personal Contact Info and Type a Deletion Request and then Click Submit",
+            "title": "Deletion Request",
+            "url": "livestrong/slides/4LivestrongSiteDelete.png"
+          },
+          {
+            "alt": "Livestrong-Delete Account from Website. Step 5: You will see this confirmation Message once your Deletion Request has been submitted",
+            "title": "Confirmation Message",
+            "url": "livestrong/slides/5LivestrongSiteDelete.png"
+          }
+        ]
+      }
+    }
+  ]
+}

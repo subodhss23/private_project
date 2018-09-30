@@ -1,0 +1,224 @@
+{
+  "name": "Wish",
+  "top_app": false,
+  "delete": "https://www.wish.com/settings",
+  "support": [
+    {
+      "link": "https://www.wish.com/help",
+      "text": "Help Center"
+    },
+    {
+      "email": "support@wish.com"
+    }
+  ],
+  "logo": "Wish/Logo.jpg",
+  "instructions": [
+    {
+      "header": "Delete Account From Facebook Sign Up",
+      "title": "How To Delete Your Wish Account When Logging In With Facebook",
+      "id": "delete-account-from-facebook-sign-up",
+      "link": "wish/delete-account-from-facebook-sign-up",
+      "before": "There are two different ways to sign up for Wish.com and three different ways to delete your account. If you signed up for Wish.com using your email address then you have to delete your account by navigating through the settings of Wish.  If you have signed up for Wish using facebook then you have to delete your Wish.com account by navigating through facebook. Or the third option, which applies to both forms of sign up, is to email wish and request that your account to be deleted. ",
+      "action": {
+        "text": "Delete",
+        "link": "https://www.facebook.com/settings/?tab=applications"
+      },
+      "thingsToRemember": [
+        "The deletion process will will remove your account from Wish within the next 24 hours. ",
+        "Please note that if you sign into Wish after deleting your account you will automatically reactivate your Wish account. ",
+        "Deleting your Wish Account does not mean that all information previously collected by Wish and connected third parties will be permanently deleted"
+      ],
+      "ios": {
+        "steps": [
+          "Open Facebook App",
+          "Click the Three Bars on the Bottom Right",
+          "Click Settings and Privacy",
+          "Click Settings",
+          "Click Apps and Websites",
+          "Click Logged in with Facebook",
+          "Select Wish and Click Remove",
+          "Click Remove",
+          "A screen will appear that says Wish Removed to Confirm Deletion"
+        ],
+        "slides": [
+          {
+            "alt": "Wish-Delete Account From Facebook Sign Up from iOS. Step 1: Open Facebook App",
+            "title": "Open App",
+            "url": "Wish/slides/1WishIOSTPA.png"
+          },
+          {
+            "alt": "Wish-Delete Account From Facebook Sign Up from iOS. Step 2: Click the Three Bars on the Bottom Right",
+            "title": "Three Bars",
+            "url": "Wish/slides/2WishIOSTPA.png"
+          },
+          {
+            "alt": "Wish-Delete Account From Facebook Sign Up from iOS. Step 3: Click Settings and Privacy",
+            "title": "Settings and Privacy",
+            "url": "Wish/slides/3WishIOSTPA.png"
+          },
+          {
+            "alt": "Wish-Delete Account From Facebook Sign Up from iOS. Step 4: Click Settings",
+            "title": "Settings",
+            "url": "Wish/slides/4WishIOSTPA.png"
+          },
+          {
+            "alt": "Wish-Delete Account From Facebook Sign Up from iOS. Step 5: Click Apps and Websites",
+            "title": "Apps and Websites",
+            "url": "Wish/slides/5WishIOSTPA.png"
+          },
+          {
+            "alt": "Wish-Delete Account From Facebook Sign Up from iOS. Step 6: Click Logged in with Facebook",
+            "title": "Logged in with Facebook",
+            "url": "Wish/slides/6WishIOSTPA.png"
+          },
+          {
+            "alt": "Wish-Delete Account From Facebook Sign Up from iOS. Step 7: Select Wish and Click Remove",
+            "title": "Remove Wish",
+            "url": "Wish/slides/7WishIOSTPA.png"
+          },
+          {
+            "alt": "Wish-Delete Account From Facebook Sign Up from iOS. Step 8: Click Remove",
+            "title": "Remove",
+            "url": "Wish/slides/8WishIOSTPA.png"
+          },
+          {
+            "alt": "Wish-Delete Account From Facebook Sign Up from iOS. Step 9: A screen will appear that says Wish Removed to Confirm Deletion",
+            "title": "Wish Removed",
+            "url": "Wish/slides/9WishIOSTPA.png"
+          }
+        ]
+      },
+      "website": {
+        "steps": [
+          "Go to the Facebook Website. If you're already logged in, doing so will open your Facebop home page.",
+          "Click the Arrows on the Top Right",
+          "Click Settings",
+          "Click Apps and Websites",
+          "Click the Wish App and Click Remove. "
+        ],
+        "slides": [
+          {
+            "alt": "Wish-Delete Account From Facebook Sign Up from Website. Step 1: Go to the Facebook Website. If you're already logged in, doing so will open your Facebop home page.",
+            "title": "Login",
+            "url": "Wish/slides/1FacebookWishTPA.png"
+          },
+          {
+            "alt": "Wish-Delete Account From Facebook Sign Up from Website. Step 2: Click the Arrows on the Top Right",
+            "title": "Arrows",
+            "url": "Wish/slides/2FacebookWishTPA.png"
+          },
+          {
+            "alt": "Wish-Delete Account From Facebook Sign Up from Website. Step 3: Click Settings",
+            "title": "Settings",
+            "url": "Wish/slides/3FacebookWishTPA.png"
+          },
+          {
+            "alt": "Wish-Delete Account From Facebook Sign Up from Website. Step 4: Click Apps and Websites",
+            "title": "Apps and Websites",
+            "url": "Wish/slides/4FacebookWishTPA.png"
+          },
+          {
+            "alt": "Wish-Delete Account From Facebook Sign Up from Website. Step 5: Click the Wish App and Click Remove. ",
+            "title": "Remove Wish App",
+            "url": "Wish/slides/5FacebookWishTPA.png"
+          }
+        ]
+      }
+    },
+    {
+      "header": "Delete Account From Email Sign Up",
+      "title": "How To Delete Your Wish.com Account When Using Email To Login",
+      "id": "delete-account-from-email-sign-up",
+      "link": "wish/delete-account-from-email-sign-up",
+      "before": "There are two different ways to sign up for Wish.com and three different ways to delete your account. If you signed up for Wish.com using your email address then you have to delete your account by navigating through the settings of Wish.  If you have signed up for Wish using facebook then you have to delete your Wish.com account by navigating through facebook. Or the third option, which applies to both forms of sign up, is to email wish and request that your account to be deleted. ",
+      "intro": "\n",
+      "action": {
+        "text": "Delete",
+        "link": "https://www.wish.com/settings"
+      },
+      "thingsToRemember": [
+        "The deletion process will will remove your account from Wish within the next 24 hours. ",
+        "Please note that if you sign into Wish after deleting your account you will automatically reactivate your Wish account. ",
+        "Deleting your Wish Account does not mean that all information previously collected by Wish and connected third parties will be permanently deleted"
+      ],
+      "ios": {
+        "steps": [
+          "Open Wish App",
+          "Tap the Three Bars on the Bottom Right",
+          "Click Settings",
+          "Click Account Settings",
+          "Click Deactivate Account",
+          "Click Yes to Confirm Deletion"
+        ],
+        "slides": [
+          {
+            "alt": "Wish-Delete Account From Email Sign Up from iOS. Step 1: Open Wish App",
+            "title": "Open App",
+            "url": "Wish/slides/1WishIOSDelete.png"
+          },
+          {
+            "alt": "Wish-Delete Account From Email Sign Up from iOS. Step 2: Tap the Three Bars on the Bottom Right",
+            "title": "Three Bars",
+            "url": "Wish/slides/2WishIOSDelete.png"
+          },
+          {
+            "alt": "Wish-Delete Account From Email Sign Up from iOS. Step 3: Click Settings",
+            "title": "Settings",
+            "url": "Wish/slides/3WishIOSDelete.png"
+          },
+          {
+            "alt": "Wish-Delete Account From Email Sign Up from iOS. Step 4: Click Account Settings",
+            "title": "Account Settings",
+            "url": "Wish/slides/4WishIOSDelete.png"
+          },
+          {
+            "alt": "Wish-Delete Account From Email Sign Up from iOS. Step 5: Click Deactivate Account",
+            "title": "Deactivate Account",
+            "url": "Wish/slides/5WishIOSDelete.png"
+          },
+          {
+            "alt": "Wish-Delete Account From Email Sign Up from iOS. Step 6: Click Yes to Confirm Deletion",
+            "title": "Yes",
+            "url": "Wish/slides/6WishIOSDelete.png"
+          }
+        ]
+      },
+      "website": {
+        "steps": [
+          "Go to the Wish Website. If you're already logged in, doing so will open your Wish home page.",
+          "Click the Profile Icon and then Click Settings",
+          "Click Account Settings",
+          "Click Delete Account",
+          "Click Yes to Confirm Deletion"
+        ],
+        "slides": [
+          {
+            "alt": "Wish-Delete Account From Email Sign Up from Website. Step 1: Go to the Wish Website. If you're already logged in, doing so will open your Wish home page.",
+            "title": "Login",
+            "url": "Wish/slides/1WishSiteDelete.png"
+          },
+          {
+            "alt": "Wish-Delete Account From Email Sign Up from Website. Step 2: Click the Profile Icon and then Click Settings",
+            "title": "Settings",
+            "url": "Wish/slides/2WishSiteDelete.png"
+          },
+          {
+            "alt": "Wish-Delete Account From Email Sign Up from Website. Step 3: Click Account Settings",
+            "title": "Account Settings",
+            "url": "Wish/slides/3WishSiteDelete.png"
+          },
+          {
+            "alt": "Wish-Delete Account From Email Sign Up from Website. Step 4: Click Delete Account",
+            "title": "Delete Account",
+            "url": "Wish/slides/4WishSiteDelete.png"
+          },
+          {
+            "alt": "Wish-Delete Account From Email Sign Up from Website. Step 5: Click Yes to Confirm Deletion",
+            "title": "Yes",
+            "url": "Wish/slides/5WishSiteDelete.png"
+          }
+        ]
+      }
+    }
+  ]
+}

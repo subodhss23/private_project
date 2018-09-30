@@ -1,0 +1,190 @@
+{
+  "name": "OkCupid",
+  "top_app": true,
+  "delete": " https://www.okcupid.com/settings",
+  "social_image": [
+    {
+      "id": "attv5nO14YUncCFDX",
+      "url": "https://dl.airtable.com/757H8GldQe2uktMfrLsR_okcupid-social.jpg",
+      "filename": "okcupid-social.jpg",
+      "size": 1728444,
+      "type": "image/jpeg",
+      "thumbnails": {
+        "small": {
+          "url": "https://dl.airtable.com/WQF3CdewQe6EJJULG81G_small_okcupid-social.jpg",
+          "width": 54,
+          "height": 36
+        },
+        "large": {
+          "url": "https://dl.airtable.com/BDVBnmiQSASeX3LTV9rs_large_okcupid-social.jpg",
+          "width": 768,
+          "height": 512
+        },
+        "full": {
+          "url": "https://dl.airtable.com/PBGHOS9C1GDnJbnWrgwk_full_okcupid-social.jpg",
+          "width": 3000,
+          "height": 2001
+        }
+      }
+    }
+  ],
+  "support": [
+    {
+      "link": "https://www.okcupid.com/support",
+      "text": "Help Center"
+    },
+    {
+      "link": "https://www.okcupid.com/feedback",
+      "text": "Contact"
+    },
+    {
+      "email": "privacy@okcupid.com"
+    }
+  ],
+  "logo": "okcupid/LOGO.png",
+  "instructions": [
+    {
+      "header": "Delete Account",
+      "title": "How To Delete Your OkCupid Account",
+      "id": "delete-account",
+      "link": "okcupid/delete-account",
+      "before": "You can Delete your Account from any device. It’s important to note that if you delete your OkCupid Account the deletion cannot be undone.  If you think you want to return in the future go through the steps and use the disable option. ",
+      "action": {
+        "text": "Delete",
+        "link": " https://www.okcupid.com/settings"
+      },
+      "qnAnswers": [
+        {
+          "question": "What happens if I delete my account?",
+          "answer": "You will lose your information and not be able to get it back. However, if you  decide you want a new account, you will be able to use the same email address to start a new OkCupid Account.",
+          "createdAt": "July 29th 2018"
+        },
+        {
+          "question": "What happens if I disable my account?",
+          "answer": "If you disable your account you will still be able to get all your old information, pictures, and messages back if you want in the future.  Your account will appear deleted but it will be reactivated and all the data will be recovered when you log back in.",
+          "createdAt": "July 29th 2018"
+        }
+      ],
+      "thingsToRemember": [
+        "If you choose the Delete option, you will loose your information and not be able to get it back.  \n",
+        "However, if you do Delete your account, and then decide you want a new account, you will be able to use the same email address to start a new OkCupid Account",
+        "If you disable your account you will still be able to get all your old information, pictures, and messages back if you want in the future.",
+        "Disabling your account is the same as deleting the account.  Essentially, your account will appear deleted but it will be reactivated and all the data will be recovered if you log back in."
+      ],
+      "ios": {
+        "steps": [
+          "Open OkCupid App",
+          "Tap Profile",
+          "Tap Settings Gear",
+          "Tap Disable your Account",
+          "Next you will receive a message asking what you can do to make OkCupid better",
+          "Swipe Right to Continue",
+          "Swipe Left to Continue",
+          "Swipe Left when asked if you joined to see who is available",
+          "Swipe Left when asked if you want to browse your matches and try again",
+          "Now you can choose Disable or Delete. To continue with Deletion choose Delete Account",
+          "Tap Confirm to finalize deletion"
+        ],
+        "slides": [
+          {
+            "alt": "OkCupid-Delete Account from iOS. Step 1: Open OkCupid App",
+            "title": "OkCupid App",
+            "url": "okcupid/slides/1OKCupidIOSDelete.png"
+          },
+          {
+            "alt": "OkCupid-Delete Account from iOS. Step 2: Tap Profile",
+            "title": "Profile",
+            "url": "okcupid/slides/2OKCupidIOSDelete.png"
+          },
+          {
+            "alt": "OkCupid-Delete Account from iOS. Step 3: Tap Settings Gear",
+            "title": "Settings Gear",
+            "url": "okcupid/slides/3OKCupidIOSDelete.png"
+          },
+          {
+            "alt": "OkCupid-Delete Account from iOS. Step 4: Tap Disable your Account",
+            "title": "Disable",
+            "url": "okcupid/slides/4OKCupidIOSDelete.png"
+          },
+          {
+            "alt": "OkCupid-Delete Account from iOS. Step 5: Next you will receive a message asking what you can do to make OkCupid better",
+            "title": "Continue",
+            "url": "okcupid/slides/5OKCupidIOSDelete.png"
+          },
+          {
+            "alt": "OkCupid-Delete Account from iOS. Step 6: Swipe Right to Continue",
+            "title": "Swipe Right",
+            "url": "okcupid/slides/6OKCupidIOSDelete.png"
+          },
+          {
+            "alt": "OkCupid-Delete Account from iOS. Step 7: Swipe Left to Continue",
+            "title": "Swipe Left",
+            "url": "okcupid/slides/7OKCupidIOSDelete.png"
+          },
+          {
+            "alt": "OkCupid-Delete Account from iOS. Step 8: Swipe Left when asked if you joined to see who is available",
+            "title": "Swipe Left",
+            "url": "okcupid/slides/8OKCupidIOSDelete.png"
+          },
+          {
+            "alt": "OkCupid-Delete Account from iOS. Step 9: Swipe Left when asked if you want to browse your matches and try again",
+            "title": "Swipe Left",
+            "url": "okcupid/slides/9OKCupidIOSDelete.png"
+          },
+          {
+            "alt": "OkCupid-Delete Account from iOS. Step 10: Now you can choose Disable or Delete. To continue with Deletion choose Delete Account",
+            "title": "Delete Account",
+            "url": "okcupid/slides/10OKCupidIOSDelete.png"
+          },
+          {
+            "alt": "OkCupid-Delete Account from iOS. Step 11: Tap Confirm to finalize deletion",
+            "title": "Confirm",
+            "url": "okcupid/slides/11OKCupidIOSDelete.png"
+          }
+        ]
+      },
+      "website": {
+        "steps": [
+          "[Go to the OkCupid Website](https://www.okcupid.com). If you're already logged in, doing so will open your OkCupid home page",
+          "Click the Profile Icon and Click Settings",
+          "Click Account",
+          "Scroll Down and Click Go Here to Disable Account ",
+          "Click Delete Account to continue Deletion or Disable Account to Pause your Account",
+          "Choose a Reason for Deletion then Click Delete"
+        ],
+        "slides": [
+          {
+            "alt": "OkCupid-Delete Account from Website. Step 1: [Go to the OkCupid Website](https://www.okcupid.com). If you're already logged in, doing so will open your OkCupid home page",
+            "title": "Login",
+            "url": "okcupid/slides/1OKCupidSiteDelete.png"
+          },
+          {
+            "alt": "OkCupid-Delete Account from Website. Step 2: Click the Profile Icon and Click Settings",
+            "title": "Profile Icon and Settings",
+            "url": "okcupid/slides/2OKCupidSiteDelete.png"
+          },
+          {
+            "alt": "OkCupid-Delete Account from Website. Step 3: Click Account",
+            "title": "Account",
+            "url": "okcupid/slides/3OKCupidSiteDelete.png"
+          },
+          {
+            "alt": "OkCupid-Delete Account from Website. Step 4: Scroll Down and Click Go Here to Disable Account ",
+            "title": "Disable Account",
+            "url": "okcupid/slides/4OKCupidSiteDelete.png"
+          },
+          {
+            "alt": "OkCupid-Delete Account from Website. Step 5: Click Delete Account to continue Deletion or Disable Account to Pause your Account",
+            "title": "Delete Account",
+            "url": "okcupid/slides/5OKCupidSiteDelete.png"
+          },
+          {
+            "alt": "OkCupid-Delete Account from Website. Step 6: Choose a Reason for Deletion then Click Delete",
+            "title": "Delete",
+            "url": "okcupid/slides/6OKCupidSiteDelete.png"
+          }
+        ]
+      }
+    }
+  ]
+}

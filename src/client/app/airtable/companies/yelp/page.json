@@ -1,0 +1,84 @@
+{
+  "name": "Yelp",
+  "top_app": false,
+  "delete": "https://www.yelp.com/support/contact/account_closure",
+  "social_image": [
+    {
+      "id": "attZ80TFb4WGjrdZG",
+      "url": "https://dl.airtable.com/1wYWqKDZSwOuYzw6hZZV_socialmedia-yelp.jpg",
+      "filename": "socialmedia-yelp.jpg",
+      "size": 75507,
+      "type": "image/jpeg",
+      "thumbnails": {
+        "small": {
+          "url": "https://dl.airtable.com/BTW39ipVTuakC3EaYI8e_small_socialmedia-yelp.jpg",
+          "width": 17,
+          "height": 36
+        },
+        "large": {
+          "url": "https://dl.airtable.com/urN7hbYQeGBKBNmnMEIJ_large_socialmedia-yelp.jpg",
+          "width": 460,
+          "height": 996
+        },
+        "full": {
+          "url": "https://dl.airtable.com/h6Y01YNpQb6r5FP5WCt1_full_socialmedia-yelp.jpg",
+          "width": 460,
+          "height": 996
+        }
+      }
+    }
+  ],
+  "support": [
+    {
+      "link": "https://www.yelp-support.com/?l=en_US",
+      "text": "Help Center"
+    },
+    {
+      "phone": "(877) 767-9357"
+    }
+  ],
+  "logo": "yelp/logo.jpg",
+  "instructions": [
+    {
+      "header": "Delete Account",
+      "title": "How To Delete Your Yelp Account",
+      "id": "delete-account",
+      "link": "yelp/delete-account",
+      "before": "Deleting your Yelp account is easy.  All you need to do is click on the delete link below from your computer browser. ",
+      "action": {
+        "text": "Delete",
+        "link": "https://www.yelp.com/support/contact/account_closure"
+      },
+      "qnAnswers": [
+        {
+          "question": "How do I delete my Yelp Business Account?",
+          "answer": "You will need to contact Yelp Customer Service about cancelling ads and closing your business account.  [Click here for more information] (https://www.yelp-support.com/article/How-do-I-close-my-account?l=en_US).",
+          "createdAt": "August 1st 2018"
+        },
+        {
+          "question": "I forgot my Yelp password.  What do I do?",
+          "answer": "[Click here for more information on how to reset your password] (https://www.yelp-support.com/article/How-do-I-change-the-password-for-my-user-account?l=en_US)",
+          "createdAt": "August 1st 2018"
+        }
+      ],
+      "website": {
+        "steps": [
+          "[Click on the Yelp Delete Link] (https://www.yelp.com/support/contact/account_closure).  Type a Deletion Request and Click Send.",
+          "You will receive an email confirmation.  Click on the link in your email to confirm deletion. "
+        ],
+        "slides": [
+          {
+            "alt": "Yelp-Delete Account from Website. Step 1: [Click on the Yelp Delete Link] (https://www.yelp.com/support/contact/account_closure).  Type a Deletion Request and Click Send.",
+            "title": "Delete Link",
+            "url": "yelp/slides/450_1YelpSend.jpg"
+          },
+          {
+            "alt": "Yelp-Delete Account from Website. Step 2: You will receive an email confirmation.  Click on the link in your email to confirm deletion. ",
+            "title": "Confirmation",
+            "url": "yelp/slides/451_2DoNothing.png"
+          }
+        ]
+      }
+    }
+  ]
+}

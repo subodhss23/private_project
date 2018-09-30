@@ -1,0 +1,156 @@
+{
+  "name": "Uber",
+  "top_app": false,
+  "delete": "https://help.uber.com/h/24010fe7-7a67-4ee5-9938-c734000b144a",
+  "social_image": [
+    {
+      "id": "attIjkSpA9C2GBvZ8",
+      "url": "https://dl.airtable.com/7vz1e3jTS25NlkdEbFiF_socialmedia-uber.jpg",
+      "filename": "socialmedia-uber.jpg",
+      "size": 41520,
+      "type": "image/jpeg",
+      "thumbnails": {
+        "small": {
+          "url": "https://dl.airtable.com/AOY8VrHTmaEyXlJwxgk1_small_socialmedia-uber.jpg",
+          "width": 20,
+          "height": 36
+        },
+        "large": {
+          "url": "https://dl.airtable.com/LA047crrQAPWMJfWwLKN_large_socialmedia-uber.jpg",
+          "width": 460,
+          "height": 818
+        },
+        "full": {
+          "url": "https://dl.airtable.com/452oB11CSYCiY7UW1YpY_full_socialmedia-uber.jpg",
+          "width": 460,
+          "height": 818
+        }
+      }
+    }
+  ],
+  "support": [
+    {
+      "link": "https://help.uber.com/",
+      "text": "Help Center"
+    },
+    {
+      "phone": "800 101 3611 "
+    }
+  ],
+  "logo": "uber/logo.jpg",
+  "instructions": [
+    {
+      "header": "Delete Account",
+      "title": "How To Delete Your Uber Account ",
+      "id": "delete-account",
+      "link": "uber/delete-account",
+      "before": "There are two Options for Deleting your Uber Account. You can either Delete your account from within the Mobile App or Send a Message to Customer Service  from the Uber Website.  Both options will permanently delete your account. ",
+      "action": {
+        "text": "Delete",
+        "link": "https://help.uber.com/h/24010fe7-7a67-4ee5-9938-c734000b144a"
+      },
+      "qnAnswers": [
+        {
+          "question": "What happens when I delete my account?",
+          "answer": "If you request to delete your Uber account, it will be immediately deactivated. After 30 days, your account will be permanently deleted. Deleting your account will also permanently remove any credit, promotions, or rewards linked to your account. Please note, if you decide to keep your account, you can restore it within 30 days of deactivation by signing in to the app.",
+          "createdAt": "August 10th 2018"
+        },
+        {
+          "question": "I forgot my password.  Can I still delete my account?",
+          "answer": "Yes and No. If you are unable to reset your password or access your account please get in touch with Uber at Accounts and Payments.  There you will be able to receive help from Customer Service to recover your password. [Click here] (https://help.uber.com/h/53cf8809-a0fc-4856-8706-de637266d4f3) for more information.  Or you can [Click here] (https://auth.uber.com/login/forgot-password) to navigate to Ubers forgotten password link. ",
+          "createdAt": "August 11th 2018"
+        }
+      ],
+      "ios": {
+        "steps": [
+          "Tap Uber App",
+          "Tap Three Bars Top Right",
+          "Tap Settings",
+          "Tap Privacy",
+          "Tap Delete My Account",
+          "Enter Password and Click Verify",
+          "Tap Continue",
+          "Tap Prefer Not To Say",
+          "Tap Delete",
+          "This is the Confirmation Message once your Account is Deleted"
+        ],
+        "slides": [
+          {
+            "alt": "Uber-Delete Account from iOS. Step 1: Tap Uber App",
+            "title": "Uber App",
+            "url": "uber/slides/514_1UBER.jpg"
+          },
+          {
+            "alt": "Uber-Delete Account from iOS. Step 2: Tap Three Bars Top Right",
+            "title": "Three Bars",
+            "url": "uber/slides/515_2threebarstopleft.jpg"
+          },
+          {
+            "alt": "Uber-Delete Account from iOS. Step 3: Tap Settings",
+            "title": "Settings",
+            "url": "uber/slides/516_3TapSetting.jpg"
+          },
+          {
+            "alt": "Uber-Delete Account from iOS. Step 4: Tap Privacy",
+            "title": "Privacy",
+            "url": "uber/slides/517_4Privacy.jpg"
+          },
+          {
+            "alt": "Uber-Delete Account from iOS. Step 5: Tap Delete My Account",
+            "title": "Delete My Account",
+            "url": "uber/slides/518_5deletemyaccount.jpg"
+          },
+          {
+            "alt": "Uber-Delete Account from iOS. Step 6: Enter Password and Click Verify",
+            "title": "Verify Password",
+            "url": "uber/slides/519_6Veryify.jpg"
+          },
+          {
+            "alt": "Uber-Delete Account from iOS. Step 7: Tap Continue",
+            "title": "Continue",
+            "url": "uber/slides/520_7Continue.jpg"
+          },
+          {
+            "alt": "Uber-Delete Account from iOS. Step 8: Tap Prefer Not To Say",
+            "title": "Prefer Not To Say",
+            "url": "uber/slides/521_8Prefernottosay.jpg"
+          },
+          {
+            "alt": "Uber-Delete Account from iOS. Step 9: Tap Delete",
+            "title": "Delete",
+            "url": "uber/slides/522_9Delete.jpg"
+          },
+          {
+            "alt": "Uber-Delete Account from iOS. Step 10: This is the Confirmation Message once your Account is Deleted",
+            "title": "Confirmation Message",
+            "url": "uber/slides/523_10AccountDeleted.jpg"
+          }
+        ]
+      },
+      "website": {
+        "steps": [
+          "[Click here] (https://help.uber.com/h/24010fe7-7a67-4ee5-9938-c734000b144a) for the Uber Delete Link. Then Scroll down to the bottom of the page. ",
+          "Type Yes under 'Do you wish to delete your account' and then Choose a Reason for Deletion",
+          "Type a Deletion Request and then Click Submit"
+        ],
+        "slides": [
+          {
+            "alt": "Uber-Delete Account from Website. Step 1: [Click here] (https://help.uber.com/h/24010fe7-7a67-4ee5-9938-c734000b144a) for the Uber Delete Link. Then Scroll down to the bottom of the page. ",
+            "title": "Delete Link",
+            "url": "uber/slides/511_1TypeYES.jpg"
+          },
+          {
+            "alt": "Uber-Delete Account from Website. Step 2: Type Yes under 'Do you wish to delete your account' and then Choose a Reason for Deletion",
+            "title": "Reason for Deletion",
+            "url": "uber/slides/512_2ChooseAReasonforDeletion.jpg"
+          },
+          {
+            "alt": "Uber-Delete Account from Website. Step 3: Type a Deletion Request and then Click Submit",
+            "title": "Deletion Request",
+            "url": "uber/slides/513_3Submit.jpg"
+          }
+        ]
+      }
+    }
+  ]
+}

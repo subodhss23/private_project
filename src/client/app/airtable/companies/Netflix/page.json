@@ -1,0 +1,148 @@
+{
+  "name": "Netflix",
+  "top_app": false,
+  "delete": "https://www.netflix.com/CancelPlan",
+  "social_image": [
+    {
+      "id": "att2v6QJq7qzJhgNH",
+      "url": "https://dl.airtable.com/a2eOwAvLQ3u2c2gtvVOW_netflix-social.jpg",
+      "filename": "netflix-social.jpg",
+      "size": 71434,
+      "type": "image/jpeg",
+      "thumbnails": {
+        "small": {
+          "url": "https://dl.airtable.com/jUdtVYdTcq8crOh6hiAi_small_netflix-social.jpg",
+          "width": 64,
+          "height": 36
+        },
+        "large": {
+          "url": "https://dl.airtable.com/9zzB0cCAS0q8ZICJWX22_large_netflix-social.jpg",
+          "width": 910,
+          "height": 512
+        },
+        "full": {
+          "url": "https://dl.airtable.com/Tm9n6yGvSGS3XgLP8hUy_full_netflix-social.jpg",
+          "width": 2048,
+          "height": 1152
+        }
+      }
+    }
+  ],
+  "support": [
+    {
+      "link": "https://help.netflix.com/en",
+      "text": "Help Center"
+    },
+    {
+      "email": "privacy@netflix.com"
+    },
+    {
+      "phone": "(866) 579-7172"
+    }
+  ],
+  "logo": "netflix/logo.jpg",
+  "instructions": [
+    {
+      "header": "Delete Account",
+      "title": "How To Delete Your Netflix Account",
+      "id": "delete-account",
+      "link": "netflix/delete-account",
+      "before": "You can cancel your Netflix by Desktop or Mobile App. If you cancel your account before your current billing period expires, Netflix will delete your account at the end of the period, unless you expressly request earlier deletion.",
+      "after": "Its Netflix standard practice to automatically delete Netflix accounts that remain cancelled for more than 10 months. To request the earlier deletion of your cancelled Netflix account, please contact privacy@netflix.com from the email address associated with the account.",
+      "action": {
+        "text": "Delete",
+        "link": "https://www.netflix.com/CancelPlan"
+      },
+      "qnAnswers": [
+        {
+          "question": "Is cancelling the same as deleting Netflix account?",
+          "answer": "The cancellation is really like a deactivation. You cannot really delete all the info Netflix has from you like ratings, reviews, etc., that’s all in a folder for them in creating recommendations. It is their standard practice to automatically delete Netflix accounts that remain cancelled for more than 10 months. To request the earlier deletion of your cancelled Netflix account, contact **privacy@netflix.com** from the email address associated with the account. [Click here for more on delete](https://help.netflix.com/en/node/100625)",
+          "createdAt": "July 13th 2018"
+        },
+        {
+          "question": "I pay for Netflix via Itunes or Google Play. What happens to my subscription?",
+          "answer": "If your Netflix account is paid via iTunes or Google Play it can only be deleted when your billing period expires. Also, contact iTunes or Google Play for support regarding payments, and changing or canceling your subscription.",
+          "createdAt": "July 13th 2018"
+        }
+      ],
+      "thingsToRemember": [
+        "The cancellation is really like a deactivation. You cannot really delete all the info Netflix has from you like ratings, reviews, etc., that’s all in a folder for them in creating recommendations.",
+        "You can restart your membership at anytime, but your viewing preferences will only be saved for 10 months.",
+        "If your Netflix account is paid via iTunes or Google Play it can only be deleted when your billing period expires.",
+        "If you pay for your Netflix membership through iTunes or Google Play, please contact iTunes or Google Play for support regarding payments, and changing or canceling your subscription."
+      ],
+      "website": {
+        "steps": [
+          "Go to the Netflix Website. If you're already logged in, doing so will open your Netflix home page",
+          "Click Profile on Top Right",
+          "Click Account",
+          "Click Cancel Membership",
+          "Click Finish Cancellation"
+        ],
+        "slides": [
+          {
+            "alt": "Netflix-Delete Account from Website. Step 1: Go to the Netflix Website. If you're already logged in, doing so will open your Netflix home page",
+            "title": "Login",
+            "url": "netflix/slides/1NetflixSiteDelete.png"
+          },
+          {
+            "alt": "Netflix-Delete Account from Website. Step 2: Click Profile on Top Right",
+            "title": "Profile",
+            "url": "netflix/slides/2NetflixSiteDelete.png"
+          },
+          {
+            "alt": "Netflix-Delete Account from Website. Step 3: Click Account",
+            "title": "Account",
+            "url": "netflix/slides/3NetflixSiteDelete.png"
+          },
+          {
+            "alt": "Netflix-Delete Account from Website. Step 4: Click Cancel Membership",
+            "title": "Cancel Membership",
+            "url": "netflix/slides/4NetflixSiteDelete.png"
+          },
+          {
+            "alt": "Netflix-Delete Account from Website. Step 5: Click Finish Cancellation",
+            "title": "Finish Cancellation",
+            "url": "netflix/slides/5NetflixSiteDelete.png"
+          }
+        ]
+      },
+      "ios": {
+        "steps": [
+          "Open Netflix App",
+          "Tap the Three Bars on the Bottom Right",
+          "Tap Account",
+          "Scroll Down and Tap Cancel Membership",
+          "Tap Finish Cancellation"
+        ],
+        "slides": [
+          {
+            "alt": "Netflix-Delete Account from iOS. Step 1: Open Netflix App",
+            "title": "Netflix App",
+            "url": "netflix/slides/1NetflixIOSDelete.png"
+          },
+          {
+            "alt": "Netflix-Delete Account from iOS. Step 2: Tap the Three Bars on the Bottom Right",
+            "title": "Three Bars on Bottom Right",
+            "url": "netflix/slides/2NetflixIOSDelete.png"
+          },
+          {
+            "alt": "Netflix-Delete Account from iOS. Step 3: Tap Account",
+            "title": "Account",
+            "url": "netflix/slides/3NetfilxIOSDelete.png"
+          },
+          {
+            "alt": "Netflix-Delete Account from iOS. Step 4: Scroll Down and Tap Cancel Membership",
+            "title": "Scroll Down and Tap Cancel Membership",
+            "url": "netflix/slides/4NetflixIOSDelete.png"
+          },
+          {
+            "alt": "Netflix-Delete Account from iOS. Step 5: Tap Finish Cancellation",
+            "title": "Finish Cancellation",
+            "url": "netflix/slides/5NetflixIOSDelete.png"
+          }
+        ]
+      }
+    }
+  ]
+}

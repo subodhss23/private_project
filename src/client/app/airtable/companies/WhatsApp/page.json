@@ -1,0 +1,113 @@
+{
+  "name": "WhatsApp",
+  "top_app": false,
+  "social_image": [
+    {
+      "id": "attOIMrmCENptWSyc",
+      "url": "https://dl.airtable.com/rDQBrmpVR0mzfVMj26aq_whatsapp-social.png",
+      "filename": "whatsapp-social.png",
+      "size": 439574,
+      "type": "image/png",
+      "thumbnails": {
+        "small": {
+          "url": "https://dl.airtable.com/ulKDRxlnRwe5mH7v8sU3_small_whatsapp-social.png",
+          "width": 62,
+          "height": 36
+        },
+        "large": {
+          "url": "https://dl.airtable.com/1C5tbRoSLiR4JulsZQjw_large_whatsapp-social.png",
+          "width": 881,
+          "height": 512
+        },
+        "full": {
+          "url": "https://dl.airtable.com/HS8j5tjTve8I0FpNTw1g_full_whatsapp-social.png",
+          "width": 2667,
+          "height": 1550
+        }
+      }
+    }
+  ],
+  "support": [
+    {
+      "link": "https://faq.whatsapp.com/en_US/",
+      "text": "Help Center"
+    },
+    {
+      "email": "support@whatsapp.com"
+    },
+    {
+      "phone": "1-855-770-7790"
+    }
+  ],
+  "logo": "whatsapp/logo.jpg",
+  "instructions": [
+    {
+      "header": "Delete Account",
+      "title": "How To Delete Your WhatsApp Account",
+      "id": "delete-account",
+      "link": "whatsapp/delete-account",
+      "before": "In order to Delete your WhatsApp Account, you must log onto the App from a mobile device.  You cannot delete the App from a computer.  ",
+      "after": "Remember, deletion is an irreversible process.  Your account will be gone and you can never get it back!",
+      "qnAnswers": [
+        {
+          "question": "What happens when I delete my WhatsApp account?",
+          "answer": "Deleting your account will delete your account from WhatsApp, erase your message history, delete you from all of your WhatsApp groups and delete your Google Drive backup.  However,  deletion does not affect the information other users have relating to you, such as their copy of the messages you sent them.  ",
+          "createdAt": "July 29th 2018"
+        },
+        {
+          "question": "Once I initiate Deletion how long will it take for my account to actually be deleted?",
+          "answer": "Not long. It may take up to 90 days to delete data stored in backup systems, but,  your information will not be accessible on WhatsApp during this time.",
+          "createdAt": "July 29th 2018"
+        },
+        {
+          "question": "Is all my personal information removed from the WhatApp database when I delete my account?",
+          "answer": "Yes and No. Copies of some material (e.g., log records) may remain in the WhatsApp database but are disassociated from personal identifiers.  Plus, deleting your WhatsApp Account means your personal information shared from WhatsApp with the other Facebook Companies will also be deleted.",
+          "createdAt": "July 29th 2018"
+        }
+      ],
+      "thingsToRemember": [
+        "Deleting your account will delete your account from WhatsApp, erase your message history, delete you from all of your WhatsApp groups and delete your Google Drive backup.",
+        "Copies of some material (e.g., log records) may remain in the WhatsApp database but are disassociated from personal identifiers.",
+        "It may take up to 90 days to delete data stored in backup systems. Your information isn't accessible on WhatsApp during this time.",
+        "Deletion does not affect the information other users have relating to you, such as their copy of the messages you sent them.",
+        "Deleting your WhatsApp Account means your personal information shared with the other Facebook Companies will also be deleted."
+      ],
+      "ios": {
+        "steps": [
+          "Open the WhatsApp App",
+          "Tap the Settings Gear on the Bottom Right",
+          "Tap Account",
+          "Tap Delete My Account",
+          "Tap Delete My Account"
+        ],
+        "slides": [
+          {
+            "alt": "WhatsApp-Delete Account from iOS. Step 1: Open the WhatsApp App",
+            "title": "WhatsApp",
+            "url": "whatsapp/slides/1WhatsAppIOS.png"
+          },
+          {
+            "alt": "WhatsApp-Delete Account from iOS. Step 2: Tap the Settings Gear on the Bottom Right",
+            "title": "Settings Gear",
+            "url": "whatsapp/slides/2WhatsAppIOS.png"
+          },
+          {
+            "alt": "WhatsApp-Delete Account from iOS. Step 3: Tap Account",
+            "title": "Account",
+            "url": "whatsapp/slides/3WhatsAppIOS.png"
+          },
+          {
+            "alt": "WhatsApp-Delete Account from iOS. Step 4: Tap Delete My Account",
+            "title": "Delete",
+            "url": "whatsapp/slides/4WhatsAppIOS.png"
+          },
+          {
+            "alt": "WhatsApp-Delete Account from iOS. Step 5: Tap Delete My Account",
+            "title": "Delete",
+            "url": "whatsapp/slides/5WhatsAppIOS.png"
+          }
+        ]
+      }
+    }
+  ]
+}

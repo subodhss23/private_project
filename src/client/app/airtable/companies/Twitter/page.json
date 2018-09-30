@@ -1,0 +1,121 @@
+{
+  "name": "Twitter",
+  "top_app": true,
+  "breaches": 330,
+  "delete": "https://twitter.com/settings/accounts/confirm_deactivation",
+  "social_image": [
+    {
+      "id": "attx4oefZdSRs1ehH",
+      "url": "https://dl.airtable.com/AvSHhOxMSuSQbIB3OYto_twitter-social.jpg",
+      "filename": "twitter-social.jpg",
+      "size": 644448,
+      "type": "image/jpeg",
+      "thumbnails": {
+        "small": {
+          "url": "https://dl.airtable.com/zuc7XdVRSe23eTsVcr5x_small_twitter-social.jpg",
+          "width": 54,
+          "height": 36
+        },
+        "large": {
+          "url": "https://dl.airtable.com/MQKFGLIRyKDeAvI1uzpm_large_twitter-social.jpg",
+          "width": 768,
+          "height": 512
+        },
+        "full": {
+          "url": "https://dl.airtable.com/K5TkvZ53RsuHb5tKr1CM_full_twitter-social.jpg",
+          "width": 2500,
+          "height": 1666
+        }
+      }
+    }
+  ],
+  "support": [
+    {
+      "link": "https://help.twitter.com/en",
+      "text": "Help Center"
+    },
+    {
+      "phone": "(415) 222-9670"
+    }
+  ],
+  "logo": "twitter/Logo.png",
+  "instructions": [
+    {
+      "header": "Delete Account",
+      "title": "How To Delete Your Twitter Account",
+      "id": "delete-account",
+      "link": "twitter/delete-account",
+      "before": "You can not delete your Twitter account from a mobile app.  You must log onto the Twitter site from a web browser. ",
+      "after": "Remember, Twitter collects everything from the content of a tweet to the time, time zone and type of device from which it was sent. And, Twitter can share any/all information collected with third parties. ",
+      "action": {
+        "text": "Delete",
+        "link": "https://twitter.com/settings/accounts/confirm_deactivation"
+      },
+      "qnAnswers": [
+        {
+          "question": "Once I hit deactivate how long does it take for my account to be deleted?",
+          "answer": "Twitter doesn't immediately delete your account when you Deactivate it. The site holds your data for a period of 30 days while it begins to remove your data from its systems. ",
+          "createdAt": "July 28th 2018"
+        },
+        {
+          "question": "If I delete my account by accident, is there a way to restore my information and reactivate my account?",
+          "answer": "Yes.  After Deletion twitter offers a 30 day grace period.  During this time you're given a chance to reactivate your account if you'd rather not get rid of it. All you have to do is log back in.  If it's past 30 days then the answer is no.  Your data will be gone and you cannot reactivate. ",
+          "createdAt": "July 28th 2018"
+        },
+        {
+          "question": "Will my Tweets be deleted from the search engine after I delete my account?",
+          "answer": "Probably not.  Twitter states that if you're deleting your account for the purpose of purging your tweets from a search engine, it may not work. Search engines index information and don't necessarily \"check back in\" to see if an account has been deleted.",
+          "createdAt": "July 28th 2018"
+        },
+        {
+          "question": "Can open up a new Twitter account with the same email address?",
+          "answer": "No.  If you deactivate your account and do not change your email then you will not be able to open up a new account with the same email address.  You can, however,  make your username or email address open for reuse before deactivating your account. To do this, you must first change the content in your profile and then confirm the change prior to deactivation.",
+          "createdAt": "July 28th 2018"
+        }
+      ],
+      "thingsToRemember": [
+        "Twitter doesn't immediately delete your account when you Deactivate it. The site holds your data for a period of 30 days while it begins to remove your data from its systems.",
+        "The 30-day period also acts as a grace period of sorts — you're given a chance to reactivate your account if you'd rather not get rid of it. If you ever want to reactivate your account simply log in at any time within the 30-day period.",
+        "If you deactivate your account and do not change your email then you will not be able to open up a new account with the same email address. ",
+        "You can, however,  make your username or email address open for reuse before deactivating your account. To do this, you must first change the content in your profile and then confirm the change prior to deactivation.",
+        "If you're deleting your account for the purpose of purging your tweets from a search engine, it may not work. Search engines index information and don't necessarily \"check back in\" to see if an account has been deleted."
+      ],
+      "website": {
+        "steps": [
+          "[Go to the Twitter Website](https://www.twitter.com). If you're already logged in, doing so will open your Twitter home page.",
+          "Open the Avatar and Click Settings and Privacy",
+          "Click Account",
+          "Click Deactivate my Account",
+          "Confirm by Clicking Deactivate"
+        ],
+        "slides": [
+          {
+            "alt": "Twitter-Delete Account from Website. Step 1: [Go to the Twitter Website](https://www.twitter.com). If you're already logged in, doing so will open your Twitter home page.",
+            "title": "Login",
+            "url": "twitter/slides/1TwitterSiteDelete.png"
+          },
+          {
+            "alt": "Twitter-Delete Account from Website. Step 2: Open the Avatar and Click Settings and Privacy",
+            "title": "Avatar and Settings and Privacy",
+            "url": "twitter/slides/2TwitterSiteDelete.png"
+          },
+          {
+            "alt": "Twitter-Delete Account from Website. Step 3: Click Account",
+            "title": "Account",
+            "url": "twitter/slides/3TwitterSiteDelete.png"
+          },
+          {
+            "alt": "Twitter-Delete Account from Website. Step 4: Click Deactivate my Account",
+            "title": "Deactivate my Account",
+            "url": "twitter/slides/4TwitterSiteDelete.png"
+          },
+          {
+            "alt": "Twitter-Delete Account from Website. Step 5: Confirm by Clicking Deactivate",
+            "title": "Confirm Deactivation",
+            "url": "twitter/slides/5TwitterSiteDelete.png"
+          }
+        ]
+      }
+    }
+  ]
+}

@@ -1,0 +1,109 @@
+{
+  "name": "Etsy",
+  "top_app": false,
+  "delete": "https://www.etsy.com/your/account?ref=hdr_user_menu",
+  "social_image": [
+    {
+      "id": "attLlgtxUH7oMYO4y",
+      "url": "https://dl.airtable.com/wiGKvhCzRY2vpLOFH0uB_socialmedia-etsy.jpg",
+      "filename": "socialmedia-etsy.jpg",
+      "size": 55182,
+      "type": "image/jpeg",
+      "thumbnails": {
+        "small": {
+          "url": "https://dl.airtable.com/Kw5EHfgSGyQUoDrxXA1z_small_socialmedia-etsy.jpg",
+          "width": 17,
+          "height": 36
+        },
+        "large": {
+          "url": "https://dl.airtable.com/4KMRCpQLTjW0PmOBeimk_large_socialmedia-etsy.jpg",
+          "width": 512,
+          "height": 1108
+        },
+        "full": {
+          "url": "https://dl.airtable.com/ouSRMjPqSKWyTFyCg73D_full_socialmedia-etsy.jpg",
+          "width": 600,
+          "height": 1299
+        }
+      }
+    }
+  ],
+  "support": [
+    {
+      "link": "https://help.etsy.com/hc/en-us",
+      "text": "Help Center"
+    },
+    {
+      "link": "https://help.etsy.com/hc/en-us/requests/new?ticket_form_id=360000108008",
+      "text": "Contact"
+    },
+    {
+      "email": "dpo@etsy.com"
+    },
+    {
+      "phone": "(718) 855-7956."
+    }
+  ],
+  "logo": "etsy/logo.jpg",
+  "instructions": [
+    {
+      "header": "Delete Account",
+      "title": "How To Delete Your Etsy Account",
+      "id": "delete-account",
+      "link": "etsy/delete-account",
+      "before": "Deleting your Etsy Account is Easy.  Please log onto your account from a computer browser or mobile app and follow the steps for deletion. \n",
+      "action": {
+        "text": "Delete",
+        "link": "https://www.etsy.com/your/account?ref=hdr_user_menu"
+      },
+      "qnAnswers": [
+        {
+          "question": "What happens when I delete my Account?",
+          "answer": "Your information is removed from the system.  Please note that you will not be able to open up a new Etsy Account from the same email address.  If you think you may want to open an account in the future please change or delete your email address prior to deletion. ",
+          "createdAt": "August 24th 2018"
+        },
+        {
+          "question": "I forgot my password.  Can I still delete my account?",
+          "answer": "No. You must be able to log into your account to delete it.  [To Reset your Password Click Here] (https://www.etsy.com/forgot_password.php). ",
+          "createdAt": "August 24th 2018"
+        }
+      ],
+      "website": {
+        "steps": [
+          "[Log on to the Etsy Website] (https://www.etsy.com).  If you're already logged in, doing so will open your Etsy Homepage.",
+          "Click the Profile Icon",
+          "Click Account Settings from the drop down menu",
+          "Scroll Down and Click Close Account",
+          "Type Password and Click Close Account"
+        ],
+        "slides": [
+          {
+            "alt": "Etsy-Delete Account from Website. Step 1: [Log on to the Etsy Website] (https://www.etsy.com).  If you're already logged in, doing so will open your Etsy Homepage.",
+            "title": "Log in",
+            "url": "etsy/slides/591_1Signin.jpg"
+          },
+          {
+            "alt": "Etsy-Delete Account from Website. Step 2: Click the Profile Icon",
+            "title": "Profile",
+            "url": "etsy/slides/597_2Profileiconyou.jpg"
+          },
+          {
+            "alt": "Etsy-Delete Account from Website. Step 3: Click Account Settings from the drop down menu",
+            "title": "Account Settings",
+            "url": "etsy/slides/598_3AccountSttings.jpg"
+          },
+          {
+            "alt": "Etsy-Delete Account from Website. Step 4: Scroll Down and Click Close Account",
+            "title": "Close Account",
+            "url": "etsy/slides/599_4CloseAccount.jpg"
+          },
+          {
+            "alt": "Etsy-Delete Account from Website. Step 5: Type Password and Click Close Account",
+            "title": "Close Account",
+            "url": "etsy/slides/600_5CloseAccount.jpg"
+          }
+        ]
+      }
+    }
+  ]
+}

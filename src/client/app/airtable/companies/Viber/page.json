@@ -1,0 +1,138 @@
+{
+  "name": "Viber",
+  "top_app": false,
+  "social_image": [
+    {
+      "id": "attUOTK3GqDY3DL92",
+      "url": "https://dl.airtable.com/jELwFvQKQRCSETE57ATs_viber-social.jpg",
+      "filename": "viber-social.jpg",
+      "size": 120247,
+      "type": "image/jpeg",
+      "thumbnails": {
+        "small": {
+          "url": "https://dl.airtable.com/eaPavwLkSSeaFl9kghxB_small_viber-social.jpg",
+          "width": 54,
+          "height": 36
+        },
+        "large": {
+          "url": "https://dl.airtable.com/iEq959fWRk2ldfZOftJo_large_viber-social.jpg",
+          "width": 771,
+          "height": 512
+        },
+        "full": {
+          "url": "https://dl.airtable.com/ZIN47VTmRSKqLrJf66WA_full_viber-social.jpg",
+          "width": 1880,
+          "height": 1248
+        }
+      }
+    }
+  ],
+  "support": [
+    {
+      "link": "https://support.viber.com/",
+      "text": "Help Center"
+    },
+    {
+      "email": "‎support@viber.com"
+    },
+    {
+      "phone": "357 9 173967488"
+    }
+  ],
+  "logo": "Viber/logo.jpg",
+  "instructions": [
+    {
+      "header": "Delete Account",
+      "title": "How To Delete Your Viber Account",
+      "id": "delete-account",
+      "link": "viber/delete-account",
+      "before": "If you are using Viber on your computer, you can deactivate it from your desktop, but keep in mind that Viber will still be active on other devices. For complete deletion, you need to deactivate the app from primary device, which is your Phone.\n\n",
+      "after": "Remember, before you complete deletion, please note that just deleting or removing Viber app doesn’t mean you have deleted your account. You actually need to deactivate your Viber account permanently to complete deletion.",
+      "thingsToRemember": [
+        "Once your account is deactivated, there is no way to restore any of your user data. Viber does not store any of your message history and is unable to retrieve lost data",
+        "Just Unistalling the App Does not delete your account. If you download and activate Viber again with the same phone number your basic account info will be restored",
+        "After Deletion, re-registering to Viber with the same mobile phone number will not restore the previous account history",
+        "Don't forget to cancel your Viber Out subscription plan from the store that you purchased it (credit card, app store, other vendor)",
+        "If you wish to use Viber again or with a different number, you can always re-download it for free from the App Store"
+      ],
+      "ios": {
+        "steps": [
+          "Select Viber App",
+          "Click Settings",
+          "Click Account",
+          "Click Deactivate Account",
+          "Enter Phone Number and Click Deactivate"
+        ],
+        "slides": [
+          {
+            "alt": "Viber-Delete Account from iOS. Step 1: Select Viber App",
+            "title": "Select Viber App",
+            "url": "Viber/slides/1ViberIOSDelete.png"
+          },
+          {
+            "alt": "Viber-Delete Account from iOS. Step 2: Click Settings",
+            "title": "Settings",
+            "url": "Viber/slides/2ViberIOSDelete.png"
+          },
+          {
+            "alt": "Viber-Delete Account from iOS. Step 3: Click Account",
+            "title": "Account",
+            "url": "Viber/slides/3ViberIOSDelete.png"
+          },
+          {
+            "alt": "Viber-Delete Account from iOS. Step 4: Click Deactivate Account",
+            "title": "Deactivate Account",
+            "url": "Viber/slides/4ViberIOSDelete.png"
+          },
+          {
+            "alt": "Viber-Delete Account from iOS. Step 5: Enter Phone Number and Click Deactivate",
+            "title": "Enter Phone and Deactivate",
+            "url": "Viber/slides/5ViberIOSDelete.png"
+          }
+        ]
+      },
+      "website": {
+        "steps": [
+          "Open Viber Website",
+          "Click Setting Gear",
+          "Click Settings",
+          "Click Privacy",
+          "Click Deactivate",
+          "Click Deactivate Again"
+        ],
+        "slides": [
+          {
+            "alt": "Viber-Delete Account from Website. Step 1: Open Viber Website",
+            "title": "Viber",
+            "url": "Viber/slides/1ViberSiteDelete.png"
+          },
+          {
+            "alt": "Viber-Delete Account from Website. Step 2: Click Setting Gear",
+            "title": "Settings Gear",
+            "url": "Viber/slides/2ViberSiteDelete.png"
+          },
+          {
+            "alt": "Viber-Delete Account from Website. Step 3: Click Settings",
+            "title": "Settings",
+            "url": "Viber/slides/3ViberSiteDelete.png"
+          },
+          {
+            "alt": "Viber-Delete Account from Website. Step 4: Click Privacy",
+            "title": "Privacy",
+            "url": "Viber/slides/4ViberSiteDelete.png"
+          },
+          {
+            "alt": "Viber-Delete Account from Website. Step 5: Click Deactivate",
+            "title": "Deactivate",
+            "url": "Viber/slides/5ViberSiteDelete.png"
+          },
+          {
+            "alt": "Viber-Delete Account from Website. Step 6: Click Deactivate Again",
+            "title": "Deactivate",
+            "url": "Viber/slides/6ViberSiteDelete.png"
+          }
+        ]
+      }
+    }
+  ]
+}

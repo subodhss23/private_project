@@ -1,0 +1,386 @@
+.slick-slider {
+    max-height: 420px;  
+    max-width: 630px;
+    width: auto;
+    height: auto;
+}
+
+.slick-slider {
+    box-sizing: border-box;
+    -webkit-user-select: none;
+    -moz-user-select: none;
+    -ms-user-select: none;
+    user-select: none;
+    -webkit-touch-callout: none;
+    -khtml-user-select: none;
+    -ms-touch-action: pan-y;
+    touch-action: pan-y;
+    -webkit-tap-highlight-color: transparent;
+}
+
+.slick-slider .slick-list, .slick-slider .slick-track {
+    -ms-transform: translateZ(0);
+    transform: translateZ(0);
+}
+
+.slick-list {
+  overflow: hidden;
+  margin: 0;
+  padding: 0;
+  text-align: center;
+}
+
+.slick-list, .slick-slider {
+    position: relative;
+    display: block;
+}
+
+.slick-slider .slick-list, .slick-slider .slick-track {
+    -ms-transform: translateZ(0);
+    transform: translateZ(0);
+}
+.slick-track {
+    position: relative;
+    top: 0;
+    left: 0;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+.slick-arrow, .slick-arrow:hover {
+    background-color: grey;
+}
+
+.slick-prev {
+    left: -25px;
+}
+
+.slick-next, .slick-prev {
+    font-size: 0;
+    line-height: 0;
+    position: absolute;
+    top: 50%;
+    display: block;
+    padding: 0;
+    -ms-transform: translateY(-50%);
+    transform: translateY(-50%);
+    cursor: pointer;
+    border: none;
+}
+
+.slick-next, .slick-next:focus, .slick-next:hover, .slick-prev, .slick-prev:focus, .slick-prev:hover {
+    color: transparent;
+    outline: none;
+    background: transparent;
+}
+
+.slick-slide {
+    display: none;
+    float: left;
+    height: 100%;
+    min-height: 1px;
+}
+
+.slick-initialized .slick-slide {
+    display: block;
+}
+
+.slick-dots {
+    margin-left: 0;
+}
+
+.slick-dots {
+    position: absolute;
+    bottom: -25px;
+    display: block;
+    width: 100%;
+    padding: 0;
+    margin: 0;
+    list-style: none;
+    text-align: center;
+}
+
+.slick-dots li {
+    position: relative;
+    display: inline-block;
+    margin: 0 5px;
+    padding: 0;
+}
+
+.slick-dots li, .slick-dots li button {
+    width: 20px;
+    height: 20px;
+    cursor: pointer;
+}
+
+.slick-dots li.slick-active button:before {
+    opacity: .75;
+    color: #000;
+}
+
+.slick-dots li button {
+    font-size: 0;
+    line-height: 0;
+    display: block;
+    padding: 5px;
+    color: transparent;
+    border: 0;
+    outline: none;
+    background: transparent;
+}
+
+.slick-dots li button:before {
+    font-family: slick;
+    font-size: 26px;
+    line-height: 20px;
+    position: absolute;
+    top: 0;
+    left: 0;
+    width: 20px;
+    height: 20px;
+    content: "\2022";
+    text-align: center;
+    opacity: .25;
+    color: #000;
+    -webkit-font-smoothing: antialiased;
+    -moz-osx-font-smoothing: grayscale;
+}
+
+.slick-prev {
+    left: 0px; 
+}
+
+.slick-next {
+    right: 0px;
+}
+
+.slick-arrow:hover {
+    color: white;
+    background-color: rgba(0,0,0,0.8);
+}
+
+.slick-arrow {
+    -webkit-user-select: none;
+    -moz-user-select: none;
+    -ms-user-select: none;
+    user-select: none;
+    z-index: 1;
+    cursor: pointer;
+    position: absolute;
+    top: 0;
+    width: auto;
+    padding: 16px;
+    top: 50%;
+    margin-top: -22px;
+    color: white;
+    background-color: rgba(0,0,0,0.8);
+    font-weight: bold;
+    font-size: 18px;
+    border-radius: 0 3px 3px 0;
+}
+
+
+/* http://meyerweb.com/eric/tools/css/reset/ 
+   v2.0 | 20110126
+   License: none (public domain)
+*/
+
+html, body, div, span, applet, object, iframe,
+h1, h2, h3, h4, h5, h6, p, blockquote, pre,
+a, abbr, acronym, address, big, cite, code,
+del, dfn, em, img, ins, kbd, q, s, samp,
+small, strike, strong, sub, sup, tt, var,
+b, u, i, center,
+dl, dt, dd, ol, ul, li,
+fieldset, form, label, legend,
+table, caption, tbody, tfoot, thead, tr, th, td,
+article, aside, canvas, details, embed, 
+figure, figcaption, footer, header, hgroup, 
+menu, nav, output, ruby, section, summary,
+time, mark, audio, video {
+    margin: 0;
+    padding: 0;
+    border: 0;
+    vertical-align: baseline;
+}
+/* HTML5 display-role reset for older browsers */
+article, aside, details, figcaption, figure, 
+footer, header, hgroup, menu, nav, section {
+    display: block;
+}
+body, p {
+    font-family: 'sofia';
+    font-weight: 400;
+    letter-spacing: 0.02em;
+    color: #222E3D;
+    font-size: 16px;
+    line-height: 20px;
+    -moz-font-feature-settings: 'kern';
+    -webkit-font-smoothing: antialiased;
+    -moz-osx-font-smoothing: grayscale;
+}
+ol, ul {
+    list-style: none;
+}
+blockquote, q {
+    quotes: none;
+}
+blockquote:before, blockquote:after,
+q:before, q:after {
+    content: '';
+    content: none;
+}
+table {
+    border-collapse: collapse;
+    border-spacing: 0;
+}
+
+a {
+    color: #222e3d;
+    text-decoration: none;
+}
+
+b {
+    font-family: 'sofia';
+    font-weight: 700;
+}
+
+input, textarea {
+    outline: none;
+    font-family: 'sofia';
+    font-weight: 400;
+    font-size: 16px;
+    letter-spacing: 0.02em;
+    color: #222E3D;
+}
+
+-webkit-input-placeholder {
+    color: #6E6E6E;
+    opacity: 1;
+}
+
+:-ms-input-placeholder { /* Internet Explorer 10-11 */
+    color: #6E6E6E;
+}
+
+::-ms-input-placeholder { /* Microsoft Edge */
+    color: #6E6E6E;
+}
+
+input:focus,
+select:focus,
+textarea:focus,
+button:focus {
+  outline: none;
+}
+
+@font-face {
+  font-family: 'sofia';
+  font-weight: 400;
+  src: url("fonts/sofia_regular.otf") format("opentype");
+}
+
+@font-face {
+  font-family: 'sofia';
+  font-weight: 700;
+  src: url("fonts/sofia_bold.otf") format("opentype");
+}
+
+@font-face {
+  font-family: 'sofia';
+  font-weight: 500;
+  src: url("fonts/sofia_medium.otf") format("opentype");
+}
+
+@font-face {
+  font-family: 'sofia';
+  font-weight: 100;
+  src: url("fonts/sofia_thin.otf") format("opentype");
+}
+
+@font-face {
+  font-family: 'sofia';
+  font-weight: 200;
+  src: url("fonts/sofia_extralight.otf") format("opentype");
+}
+
+@font-face {
+  font-family: 'sofia';
+  font-weight: 300;
+  src: url("fonts/sofia_light.otf") format("opentype");
+}
+
+h1 {
+    font-weight: 700;
+    line-height: 60px;
+    font-size: 50px;
+    letter-spacing: 0.044em;
+}
+
+h2 {
+    font-weight: 700;
+    line-height: 25px;
+    font-size: 20px;
+    letter-spacing: 0.05em;
+}
+
+h3 {
+    font-weight: 700;
+    line-height: 19px;
+    letter-spacing: 0.05em;
+}
+
+
+/* Ract Tabs */
+.react-tabs__tab-list {
+  margin: -25px 0 50px;
+  padding: 0;
+}
+
+.react-tabs__tab {
+  display: inline-block;
+  color: #fff;
+  border: 1px solid transparent;
+  background: #F24848;
+  border-bottom: none;
+  bottom: -1px;
+  position: relative;
+  list-style: none;
+  padding: 12px 22px;
+  cursor: pointer;
+  -webkit-tap-highlight-color: transparent;
+}
+
+.react-tabs__tab--selected {
+  background: #c14636;
+}
+
+.react-tabs__tab--disabled {
+  color: GrayText;
+  cursor: default;
+}
+
+.react-tabs__tab:focus {
+  box-shadow: 0 0 5px hsl(208, 99%, 50%);
+  border-color: hsl(208, 99%, 50%);
+  outline: none;
+}
+
+.react-tabs__tab:focus:after {
+  content: "";
+  position: absolute;
+  height: 5px;
+  left: -4px;
+  right: -4px;
+  bottom: -5px;
+  background: #fff;
+}
+
+.react-tabs__tab-panel {
+  display: none;
+}
+
+.react-tabs__tab-panel--selected {
+  display: block;
+}

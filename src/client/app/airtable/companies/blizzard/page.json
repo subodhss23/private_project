@@ -1,0 +1,83 @@
+{
+  "name": "Blizzard",
+  "top_app": false,
+  "delete": "https://eu.battle.net/support/en/help/product/battlenet/804/807/ticket",
+  "social_image": [
+    {
+      "id": "attBsc114b7JMLz0D",
+      "url": "https://dl.airtable.com/omtVLOoIT1uRijAD3bXR_Socialmedia-blizzard.jpg",
+      "filename": "Socialmedia-blizzard.jpg",
+      "size": 115598,
+      "type": "image/jpeg",
+      "thumbnails": {
+        "small": {
+          "url": "https://dl.airtable.com/SMJGnzIRrS4AJ70VSR6N_small_Socialmedia-blizzard.jpg",
+          "width": 20,
+          "height": 36
+        },
+        "large": {
+          "url": "https://dl.airtable.com/vGhBKCsS8OILnNqpy6jf_large_Socialmedia-blizzard.jpg",
+          "width": 512,
+          "height": 911
+        },
+        "full": {
+          "url": "https://dl.airtable.com/Pm3WoIXOSoK5OfUdIkVB_full_Socialmedia-blizzard.jpg",
+          "width": 600,
+          "height": 1067
+        }
+      }
+    }
+  ],
+  "support": [
+    {
+      "link": "https://eu.battle.net/support/en/",
+      "text": "Help Center"
+    },
+    {
+      "link": "https://eu.battle.net/support/en/help/product/battlenet/804/807/ticket",
+      "text": "Contact"
+    },
+    {
+      "email": "privacy@blizzard.com"
+    },
+    {
+      "phone": "800-592-5499"
+    }
+  ],
+  "logo": "blizzard/logo.jpg",
+  "instructions": [
+    {
+      "header": "Delete Account",
+      "title": "How To Delete Your Blizzard Account",
+      "id": "delete-account",
+      "link": "blizzard/delete-account",
+      "before": "To Delete Your Blizzard Account you have to contact customer service.   You cannot disable the account on your own. You can contact them by **emailing privacy@blizzard.com** or by following the steps below to send a ticket.",
+      "after": "You will receive a confirmation message through your email. ",
+      "qnAnswers": [
+        {
+          "question": "What happens when I delete my Blizzard Account?",
+          "answer": "Your information will be deleted and you will no longer have access to any associated Blizzard entertainment accounts.  A deleted account cannot be recovered. This option should only be used for users wishing to permanently discontinue use of their account and all associated games.",
+          "createdAt": "August 20th 2018"
+        }
+      ],
+      "website": {
+        "steps": [
+          "[Click Here to Contact Customer Service] (https://eu.battle.net/support/en/help/product/battlenet/804/807/ticket).  Type in your Personal Information. ",
+          "Type a Deletion Request and Click Send"
+        ],
+        "slides": [
+          {
+            "alt": "Blizzard-Delete Account from Website. Step 1: [Click Here to Contact Customer Service] (https://eu.battle.net/support/en/help/product/battlenet/804/807/ticket).  Type in your Personal Information. ",
+            "title": "Customer Service",
+            "url": "blizzard/slides/573_1DO NOTION.jpg"
+          },
+          {
+            "alt": "Blizzard-Delete Account from Website. Step 2: Type a Deletion Request and Click Send",
+            "title": "Deletion Request",
+            "url": "blizzard/slides/574_2Continue.jpg"
+          }
+        ]
+      }
+    }
+  ]
+}

@@ -1,0 +1,95 @@
+{
+  "name": "Ancestry",
+  "top_app": false,
+  "support": [
+    {
+      "link": "https://support.ancestry.com/s/",
+      "text": "Help Center"
+    },
+    {
+      "email": "socialsupport@ancestry.com "
+    },
+    {
+      "phone": "1-800-615-6560"
+    }
+  ],
+  "logo": "Ancestry/Logo.jpg",
+  "instructions": [
+    {
+      "header": "Delete Subscription Account",
+      "title": "How To Delete Your Subscription Account From Ancestry",
+      "id": "delete-subscription-account",
+      "link": "ancestry/delete-subscription-account",
+      "before": "If you signed up for a paid subscription account with ancestry.com you must navigate through the website to delete your account.",
+      "after": "Next you will have to delete your Registered Guest Account to finish deleting your entire account. ",
+      "action": {
+        "text": "Delete",
+        "link": "https://www.ancestry.com/cs/offers/cancel "
+      },
+      "thingsToRemember": [
+        "Once your subscription is canceled, you'll still have an account with Ancestry as a registered guest. Registered guest accounts are free and provide you with access to many resources on the site.",
+        "If you don't receive a cancellation email within 30 minutes of canceling your subscription, click your name or username and select Your Account. Make sure the page says your subscription is canceled.",
+        "Unless you delete them, any trees you’ve created in your account will remain on the site whether or not you have a subscription"
+      ],
+      "website": {
+        "steps": [
+          "Go to the Ancestry Website. If you're already logged in, doing so will open your Ancestry home page.",
+          "Click your username in the top-right corner ",
+          "Click Your Account",
+          "Click the Cancel subscription link beneath Subscription Options",
+          "Scroll to the bottom of the page and select a cancellation reason, then click Continue"
+        ],
+        "slides": [
+          {
+            "alt": "Ancestry-Delete Subscription Account from Website. Step 1: Go to the Ancestry Website. If you're already logged in, doing so will open your Ancestry home page.",
+            "title": "Login",
+            "url": "Ancestry/slides/1AncestrySiteDelete.png"
+          },
+          {
+            "alt": "Ancestry-Delete Subscription Account from Website. Step 2: Click your username in the top-right corner ",
+            "title": "Username",
+            "url": "Ancestry/slides/2AncestrySiteDelete.png"
+          },
+          {
+            "alt": "Ancestry-Delete Subscription Account from Website. Step 3: Click Your Account",
+            "title": "Your Account",
+            "url": "Ancestry/slides/3AncestrySiteDelete.png"
+          },
+          {
+            "alt": "Ancestry-Delete Subscription Account from Website. Step 4: Click the Cancel subscription link beneath Subscription Options",
+            "title": "Cancel Subscription",
+            "url": "Ancestry/slides/4AncestrySiteDelete.png"
+          },
+          {
+            "alt": "Ancestry-Delete Subscription Account from Website. Step 5: Scroll to the bottom of the page and select a cancellation reason, then click Continue",
+            "title": "Reason for Cancellation",
+            "url": "Ancestry/slides/5AncestrySiteDelete.png"
+          }
+        ]
+      }
+    },
+    {
+      "header": "Delete Registered Guest Account",
+      "title": "How To Delete Your Registered Guest Account From Ancestry",
+      "id": "delete-registered-guest-account",
+      "link": "ancestry/delete-registered-guest-account",
+      "before": "In order to delete your account you must send an email to socialsupport@ancestry.com requesting the deletion of your Registered guest account from the email address you set your account up on and Ancestry.com will take care of this for you.",
+      "thingsToRemember": [
+        "Account deletion permanently erases all your personal data from the systems, and it will no longer be accessible. ",
+        "Unless you delete them, any trees you’ve created in your account will remain on the site whether or not you have a subscription"
+      ],
+      "website": {
+        "steps": [
+          "Write Email requesting for your Registered Guest Account to be Deleted"
+        ],
+        "slides": [
+          {
+            "alt": "Ancestry-Delete Registered Guest Account from Website. Step 1: Write Email requesting for your Registered Guest Account to be Deleted",
+            "title": "Email Deletion Request",
+            "url": "Ancestry/slides/1AncestryEmailDelete.png"
+          }
+        ]
+      }
+    }
+  ]
+}

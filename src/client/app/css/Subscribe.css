@@ -1,0 +1,65 @@
+.modal-overlay {
+	position: fixed;
+	top: 0;
+	left: 0;
+	right: 0;
+	bottom: 0;
+	background: #252b33;
+	filter: progid:DXImageTransform.Microsoft.Alpha(Opacity=80);
+	opacity: .8;
+	z-index: 100;
+}
+
+.subscribe-modal {
+	position: fixed;
+	background: #fff;
+	width: 642px;
+	height: 520px;
+	top:25%;
+	left: 25%;
+	z-index: 101;
+}
+
+.header {
+	margin-top: 83px;
+}
+
+.header > h1 {
+	text-align: center;
+}
+
+.subscribe-modal > p {
+	margin: 33px 70px;
+	text-align: center;
+}
+
+.line {
+  width: 149px;
+  height: 4px;
+  margin: 23px auto 0px auto;
+  background-color: #F24848;
+}
+
+.contact {
+	text-align: center;
+}
+
+.contact > form > input {
+	width: 315px;
+	height: 44px;
+	border: 1px solid #222E3D;
+	padding-left: 20px;
+}
+
+.contact > form > .submit {
+	width: 338px;
+	padding: 0px;
+	color: #fff;
+	border: none;
+	background-color: #F24848;
+	margin-top: 25px;	
+}
+
+.contact > form > .submit:hover {
+	cursor: pointer;
+}
